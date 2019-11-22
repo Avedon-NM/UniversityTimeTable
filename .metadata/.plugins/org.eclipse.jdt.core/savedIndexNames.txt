@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+\\wide.ad.stir.ac.uk\users\m\avm00011\University\Second Year\Second Semester\CSCU9T4\Assignments\Timetable Assignment\.metadata\.plugins\org.eclipse.jdt.core
+3964918290.index
+3173990942.index

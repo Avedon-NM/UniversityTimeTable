@@ -1,0 +1,1566 @@
+Name		Day	Start Time	End Time	Week Pattern		Location	Room Size	Class Size	Staff		Department		
+ACCP002.L#	FRIDAY	14:05		15:55		3-6, 8-9		C.LTW1		94		68		COLIN DEY		MGTACF_PG
+accp002.s/01	friday	10:05		10:55		4, 6, 8, 10		c.2a11		26		23				mgtacf_pg
+accp002.s/02	friday	11:05		11:55		4, 6, 8, 10		c.2a11		26		23				mgtacf_pg
+accp002.s/03	friday	12:05		12:55		4, 6, 8, 10		c.2a11		26		23				mgtacf_pg
+ACCU9A1.L#	FRIDAY	13:05		13:55		1-6, 8-12		C.LTB3		112		100		ALAN GOODACRE		MGTACF UG
+ACCU9A1.L#	MONDAY	16:05		16:55		2-6, 8-12		C.LT2V1		142		100		ALAN GOODACRE		MGTACF UG
+ACCU9A1.L#	WEDNESDAY	11:05		11:55		1-5, 8-9, 11-12		C.LT2V1		142		100		ALAN GOODACRE		MGTACF UG
+ACCU9A5.L#	TUESDAY	11:05		12:55		1-6, 8-11		C.LTA5		92		88		SARAH SMITH/ALAN BALLANTINE		MGTACF UG
+accu9a5.s/01	tuesday	13:05		13:55		2-6, 8-12		c.4b128		30		30		alan ballantine/sarah smith		mgtacf ug
+accu9a5.s/02	tuesday	14:05		14:55		2-6, 8-12		c.4b128		30		30		alan ballantine/sarah smith		mgtacf ug
+accu9a5.s/03	tuesday	15:05		15:55		2-6, 8-12		c.4b128		30		30		alan ballantine/sarah smith		mgtacf ug
+accu9a5.s/04	tuesday	16:05		16:55		2-6, 8-12		c.4b128		30		30		alan ballantine/sarah smith		mgtacf ug
+ACCU9AA.L#	THURSDAY	09:05		10:55		1-6, 8-12		C.LTB3		112		110		IAN FRASER/SARAH SMITH		MGTACF UG
+accu9aa.s/01	thursday	12:05		12:55		1-6, 8-12		c.3v2		34		26				mgtacf ug
+accu9aa.s/02	thursday	13:05		13:55		1-6, 8-12		c.3v2		34		26				mgtacf ug
+accu9aa.s/03	thursday	14:05		14:55		1-6, 8-12		c.2b38		28		26				mgtacf ug
+ACCU9IS.L#	MONDAY	13:05		14:55		1-6, 8-12		C.4B128		30		30		COLIN DEY/LISA EVANS		MGTACF UG
+ACCU9M1.L#	THURSDAY	13:05		14:55		1-5, 8-12		C.LTA4		237		100		CHRIS COLES		MGTACF UG
+accu9m1.s/01	tuesday	09:05		09:55		2-6, 8-12		c.2b76		30		30		chris coles		mgtacf ug
+accu9m1.s/02	tuesday	13:05		13:55		2-6, 8-12		c.2a19		30		30		chris coles		mgtacf ug
+accu9m1.s/03	tuesday	14:05		14:55		2-6, 8-12		c.2a19		30		30		chris coles		mgtacf ug
+accu9m1.s/04	thursday	09:05		09:55		2-6, 8-12		c.2a19		30		30		chris coles		mgtacf ug
+AQUU1BP.L#	FRIDAY	10:05		10:55		1-6, 8-12		C.LTA3		240		136		CORI CRITCHLOW-WATTON		NATAQU
+AQUU1BP.L#	MONDAY	12:05		12:55		2-6, 8-12		P.PLT		210		136		CORI CRITCHLOW-WATTON		NATAQU
+AQUU1BP.L#	THURSDAY	12:05		12:55		1-6, 8-12		P.PLT		210		136		CORI CRITCHLOW-WATTON		NATAQU
+AQUU3AE.L#	FRIDAY	10:05		10:55		1-6, 8-12		P.PLT		210		182		TREVOR TELFER		NATAQU
+AQUU3AE.L#	THURSDAY	11:05		11:55		1-6, 8-12		C.LTB4		179		83		TREVOR TELFER		NATAQU
+AQUU3AE.L#	TUESDAY	16:05		16:55		1-6, 8-12		C.LTW1		94		90		TREVOR TELFER		NATAQU
+aquu5ar.cl#	wednesday	09:05		12:55		10		p.h4		20		20		bruce mcadam		nataqu
+AQUU5AR.L#	FRIDAY	13:05		13:55		1-6, 8-12		P.H3		20		20				NATAQU
+AQUU5AR.L#	MONDAY	11:05		11:55		2-6, 8-12		P.H3		20		20				NATAQU
+AQUU5AR.L#	THURSDAY	12:05		12:55		1-5, 8-12		P.H3		20		20				NATAQU
+AQUU5AR.L#	WEDNESDAY	09:05		12:55		1		P.H3		20		20				NATAQU
+artpp01.s#	monday	16:05		17:55		2, 4, 6, 8, 10		c.2b86		40		40		colin nicolson/gyorgy toth		arh pg
+artu9k6.s/01	tuesday	10:05		11:55		1-6, 8-12		c.2b74*		26		16		holgar nehring		arhhpo_history
+artu9k6.s/02	tuesday	14:05		15:55		1-6, 8-12		c.2b45		16		16		holgar nehring		arhhpo_history
+artuhr5.s#	thursday	13:05		14:55		1-6, 8-12		p.d2*		20		10		jane cameron/sarah bromage		arhhpo_history
+artuhx5.s/01	monday	09:05		10:55		1-6, 8-12		p.c1		30		18		sally foster		arhhpo_history
+artuhx5.s/02	thursday	09:05		10:55		1-2, 4-6, 8-12		p.e26		20		18		sally foster		arhhpo_history
+asrp002.cl#	tuesday	09:30		11:30		6, 8		c.2b43		21		21				apsspc_pg
+asrp002.cl#	tuesday	10:05		10:55		5		c.2y8		34		26				apsspc_pg
+ASRP002.L#	TUESDAY	09:05		12:55		09-Oct		C.2B121#		36		25				APSSPC_PG
+ASRP002.L#	TUESDAY	09:05		12:55		2-3, 5		C.2B129#		30		25				APSSPC_PG
+asrp003.cl#	tuesday	11:05		12:55		1		c.2b43		21		20				apsspc_pg
+asrp004.cl#	tuesday	09:05		14:55		12		c.2b43		21		14		alasdair rutherford		apsspc_pg
+asrp006.cl#	tuesday	15:05		16:55		6		c.2a21		30		8				apsspc_pg
+ASRP021.L#	TUESDAY	10:05		12:55		2		CB.4S23		10000		15		RICHARD SIMMONS		APSSPC_PG
+bfip013.cl/01	monday	11:05		12:55		3-6, 9-12		c.2y8		34		21				mgtecn
+bfip013.cl/02	monday	15:05		16:55		3-6, 9-12		c.2a17		43		21				mgtecn
+bfip013.cl/03	wednesday	09:05		10:55		3-6, 9-12		c.2b43		21		21				mgtecn
+bfip013.cl/04	thursday	13:05		14:55		3-6, 9-12		c.2b43		21		21				mgtecn
+bfip013.cl/05	thursday	16:05		17:55		3-6, 9-12		c.2b43		21		21				mgtecn
+bfip013.cl/06	friday	11:05		12:55		3-6, 9-12		c.2b43		21		21				mgtecn
+bfip013.cl/07	friday	14:05		15:55		3-6, 9-12		c.2b43		21		21				mgtecn
+bfip013.cl/08	friday	16:05		17:55		3-6, 9-12		c.2b43		21		21				mgtecn
+BFIP013.L#	MONDAY	09:05		10:55		3-6, 9-12		C.LTLOGIE		350		192				MGTECN
+BFIP013.L#	THURSDAY	12:05		12:55		3-6, 8-12		C.LTA3		240		192		MARIA GRYDAKI		MGTECN
+BFIP019.L#	FRIDAY	09:05		10:55		3-5, 8-12		C.LTA6		253		50				MGTECN
+BFIP019.L#	FRIDAY	12:05		12:55		3-5, 8-12		C.2B85#		60		50				MGTECN
+bfip019.s/01	friday	13:05		14:55		3-5, 8-12		c.2b133		24		24				mgtecn
+bfip019.s/02	friday	16:05		17:55		3-5, 8-12		c.2a9		26		24				mgtecn
+BFIP025.L#	FRIDAY	11:05		12:55		6, 9-10		C.LTA6		253		120		MARIA GRYDAKI/SIOBHAN LUCEY		MGTECN
+BFIP025.L#	MONDAY	16:05		17:55		03-May		C.LTA3		240		120		MARIA GRYDAKI/SIOBHAN LUCEY		MGTECN
+bfip025.s/01	tuesday	14:05		14:55		4-6, 9-11		c.2b121#		36		35		maria grydaki		mgtecn
+bfip025.s/02	thursday	15:05		15:55		4-6, 9-11		c.2b87		48		35		maria grydaki		mgtecn
+bfip025.s/03	thursday	16:05		16:55		4-6, 9-11		c.2b87		48		35		maria grydaki		mgtecn
+bfip025.s/04	friday	15:05		15:55		4-6, 9-11		c.2b85#		60		35		maria grydaki		mgtecn
+bhs.s#	wednesday	15:05		16:55		1-6, 8-12, 1-5, 7-12		c.2b48		28		20				_mgt
+BIOU1CB.L#	FRIDAY	11:05		11:55		1-6, 8-11		C.LTA4		237		237		TIM WHALLEY		NATBES BS
+BIOU1CB.L#	MONDAY	13:05		13:55		2-6, 8-12		C.LTA4		237		237		TIM WHALLEY		NATBES BS
+BIOU1CB.L#	TUESDAY	17:05		17:55		2-4, 6, 8, 10-12		C.LTA3		240		240		TIM WHALLEY		NATBES BS
+BIOU3EG.L#	MONDAY	09:05		09:55		1-6, 8-12		C.LTA4		237		214		TIM WHALLEY		NATBES BS
+BIOU3EG.L#	THURSDAY	09:05		09:55		1-6, 8-12		C.LTA3		240		214		TIM WHALLEY		NATBES BS
+BIOU3EG.L#	TUESDAY	12:05		12:55		1-6, 8-12		C.LTA3		240		214		TIM WHALLEY		NATBES BS
+BIOU5AI.L#	FRIDAY	15:05		15:55		1-3, 5-6, 8, 10-12		C.LTA3		240		50		AMAYA ALBALAT/JENSON LIM/SIMON MACKENZIE		NATBES BS
+BIOU5AI.L#	MONDAY	16:05		16:55		1-3, 5-6, 8, 10-12		C.2B85#		60		40		AMAYA ALBALAT/JENSON LIM		NATBES BS
+BIOU5AP.L#	FRIDAY	09:05		09:55		1-6, 8-12		C.LTA3		240		157		MATTHEW TINSLEY/TIM WHALLEY		NATBES BS
+BIOU5AP.L#	MONDAY	12:05		12:55		1-6, 8-12		C.LTB4		179		168		MATTHEW TINSLEY/TIM WHALLEY		NATBES BS
+BIOU5AP.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.LTB4		179		165		MATTHEW TINSLEY/TIM WHALLEY		NATBES BS
+BIOU5MI.L#	FRIDAY	10:05		10:55		1-6, 8-12		C.LTW1		94		72		MICHAEL WYMAN		NATBES BS
+BIOU5MI.L#	MONDAY	09:05		09:55		1-6, 8-12		C.LTA5		92		72		MICHAEL WYMAN		NATBES BS
+BIOU5MI.L#	TUESDAY	10:05		10:55		1-6, 8-12		C.LTB4		179		72		MICHAEL WYMAN		NATBES BS
+BIOU7CB.L#	FRIDAY	12:05		12:55		08-Dec		C.2B86		40		40		KIRSTY PARK		NATBES BS
+BIOU7CB.L#	MONDAY	14:05		14:55		08-Dec		C.LTA5		92		40		KIRSTY PARK		NATBES BS
+BIOU7CB.L#	THURSDAY	09:05		09:55		08-Dec		C.2B85#		60		40		KIRSTY PARK		NATBES BS
+biou7ep.cl#	wednesday	09:05		11:55		3, 5		c.2a21		30		21		michael wyman		natbes bs
+BIOU7EP.L#	MONDAY	11:05		11:55		01-Jun		C.4W2		24		22		MICHAEL WYMAN		NATBES BS
+BIOU7EP.L#	THURSDAY	10:05		10:55		01-Jun		C.4U5		50		22		MICHAEL WYMAN		NATBES BS
+BIOU7FC.L#	FRIDAY	14:05		15:55		2		C.2B133		24		20				NATBES BS
+BIOU7FC.L#	THURSDAY	11:05		11:55		1		C.2B147		250		22				NATBES BS
+biou7pt.cl#	wednesday	09:05		11:55		10		c.2a21		30		23				natbes bs
+BIOU7PT.L#	FRIDAY	09:05		09:55		08-Dec		C.4U5		50		30				NATBES BS
+BIOU7PT.L#	MONDAY	10:05		10:55		08-Dec		C.4U5		50		30				NATBES BS
+BIOU7PT.L#	THURSDAY	10:05		10:55		8-10, 12		C.4U5		50		30				NATBES BS
+biou7pt.s#	thursday	10:05		11:55		11		c.4u5		50		40				natbes bs
+biou9ce.cl#	tuesday	14:05		16:55		08-Dec		c.2a21		30		22		nils bunnefeld/timothy paine		natbes bs
+BIOU9CE.L#	FRIDAY	11:05		11:55		08-Dec		C.4W6		24		24		NILS BUNNEFELD/TIMOTHY PAINE		NATBES BS
+biou9ce.s#	monday	11:05		11:55		08-Dec		c.2b129#		30		30		nils bunnefeld/timothy paine		natbes bs
+biou9po.cl#	friday	09:05		11:55		01-May		c.2a21		30		22		nils bunnefeld/timothy paine		natbes bs
+BIOU9PO.L#	TUESDAY	16:05		16:55		01-May		C.3B145*		18		18		NILS BUNNEFELD/TIMOTHY PAINE		NATBES BS
+biou9po.s#	wednesday	11:05		11:55		01-May		c.2b85#		60		18		nils bunnefeld/timothy paine		natbes bs
+BSMP001.L#	WEDNESDAY	09:05		10:55		3-6, 8-12		C.2B38		28		20		LIAM DELANEY		MGTMWO_PG
+bsmp001.s#	friday	10:05		11:55		3-6, 8-12		c.4w5		24		20		liam delaney		mgtmwo_pg
+BSMP002.L#	MONDAY	10:05		17:55		3, 6, 10		C.2A87		60		30				MGTMWO_PG
+BSMP002.L#	TUESDAY	10:05		17:55		3, 6		C.2A87		60		30		ALEX WOOD		MGTMWO_PG
+bsmp002.s#	friday	12:05		15:55		10		c.2a87		60		34				mgtmwo_pg
+bsmp002.s#	tuesday	10:05		17:55		10		c.2b88		30		30				mgtmwo_pg
+BUSU9IB.L#	TUESDAY	14:05		15:55		1-6, 8-12		C.LTB4		179		112		MARKUS KITTLER		MGTMWO UG
+busu9ib.s/01	monday	15:05		15:55		3-6, 8-11		c.2v2		30		20				mgtmwo ug
+busu9ib.s/02	monday	16:05		16:55		2-6, 8-11		c.4w6		24		20				mgtmwo ug
+busu9ib.s/03	tuesday	12:05		12:55		2-6, 8-11		c.2b44		20		20				mgtmwo ug
+busu9ib.s/04	tuesday	13:05		13:55		2-6, 8-11		c.2b38		28		20				mgtmwo ug
+busu9ib.s/05	wednesday	09:05		09:55		2-6, 8-11		c.2a9		26		20				mgtmwo ug
+busu9ib.s/06	wednesday	10:05		10:55		2-6, 8-11		c.2a9		26		20				mgtmwo ug
+busu9ib.s/07	wednesday	11:05		11:55		2-6, 8-11		c.2b121#		36		20				mgtmwo ug
+busu9ib.s/08	wednesday	12:05		12:55		2-6, 8-11		c.3v2		34		20				mgtmwo ug
+busu9ib.s/09	thursday	15:05		15:55		2-6, 8-11		c.4w2		24		20				mgtmwo ug
+BUSU9SM.L#	FRIDAY	10:05		10:55		1-6, 8-12		C.LT2V1		142		130		TOM FORBES		MGTMWO UG
+BUSU9SM.L#	THURSDAY	11:05		11:55		1-6, 8-12		C.LTA4		237		130		TOM FORBES		MGTMWO UG
+busu9sm.s/01	monday	13:05		14:55		3-6, 8-11		c.3v2		34		15		tom forbes		mgtmwo ug
+busu9sm.s/02	monday	16:05		17:55		3-6, 8-11		c.4w4		24		15		tom forbes		mgtmwo ug
+busu9sm.s/03	tuesday	10:05		11:55		3-6, 8-11		c.2b45		16		15		tom forbes		mgtmwo ug
+busu9sm.s/04	tuesday	16:05		17:55		3-6, 8-11		c.2b45		16		15		tom forbes		mgtmwo ug
+busu9sm.s/05	thursday	12:05		13:55		3-6, 8-11		c.2a19		30		15		tom forbes		mgtmwo ug
+busu9sm.s/06	thursday	15:05		16:55		3-6, 8-11		c.4w1		20		15		tom forbes		mgtmwo ug
+busu9sm.s/07	friday	11:05		12:55		3-6, 8-11		c.4w1		20		15		tom forbes		mgtmwo ug
+busu9sm.s/08	friday	13:05		14:55		3-6, 8-11		c.4w2		24		15		tom forbes		mgtmwo ug
+busu9sm.s/09	friday	15:05		16:55		3-6, 8-11		c.2b48		28		15		tom forbes		mgtmwo ug
+cehp.s#	tuesday	12:05		12:55		2, 4, 6, 8, 10, 12		p.g18		24		15		sally foster		}hpo
+CRMP010.L#	TUESDAY	14:05		16:55		2-3, 5-6, 8-10		CB.4S23		10000		5		BILL MUNRO		APSSPC_PG
+CRMU9TN.L#	FRIDAY	13:05		13:55		2-6, 8-12		C.LT2V1		142		80		BILL MUNRO		APSSPC UG
+CRMU9TN.L#	TUESDAY	13:05		13:55		2-6, 8-12		C.LTA5		92		80		BILL MUNRO		APSSPC UG
+crmu9tn.s/01	monday	12:05		13:55		2-6, 8-11		c.2a11		26		20		bill munro		apsspc ug
+crmu9tn.s/02	monday	15:05		16:55		2-6, 8-11		c.2x6		32		20		bill munro		apsspc ug
+cscu9a1.cl/01	monday	13:05		13:55		2-6, 8-12		c.1a11		60		50		savi maharaj/leslie smith		natcsm cs
+cscu9a1.cl/02	monday	17:05		17:55		2-6, 8-12		c.2a15		57		50		savi maharaj/leslie smith		natcsm cs
+cscu9a1.cl/03	tuesday	09:05		09:55		2-6, 8-12		c.1a11		60		50		savi maharaj/leslie smith		natcsm cs
+cscu9a1.cl/04	friday	09:05		09:55		2-6, 8-12		c.1a11		60		50		savi maharaj/leslie smith		natcsm cs
+cscu9a1.cl/05	friday	13:05		13:55		2-6, 8-12		c.2a17		43		43		savi maharaj/leslie smith		natcsm cs
+cscu9a1.cl/06	friday	14:05		14:55		2-6, 8-12		c.2a17		43		43		savi maharaj/leslie smith		natcsm cs
+CSCU9A1.L#	MONDAY	15:05		15:55		2-6, 8-12		C.LT2V1		142		100		LESLIE SMITH/SAVI MAHARAJ		NATCSM CS
+CSCU9A1.L#	THURSDAY	15:05		15:55		1-6, 8-12		C.LT2V1		142		100		SAVI MAHARAJ/LESLIE SMITH		NATCSM CS
+cscu9a1.s/01	monday	10:05		10:55		3-6, 8-12		c.2v3		20		18		savi maharaj/leslie smith		natcsm cs
+cscu9a1.s/02	monday	14:05		14:55		3-6, 8-12		c.4w3		20		18		savi maharaj/leslie smith		natcsm cs
+cscu9a1.s/03	tuesday	10:05		10:55		3-6, 8-12		c.2b42		20		18		savi maharaj/leslie smith		natcsm cs
+cscu9a1.s/04	tuesday	14:05		14:55		3-6, 8-12		c.2v3		20		18		savi maharaj/leslie smith		natcsm cs
+cscu9a1.s/05	wednesday	10:05		10:55		3-6, 8-12		c.2v3		20		18		savi maharaj/leslie smith		natcsm cs
+cscu9a1.s/06	wednesday	11:05		11:55		3-6, 8-12		c.2v3		20		18		leslie smith/savi maharaj		natcsm cs
+cscu9a1.s/07	friday	10:05		10:55		3-6, 8-12		c.2v3		20		18		savi maharaj/leslie smith		natcsm cs
+cscu9a3.cl/01	wednesday	10:05		11:55		2-6, 8-12		c.2a17		43		40		david cairns/marwan fayed		natcsm cs
+cscu9a3.cl/02	friday	10:05		11:55		2-6, 8-12		c.2a17		43		40		david cairns/marwan fayed		natcsm cs
+CSCU9A3.L#	THURSDAY	15:05		15:55		1-6, 8-12		C.LTA5		92		60		DAVID CAIRNS/LESLIE SMITH		NATCSM CS
+CSCU9A3.L#	TUESDAY	15:05		15:55		1-6, 8-12		C.LTA5		92		70		DAVID CAIRNS/LESLIE SMITH/MARWAN FAYED		NATCSM CS
+CSCU9A3.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		C.LTB4		179		70		LESLIE SMITH/DAVID CAIRNS		NATCSM CS
+cscu9a3.s/01	monday	09:05		09:55		3-6, 8-12		c.3x11		16		15		david cairns/marwan fayed		natcsm cs
+cscu9a3.s/02	monday	10:05		10:55		3-6, 8-12		c.3x11		16		15		david cairns/marwan fayed		natcsm cs
+cscu9a3.s/03	monday	11:05		11:55		3-6, 8-12		c.3x11		16		15		david cairns/marwan fayed		natcsm cs
+cscu9a3.s/04	tuesday	09:05		09:55		3-6, 8-12		c.2v3		20		15		david cairns/marwan fayed		natcsm cs
+cscu9a3.s/05	thursday	16:05		16:55		3-6, 8-12		c.2v3		20		15		david cairns/marwan fayed		natcsm cs
+cscu9n5.cl/01	tuesday	11:05		11:55		1-6, 8-12		c.4x5		40		30		bruce graham/david cairns		natcsm cs
+cscu9n5.cl/02	thursday	12:05		12:55		1-6, 8-12		c.4x5		40		30		bruce graham/david cairns		natcsm cs
+CSCU9N5.L#	FRIDAY	14:05		14:55		1-6, 8-12		C.LTA5		92		50		BRUCE GRAHAM/DAVID CAIRNS		NATCSM CS
+CSCU9N5.L#	MONDAY	13:05		13:55		1-6, 8-12		C.LTW1		94		40		BRUCE GRAHAM/DAVID CAIRNS		NATCSM CS
+CSCU9N5.L#	THURSDAY	09:05		09:55		1-6, 8-12		C.LTA5		92		40		BRUCE GRAHAM/DAVID CAIRNS		NATCSM CS
+cscu9n5.s/01	tuesday	13:05		13:55		2-6, 8-12		c.2a11		26		15		bruce graham/david cairns		natcsm cs
+cscu9n5.s/02	tuesday	14:05		14:55		2-6, 8-12		c.4w4		24		15		bruce graham/david cairns		natcsm cs
+cscu9n5.s/03	friday	12:05		12:55		2-6, 8-12		c.3x11		16		15		bruce graham/david cairns		natcsm cs
+cscu9p5.cl/01	monday	12:05		12:55		2-6, 8-12		c.4x5		40		25		andrea bracciali/simon jones		natcsm cs
+cscu9p5.cl/02	friday	12:05		12:55		2-6, 8-12		c.4x5		40		25		andrea bracciali/simon jones		natcsm cs
+CSCU9P5.L#	MONDAY	15:05		16:55		2-6, 8-12		C.LTA5		92		54		ANDREA BRACCIALI/SIMON JONES		NATCSM CS
+CSCU9P5.L#	THURSDAY	14:05		14:55		1-6, 8-12		C.LTB3		112		46		ANDREA BRACCIALI/SIMON JONES		NATCSM CS
+cscu9p5.s/01	monday	11:05		11:55		3-6, 8-12		c.2b38		28		25		andrea bracciali/simon jones		natcsm cs
+cscu9p5.s/02	thursday	13:05		13:55		3-6, 8-12		c.4b108		24		24		andrea bracciali/simon jones		natcsm cs
+cscu9p5.s/03	thursday	17:05		17:55		3-6, 8-12		c.2a9		26		25		andrea bracciali/simon jones		natcsm cs
+cscu9q5.cl#	tuesday	09:05		10:55		2-6, 8-12		c.4x5		40		40		amir hussain/kevin swingler		natcsm cs
+CSCU9Q5.L#	FRIDAY	16:05		16:55		1-6, 8-12		C.LTW1		94		50		AMIR HUSSAIN/KEVIN SWINGLER		NATCSM CS
+CSCU9Q5.L#	TUESDAY	12:05		12:55		1-6, 8-12		C.LT2V1		142		41		AMIR HUSSAIN/KEVIN SWINGLER		NATCSM CS
+CSCU9Q5.L#	TUESDAY	15:05		15:55		1-6, 8-12		C.LTB3		112		50		AMIR HUSSAIN/KEVIN SWINGLER		NATCSM CS
+cscu9q5.s/01	monday	10:05		10:55		2-6, 8-12		c.2a19		30		16		kevin swingler/amir hussain		natcsm cs
+cscu9q5.s/02	monday	11:05		11:55		2-6, 8-12		c.2x6		32		16		amir hussain/kevin swingler		natcsm cs
+cscu9q5.s/03	tuesday	17:05		17:55		2-6, 8-12		c.4w4		24		16		amir hussain/kevin swingler		natcsm cs
+cscu9v7.cl#	friday	13:05		14:55		1-6, 8-12		c.4x5		40		40		evan magill/mario kolberg		natcsm cs
+cscu9v7.cl#	tuesday	13:05		14:55		1-6, 8-12		c.4x5		40		40		evan magill/mario kolberg		natcsm cs
+CSCU9V7.L#	THURSDAY	14:05		14:55		1-6, 8-12		C.LTW1		94		30		EVAN MAGILL		NATCSM CS
+CSCU9V7.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.2A19		30		20		MARIO KOLBERG/EVAN MAGILL		NATCSM CS
+cscu9yd.cl#	thursday	15:05		15:55		2-6, 8-12		c.4x5		40		25				natcsm cs
+cscu9yd.cl#	wednesday	11:05		11:55		2-6, 8-12		c.4x5		40		25				natcsm cs
+CSCU9YD.L#	THURSDAY	15:05		15:55		1-6, 8-12		C.2B48		28		20		MARIO KOLBERG		NATCSM CS
+CSCU9YD.L#	WEDNESDAY	11:05		11:55		1-6, 8-12		C.4B108		24		12		MARIO KOLBERG		NATCSM CS
+cscu9yd.s#	friday	09:05		09:55		2-6, 8-12		c.4w5		24		15		mario kolberg		natcsm cs
+cscu9ye.cl#	monday	11:05		11:55		3-6, 8-10		c.4x5		40		24		gabriela ochoa		natcsm cs
+CSCU9YE.L#	THURSDAY	10:05		10:55		1-6, 8-12		C.2B88		30		30		GABRIELA OCHOA		NATCSM CS
+CSCU9YE.L#	THURSDAY	16:05		16:55		1-6, 8-12		C.LTW1		94		20		GABRIELA OCHOA		NATCSM CS
+cscu9ye.s/01	tuesday	12:05		12:55		3-6, 8-9		c.2b46		20		14		gabriela ochoa		natcsm cs
+cscu9ye.s/02	tuesday	15:05		15:55		3-6, 8-9		c.2a19		30		15		gabriela ochoa		natcsm cs
+cscu9yq.cl#	friday	10:05		11:55		2-6, 8-12		c.4x5		40		24		kevin swingler		natcsm cs
+CSCU9YQ.L#	MONDAY	12:05		12:55		1-6, 8-12		C.4B108		24		24		KEVIN SWINGLER		NATCSM CS
+CSCU9YQ.L#	MONDAY	15:05		15:55		1-6, 8-12		C.4B108		24		24		KEVIN SWINGLER		NATCSM CS
+cscu9yq.s#	tuesday	11:05		11:55		2-6, 8-12		c.4b108		24		15		kevin swingler		natcsm cs
+cscu9ys.cl#	monday	14:05		14:55		5-6, 8-11		c.4x5		40		30		david cairns		natcsm cs
+cscu9ys.cl#	monday	15:05		15:55		5-6, 8-11		c.4x5		40		5		david cairns		natcsm cs
+CSCU9YS.L#	MONDAY	16:05		16:55		1-6, 8-12		C.LTB3		112		30		DAVID CAIRNS		NATCSM CS
+CSCU9YS.L#	THURSDAY	11:05		11:55		1-6, 8-12		C.2B88		30		30		DAVID CAIRNS		NATCSM CS
+cscu9ys.s#	friday	16:05		16:55		6, 8, 11-12		c.2b87		48		30		david cairns		natcsm cs
+cscu9ys.s#	tuesday	10:05		10:55		6, 8, 11-12		c.4b108		24		24		david cairns		natcsm cs
+cscu9z7.s#	wednesday	12:05		12:55		1-6, 8-10		c.2v2		30		26		simon jones		natcsm cs
+cstu939.s#	tuesday	13:05		15:55		1-6, 8		c.3b145*		18		8		matt foley		arhltl_english
+cttpp01.s#	wednesday	13:05		14:55		1-6, 8-12		p.d1		54		20				arhcmc_pg
+cttpp03.s#	wednesday	10:05		11:55		1-6, 8-12		p.sc3/4#		48		13		saihong li		arh pg
+cttpp03.s#	wednesday	15:05		16:55		08-Sep		p.e9		18		18		sabine dedenbach-salazar		arh pg
+ECNU111.L#	THURSDAY	16:05		16:55		1-6, 8-12		C.LTA3		240		144		DAVID COMERFORD		MGTECN
+ECNU111.L#	TUESDAY	12:05		12:55		1-6, 8-12		C.LTA4		237		144		DAVID COMERFORD		MGTECN
+ECNU111.L#	WEDNESDAY	10:05		10:55		1-6, 8-12		C.LTLOGIE		350		240		DAVID COMERFORD		MGTECN
+ECNU211.L#	FRIDAY	09:05		10:55		1-6, 8-12		C.LTB4		179		98				MGTECN
+ECNU211.L#	WEDNESDAY	11:05		11:55		01-Mar		C.LTB3		112		112				MGTECN
+ECNU311.L#	FRIDAY	11:05		12:55		1-6, 8-12		C.LTW1		94		49		TANYA WILSON		MGTECN
+ecnu311.s/01	wednesday	11:05		11:55		2-5, 9-12		c.2x6		32		24		tanya wilson		mgtecn
+ecnu311.s/02	friday	09:05		09:55		2-5, 9-12		c.2a9		26		24		tanya wilson		mgtecn
+ecnu313.cl/01	monday	14:05		14:55		3-6, 8-11		c.2b43		21		21				mgtecn
+ecnu313.cl/02	monday	15:05		15:55		3-6, 8-11		c.2b43		21		21				mgtecn
+ECNU313.L#	TUESDAY	09:05		10:55		1-6, 8-12		C.2X6		32		32				MGTECN
+ECNU313.L#	TUESDAY	16:05		16:55		1-6, 8-12		C.3V2		34		33		SIOBHAN LUCEY		MGTECN
+ECNU3AX.L#	MONDAY	12:05		13:55		1-6, 8-12		C.2B48		28		15		FRANS DE VRIES/SEDA ERDEM		MGTECN
+ecnu3ax.s#	wednesday	10:05		10:55		2-6, 9-11		c.3x11		16		15		frans de vries/seda erdem		mgtecn
+ECNU3EE.L#	FRIDAY	16:05		17:55		1-6, 8-12		C.4W3		20		14		SEDA ERDEM		MGTECN
+ecnu3ee.s#	monday	14:05		14:55		3-6, 8-12		c.2b45		16		14		seda erdem		mgtecn
+ECNU3FE.L#	WEDNESDAY	09:05		10:55		1-6, 9-12		C.2A19		30		18		THEO DIASAKOS		MGTECN
+ecnu3fe.s#	tuesday	12:05		12:55		2-5, 9-12		c.2b42		20		20		frans de vries/seda erdem		mgtecn
+ECNU414.L#	TUESDAY	13:05		14:55		1, 3-6, 8-12		C.2B76		30		20		STYLIANOS ASIMAKOPOULOS		MGTECN
+ECNU414.L#	TUESDAY	13:05		14:55		2		C.LT2V1		142		0				MGTECN
+ecnu414.s/01	friday	11:05		11:55		2-5, 9-12		c.2b46		20		20		stylianos asimakopoulos		mgtecn
+ecnu414.s/02	friday	12:05		12:55		2-5, 9-12		c.2v3		20		20		stylianos asimakopoulos		mgtecn
+ecnu48e.cl#	tuesday	15:05		15:55		3-6, 8-12		c.1a13		34		10		mirko moro		mgtecn
+ECNU48E.L#	MONDAY	09:05		10:55		1-6, 8-12		C.4W4		24		9		MIRKO MORO		MGTECN
+ECNU48E.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.4W2		24		9		DAVID COMERFORD/MIRKO MORO		MGTECN
+edrp001.s#	tuesday	14:05		15:55		2-6, 8-12		p.a5		20		10				edures
+EDUU9E1.L#	MONDAY	12:05		12:55		2-6, 8-12		C.LTLOGIE		350		350		GREG MANNION		EDUITE
+eduu9e1.s/01	monday	15:05		16:55		2-6, 8-12		p.c22		30		20				eduite
+eduu9e1.s/02	monday	15:05		16:55		2-6, 8-12		p.c23		30		20				eduite
+eduu9e1.s/03	monday	16:05		17:55		2-6, 8-12		c.2b48		28		20				eduite
+eduu9e1.s/04	tuesday	09:05		10:55		2-6, 8-12		p.c22		30		20				eduite
+eduu9e1.s/05	tuesday	10:05		11:55		6		c.2b38		28		20				eduite
+eduu9e1.s/05	tuesday	10:05		11:55		2-5, 8-12		p.c25		35		20				eduite
+eduu9e1.s/06	tuesday	12:05		13:55		2-5, 8-12		p.c25		35		20				eduite
+eduu9e1.s/06	tuesday	12:05		13:55		6		c.2w5*		20		20				eduite
+eduu9e1.s/07	tuesday	12:05		13:55		2-6, 8-12		p.a5		20		20				eduite
+eduu9e1.s/08	tuesday	12:05		13:55		2-6, 8-9, 12		p.c23		30		20				eduite
+eduu9e1.s/08	tuesday	12:05		13:55		10-Nov		c.2w5*		20		20				eduite
+eduu9e1.s/09	tuesday	13:05		14:55		2-6, 8-12		p.c22		30		20				eduite
+eduu9e1.s/10	tuesday	15:05		16:55		2-6, 8-12		p.c22		30		20				eduite
+eduu9e1.s/11	wednesday	09:05		10:55		2-6, 8-10, 12		p.c22		30		20				eduite
+eduu9e1.s/11	wednesday	09:05		10:55		11		c.2b44		20		20				eduite
+eduu9e1.s/12	thursday	12:05		13:55		2-4, 6, 8-12		p.a5		20		20				eduite
+eduu9e1.s/12	thursday	12:05		13:55		5		c.2a9		26		20				eduite
+eduu9e1.s/13	thursday	13:05		14:55		2-6, 8-12		p.c22		30		20				eduite
+eduu9e1.s/14	thursday	14:05		15:55		2-4, 6, 8-12		p.a5		20		20				eduite
+eduu9e1.s/14	thursday	14:05		15:55		5		c.2a11		26		20				eduite
+eduu9e1.s/15	thursday	15:05		16:55		2-4, 6, 8-12		p.c23		30		20				eduite
+eduu9e1.s/15	thursday	15:05		16:55		5		c.2a9		26		20				eduite
+eduu9e1.s/16	thursday	16:05		17:55		2-6, 8-12		c.2b38		28		20				eduite
+eduu9e1.s/17	friday	10:05		11:55		2-6, 8-12		p.c23		30		20				eduite
+eduu9e1.s/18	friday	11:05		12:55		2-6, 8-12		c.2x4		32		20				eduite
+eduu9e1.s/19	friday	11:05		12:55		2-6, 8-12		c.4w4		24		20				eduite
+eduu9e1.s/20	friday	14:05		15:55		3-6, 8-12		p.c23		30		20				eduite
+eduu9e1.s/20	friday	14:05		15:55		2		p.c25		35		0				eduite
+EDUU9E3.L#	THURSDAY	14:05		14:55		1-6, 8-12		P.PLT		210		160				EDUITE
+EDUU9E5.L#	WEDNESDAY	09:05		09:55		02-Jun		C.LTB3		112		110				EDUITE
+EDUU9P3.L#	MONDAY	10:05		10:55		1-6, 8-12		C.LTW1		94		50				EDUITE
+EDUU9P5.L#	MONDAY	14:05		14:55		1-6, 8-12		P.LTA96		75		43				EDUITE
+EGMP018.L#	THURSDAY	14:05		17:55		12		C.2B88		30		30		SEDA ERDEM/FRANS DE VRIES		MGTECN
+EGMP018.L#	THURSDAY	15:05		17:55		3-6, 8-11		C.2B88		30		30		FRANS DE VRIES/SEDA ERDEM		MGTECN
+egmp018.s#	friday	11:05		12:30		4-6, 8-12		c.2a19		30		30		seda erdem		mgtecn
+EGMP057.L#	FRIDAY	14:05		16:55		08-Nov		C.LTB4		179		36		CHRIS BALL		MGTECN
+EGMP057.L#	MONDAY	14:05		16:55		08-Nov		C.2B121#		36		36		CHRIS BALL		MGTECN
+EGMP057.L#	THURSDAY	09:05		12:55		4		C.2A87		60		20				MGTECN
+EGMP057.L#	TUESDAY	10:05		13:55		4		C.2B121#		36		36				MGTECN
+EGMP057.L#	WEDNESDAY	13:05		16:55		4		C.2A87		60		36				MGTECN
+ENGU901.L#	THURSDAY	11:05		11:55		1-6, 8-12		P.PLT		210		210		ANGUS VINE/KIRSTIE BLAIR		ARHLTL_ENGLISH
+ENGU901.L#	TUESDAY	14:05		14:55		1-6, 8-12		P.PLT		210		210		ANGUS VINE/KIRSTIE BLAIR		ARHLTL_ENGLISH
+engu901.s/01	monday	10:05		10:55		2-6, 8-12		p.d2*		20		20				arhltl_english
+engu901.s/02	monday	12:05		12:55		2-6, 8-12		p.d2*		20		20				arhltl_english
+engu901.s/03	monday	14:05		14:55		2-6, 8-12		p.sc3/4#		48		20				arhltl_english
+engu901.s/04	monday	15:05		15:55		2-6, 8-12		p.sc3/4#		48		20				arhltl_english
+engu901.s/05	thursday	10:05		10:55		2-6, 8-12		p.sc2*		20		20				arhltl_english
+engu901.s/06	thursday	15:05		15:55		2-6, 8-12		p.d2*		20		20				arhltl_english
+engu901.s/07	friday	10:05		10:55		2-6, 8-12		c.4w1		20		20				arhltl_english
+engu901.s/08	friday	12:05		12:55		2-6, 8-12		c.4w2		24		20				arhltl_english
+engu901.s/09	friday	13:05		13:55		2-6, 8-12		p.c2		30		20				arhltl_english
+engu901.s/10	friday	14:05		14:55		2-6, 8-12		c.2b44		20		20				arhltl_english
+engu901.s/11	friday	14:05		14:55		2-6, 8-12		c.2v3		20		20				arhltl_english
+engu901.s/12	friday	15:05		15:55		2-6, 8-12		c.2x4		32		20				arhltl_english
+engu901.s/13	friday	15:05		15:55		2-6, 8-12		c.4w1		20		20				arhltl_english
+engu901.s/14	friday	15:05		15:55		2-6, 8-12		c.2b44		20		20				arhltl_english
+ENGU903.L#	THURSDAY	13:05		13:55		1-6, 8-12		P.PLT		210		181		ANGUS VINE/KATIE HALSEY		ARHLTL_ENGLISH
+ENGU903.L#	TUESDAY	12:05		12:55		1-6, 8-12		P.PLT		210		181		ANGUS VINE/KATIE HALSEY		ARHLTL_ENGLISH
+engu903.s/01	monday	10:05		10:55		1-6, 8-12		c.2b74*		26		20				arhltl_english
+engu903.s/02	friday	09:05		09:55		1-6, 8-12		p.sc2*		20		20				arhltl_english
+engu903.s/03	friday	09:05		09:55		1-6, 8-12		c.3b145*		18		18				arhltl_english
+engu903.s/04	friday	10:05		10:55		1-6, 8-12		p.sc2*		20		20				arhltl_english
+engu903.s/05	friday	11:05		11:55		1-6, 8-12		p.sc2*		20		20				arhltl_english
+engu903.s/06	friday	12:05		12:55		1-6, 8-12		p.sc2*		20		20				arhltl_english
+engu903.s/07	friday	12:05		12:55		1-6, 8-12		c.2b46		20		20				arhltl_english
+engu903.s/08	friday	15:05		15:55		1-6, 8-12		c.2w5*		20		20				arhltl_english
+engu903.s/09	friday	16:05		16:55		1-6, 8-12		p.c2		30		20				arhltl_english
+engu903.s/10	friday	16:05		16:55		1-6, 8-12		c.3b129*		28		20				arhltl_english
+engu903.s/11	friday	16:05		16:55		1-6, 8-12		c.2w5*		20		20				arhltl_english
+engu903.s/12	friday	16:05		16:55		1-6, 8-12		p.d2*		20		20				arhltl_english
+engu9bw.s#	monday	14:05		15:55		1-6, 8-12		c.2b86		40		20		frances sessford		arhltl_english
+engu9c2.s/01	monday	10:05		10:55		1-6, 8-12		p.sc1		36		20		liam bell/chris powici		arhltl_english
+engu9c2.s/02	tuesday	12:05		12:55		1-6, 8-12		p.c1		30		20		chris powici/liam bell		arhltl_english
+engu9g2.s/01	wednesday	10:05		11:55		5-6, 8-12		c.2b46		20		20		angus vine		arhltl_english
+engu9g2.s/01	wednesday	10:05		11:55		2		p.sc2*		20		0				arhltl_english
+engu9g2.s/01	wednesday	10:05		11:55		1, 3-4		p.c1		30		0				arhltl_english
+engu9g2.s/02	thursday	15:05		16:55		1-6, 8-12		c.2w5*		20		20		angus vine		arhltl_english
+ENGU9HA.L#	MONDAY	10:05		10:55		1-6, 8-12		C.LTA5		92		70		ANGUS VINE/STEPHEN PENN		ARHLTL_ENGLISH
+engu9ha.s/01	monday	11:05		11:55		1-6, 8-12		c.2w5*		20		18		stephen penn/angus vine		arhltl_english
+engu9ha.s/02	monday	15:05		15:55		1-6, 8-12		c.3b145*		18		18		stephen penn/angus vine		arhltl_english
+engu9ha.s/03	monday	16:05		16:55		1-6, 8-12		c.3b145*		18		18		stephen penn/angus vine		arhltl_english
+engu9ha.s/04	tuesday	10:05		10:55		1-6, 8-12		p.d2*		20		18		stephen penn/angus vine		arhltl_english
+ENGU9HB.L#	THURSDAY	12:05		12:55		1-6, 8-12		P.LTA96		75		40		KATIE HALSEY		ARHLTL_ENGLISH
+engu9hb.s/01	wednesday	09:05		09:55		1-6, 8-12		p.d2*		20		15		katie halsey		arhltl_english
+engu9hb.s/02	friday	09:05		09:55		1-6, 8-12		p.d2*		20		15		katie halsey		arhltl_english
+engu9hb.s/03	friday	17:05		17:55		1-6, 8-12		p.sc2*		20		15		katie halsey		arhltl_english
+ENGU9HC.L#	THURSDAY	15:05		15:55		1-6, 8-12		P.LTA96		75		60				ARHLTL_ENGLISH
+engu9hc.s/01	monday	09:05		09:55		1-6, 8-12		c.2w5*		20		20				arhltl_english
+engu9hc.s/02	monday	13:05		13:55		1-6, 8-12		c.2b74*		26		20				arhltl_english
+engu9hc.s/03	friday	12:05		12:55		1-6, 8-12		c.2w5*		20		20				arhltl_english
+ENGU9HD.L#	FRIDAY	11:05		11:55		1-6, 8-12		P.LTA96		75		60		KIRSTIE BLAIR		ARHLTL_ENGLISH
+engu9hd.s/01	monday	14:05		14:55		1-6, 8-12		p.d2*		20		20		kirstie blair		arhltl_english
+engu9hd.s/02	monday	16:05		16:55		1-6, 8-12		c.3b129*		28		20		kirstie blair		arhltl_english
+engu9hd.s/03	tuesday	12:05		12:55		1-6, 8-12		c.4w5		24		20		kirstie blair		arhltl_english
+engu9hd.s/04	tuesday	16:05		16:55		1-6, 8-12		p.d2*		20		20		kirstie blair		arhltl_english
+ENGU9HE.L#	THURSDAY	09:05		09:55		2-6, 8-12		P.LTA96		75		63				ARHLTL_ENGLISH
+engu9he.s/01	monday	09:05		09:55		1-6, 8-12		p.d2*		20		20				arhltl_english
+engu9he.s/02	monday	13:05		13:55		1-6, 8-12		p.sc2*		20		20				arhltl_english
+engu9he.s/03	friday	12:05		12:55		1-6, 8-12		p.d2*		20		20				arhltl_english
+ENGU9HL.L#	TUESDAY	14:05		14:55		1-6, 8-12		P.LTA96		75		40		STEPHEN PENN		ARHLTL_ENGLISH
+engu9hl.s/01	thursday	12:05		12:55		1-6, 8-12		c.2w5*		20		20		andrew smith/stephen penn		arhltl_english
+engu9hl.s/02	thursday	13:05		13:55		1-6, 8-12		c.2b38		28		20		andrew smith/stephen penn		arhltl_english
+ENGU9L2.L#	MONDAY	15:05		15:55		1-6, 8-12		C.2B74*		26		16		BETHAN BENWELL		ARHLTL_ENGLISH
+engu9l2.s#	wednesday	10:05		11:55		1-6, 8-12		p.d2*		20		20		bethan benwell		arhltl_english
+engu9n2.s/01	friday	10:05		11:55		1-6, 8-12		c.2w5*		20		20		suzanne gilbert		arhltl_english
+engu9n2.s/02	friday	14:05		15:55		1-6, 8-12		p.d2*		20		20		suzanne gilbert		arhltl_english
+ENMP005.L#	THURSDAY	09:30		12:30		2-3, 5-6, 8-12		C.2B87		48		32		NICK HANLEY/FRANS DE VRIES		NATBES ES_PG
+enmp005.s#	wednesday	14:05		15:55		5-6, 8-11		c.a1		42		42		nick hanley/frans de vries		natbes es_pg
+ENMP04.L#	WEDNESDAY	09:05		12:55		1-3, 5-6, 8-12		C.3A142		40		18				NATBES ES_PG
+enmp22.s#	friday	09:05		16:55		2, 6, 8-12		c.3a142		40		20				natbes es_pg
+ENVU1GE.L#	MONDAY	17:05		17:55		2-6, 8-12		C.LTB4		179		140		EILEEN TISDALL/ANDREW TYLER		NATBES ES UG
+ENVU1GE.L#	THURSDAY	12:05		12:55		1-6, 8-12		C.LTA4		237		235		EILEEN TISDALL/ANDREW TYLER		NATBES ES UG
+ENVU1GE.L#	WEDNESDAY	11:05		11:55		1-6, 8-12		C.LTLOGIE		350		140		ANDREW TYLER/EILEEN TISDALL		NATBES ES UG
+ENVU3EC.L#	MONDAY	14:05		14:55		1-6, 8-12		C.LTA4		237		237		RICHARD TIPPING		NATBES ES UG
+ENVU3EC.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.LTA4		237		237		RICHARD TIPPING		NATBES ES UG
+ENVU3EC.L#	TUESDAY	17:05		17:55		1-6, 8-12		C.LTA4		237		237		RICHARD TIPPING		NATBES ES UG
+envu5a5.cl#	monday	09:05		12:55		05-Jun		c.1a11		60		60		alistair jump		natbes es ug
+ENVU5A5.L#	FRIDAY	13:05		13:55		1-6, 8-12		C.LTB4		179		142				NATBES ES UG
+ENVU5A5.L#	TUESDAY	11:05		11:55		1-6, 8-12		C.LT2V1		142		142		ALISTAIR JUMP		NATBES ES UG
+ENVU5A5.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		C.LT2V1		142		142				NATBES ES UG
+envu5s5.cl#	tuesday	14:05		17:55		6		c.1a11		60		60				natbes es ug
+ENVU5S5.L#	FRIDAY	15:05		15:55		1-6, 8-12		C.LTA5		92		60				NATBES ES UG
+ENVU5S5.L#	THURSDAY	10:05		10:55		1-6, 8-12		C.LTA4		237		34				NATBES ES UG
+ENVU5S5.L#	TUESDAY	14:05		14:55		1-6, 8-12		C.LTA5		92		32				NATBES ES UG
+envu7ee.s#	monday	11:05		11:55		2, 4-6		c.4u5		50		26		clare wilson		natbes es ug
+envu7se.cl#	thursday	09:05		13:55		5		c.2a17		43		34		david copplestone		natbes es ug
+ENVU7SE.L#	FRIDAY	12:05		12:55		01-Jun		C.2B86		40		40		DAVID COPPLESTONE		NATBES ES UG
+ENVU7SE.L#	MONDAY	13:05		13:55		01-Jun		C.2B87		48		40		DAVID COPPLESTONE		NATBES ES UG
+ENVU7WM.L#	FRIDAY	15:05		15:55		08-Dec		C.2B129#		30		30		DAVID OLIVER		NATBES ES UG
+ENVU7WM.L#	MONDAY	13:05		13:55		08-Nov		C.2V2		30		30		DAVID OLIVER		NATBES ES UG
+ENVU7WM.L#	MONDAY	13:05		14:55		12		C.3V2		34		30		DAVID OLIVER		NATBES ES UG
+ENVU9EP.L#	FRIDAY	13:05		13:55		08-Dec		C.4U5		50		12		RICHARD QUILLIAM		NATBES ES UG
+ENVU9EP.L#	MONDAY	15:05		15:55		08-Dec		C.4U5		50		16		RICHARD QUILLIAM		NATBES ES UG
+envu9ga.cl#	friday	14:05		16:55		03-Jun		c.3b151		250		25		ian simpson		natbes es ug
+ENVU9GA.L#	FRIDAY	10:05		11:55		1-6, 8-12		C.2B129#		30		25		IAN SIMPSON		NATBES ES UG
+ENVU9GL.L#	FRIDAY	14:05		14:55		1-2, 4-6, 8-10		C.LTA4		237		47				NATBES ES UG
+ENVU9GL.L#	TUESDAY	12:05		12:55		1-6, 8-10		C.2B76		30		28				NATBES ES UG
+ENVU9RE.L#	THURSDAY	14:05		14:55		01-Jun		C.3V2		34		5		ALISTAIR JUMP/DAISY DENT/NIGEL WILLBY		NATBES ES UG
+ENVU9RE.L#	TUESDAY	10:05		10:55		01-Jun		C.3B139*		14		10		ALISTAIR JUMP/DAISY DENT/NIGEL WILLBY		NATBES ES UG
+ENVU9RE.L#	TUESDAY	13:05		13:55		01-Jun		C.2B40*		12		12		ALISTAIR JUMP/DAISY DENT/NIGEL WILLBY		NATBES ES UG
+EUCU9AA.L#	FRIDAY	11:05		11:55		1-6, 8-12		P.PLT		210		150		ANTONIO SANCHEZ		ARHLTL_GCC
+eucu9aa.s/01	monday	11:05		11:55		2-6, 8-12		p.e26		20		15		bill marshall		arhltl_gcc
+eucu9aa.s/02	monday	12:05		12:55		2-6, 8-12		p.e9		18		15		bill marshall		arhltl_gcc
+eucu9aa.s/03	monday	15:05		15:55		2-6, 8-12		p.e26		20		15		bill marshall		arhltl_gcc
+eucu9aa.s/04	tuesday	10:05		10:55		2-6, 8-12		p.e26		20		15		antonio sanchez		arhltl_gcc
+eucu9aa.s/05	tuesday	11:05		11:55		2-6, 8-12		p.e9		18		15		ext ta gcc		arhltl_gcc
+eucu9aa.s/06	tuesday	13:05		13:55		2-6, 8-12		p.e9		18		15		ext ta gcc		arhltl_gcc
+eucu9aa.s/07	tuesday	15:05		15:55		2-6, 8-12		p.e26		20		15		antonio sanchez		arhltl_gcc
+eucu9aa.s/08	tuesday	16:05		16:55		2-6, 8-12		p.e26		20		15		antonio sanchez		arhltl_gcc
+eucu9c5.s#	wednesday	11:05		12:55		1-6, 8-12		.staff office		10000		8		antonio sanchez		arhltl_gcc
+EUCU9C7.L#	THURSDAY	09:05		09:55		1-4, 6, 8-12		P.PLT		210		68		FIONA BARCLAY		ARHLTL_GCC
+EUCU9C7.L#	THURSDAY	09:05		09:55		5		C.LTW1		94		69		FIONA BARCLAY		ARHLTL_GCC
+EUCU9C7.L#	TUESDAY	14:05		14:55		1-6, 8-12		P.D2*		20		20				ARHLTL_GCC
+eucu9c7.s/01	tuesday	16:05		16:55		1-6, 8-12		c.2a11		26		10		fiona barclay		arhltl_gcc
+eucu9c7.s/02	wednesday	09:05		09:55		1-6, 8-12		c.2b40*		12		10		fiona barclay		arhltl_gcc
+eucu9c7.s/03	thursday	13:05		13:55		1-6, 8-12		c.2b40*		12		10		fiona barclay		arhltl_gcc
+EUCU9CC.L#	MONDAY	13:05		13:55		1-6, 8-12		P.LTA96		75		75		ELIZABETH EZRA		ARHLTL_GCC
+eucu9cc.s/01	monday	10:05		10:55		2-6, 8-12		p.e26		20		20		elizabeth ezra		arhltl_gcc
+eucu9cc.s/02	monday	14:05		14:55		2-6, 8-12		p.e26		20		20		elizabeth ezra		arhltl_gcc
+eucu9cc.s/03	thursday	12:05		12:55		2-6, 8-12		p.e26		20		20		ext ta gcc		arhltl_gcc
+eucu9cc.s/04	thursday	16:05		16:55		2-6, 8-12		p.e26		20		20		ext ta gcc		arhltl_gcc
+FINU9FB.L#	THURSDAY	16:05		17:55		1-2, 4-6, 8-12		C.LTA5		92		35		DIONYSIA DIONYSIOU		MGTACF UG
+finu9fb.s/01	thursday	14:05		14:55		3-6, 8-12		c.2a9		26		20		dionysia dionysiou		mgtacf ug
+finu9fb.s/01	thursday	14:05		14:55		2		c.4w3		20		20		dionysia dionysiou		mgtacf ug
+finu9fb.s/02	thursday	15:05		15:55		2-6, 8-12		c.4w6		24		24		dionysia dionysiou		mgtacf ug
+FINU9FS.L#	TUESDAY	16:05		17:55		1		C.2A87		60		40				MGTACF UG
+FINU9FS.L#	WEDNESDAY	11:05		12:55		2-6, 8-12		C.2B87		48		40		COSTAS GAVRIILIDIS/LAZAROS SYMEONIDIS/PATRICK HERBST		MGTACF UG
+finu9fs.s/01	tuesday	15:05		15:55		3-6, 8-12		c.2b76		30		20		costas gavriilidis/lazaros symeonidis/patrick herbst		mgtacf ug
+finu9fs.s/02	tuesday	16:05		16:55		3-6, 8-12		c.2b85#		60		20		costas gavriilidis/lazaros symeonidis/patrick herbst		mgtacf ug
+FINU9PF.L#	FRIDAY	11:05		12:55		1-6, 8, 10-12		C.LTB4		179		69		ALAN GOODACRE		MGTACF UG
+finu9pf.s/01	wednesday	09:05		09:55		2-6, 8-12		c.2b87		48		40		alan goodacre		mgtacf ug
+finu9pf.s/02	wednesday	12:05		12:55		2-6, 8-12		c.4b128		30		30		alan goodacre		mgtacf ug
+finu9qa.cl/01	monday	12:05		13:55		3-6, 8-9		c.2b43		21		21		kate howie		mgtacf ug
+finu9qa.cl/02	monday	16:05		17:55		3-6, 8-9		c.2b43		21		21		kate howie		mgtacf ug
+finu9qa.cl/03	wednesday	11:05		12:55		3-6, 8-9		c.2b43		21		21		kate howie		mgtacf ug
+finu9qa.cl/04	thursday	09:05		10:55		3-6, 8-9		c.2b43		21		21		kate howie		mgtacf ug
+finu9qa.cl/05	friday	09:05		10:55		3-6, 8-9		c.2b43		21		21		kate howie		mgtacf ug
+FINU9QA.L#	MONDAY	11:05		11:55		1-6, 8-12		C.LTA5		92		91		ANDREW HOYLE/KATE HOWIE		MGTACF UG
+FINU9QA.L#	MONDAY	15:05		15:55		1-6, 8-12		C.LTB4		179		91		KATE HOWIE/ANDREW HOYLE		MGTACF UG
+FINU9QA.L#	THURSDAY	11:05		11:55		2-6, 8-12		C.LTB3		112		91		ANDREW HOYLE/KATE HOWIE		MGTACF UG
+FINU9QA.L#	THURSDAY	11:05		11:55		1		C.LT2V1		142		92				MGTACF UG
+FINU9QA.L#	WEDNESDAY	10:05		10:55		1-6, 8-12		C.LTW1		94		91		ANDREW HOYLE/KATE HOWIE		MGTACF UG
+FINU9TR.L#	THURSDAY	11:05		12:55		1-6, 8-12		C.2B40*		12		10		CHRIS COLES/KEVIN CAMPBELL		MGTACF UG
+fmspp03.s#	wednesday	09:05		10:55		1-6, 8-12		.staff office		10000		10		elizabeth ezra		arhcmc_pg
+fmspp09.s#	friday	09:05		10:55		1-6, 8-12		c.3b147#		18		15		karen boyle		arhcmc_pg
+fmspp10.s#	friday	13:05		14:55		1-6, 8-12		c.3b129*		28		15				arhcmc_pg
+FMSU9A7.L#	THURSDAY	13:05		14:55		1-6, 8-12		C.LTB4		179		34				ARHCMC UG
+fmsu9a7.s/01	thursday	15:05		15:55		1-6, 8-11		c.3b146		18		18		greg singh		arhcmc ug
+fmsu9a7.s/02	thursday	16:05		16:55		1-6, 8-11		c.2a19		30		18		greg singh		arhcmc ug
+fmsu9a7.s/03	friday	10:05		10:55		1-6, 8-11		p.d2*		20		18		greg singh		arhcmc ug
+fmsu9a7.s/04	friday	11:05		11:55		1-6, 8-11		p.d2*		20		18		greg singh		arhcmc ug
+FMSU9AB.L#	TUESDAY	12:05		12:55		1-6, 8-12		P.LTA96		75		75				ARHCMC UG
+fmsu9ab.s/01	thursday	09:05		09:55		2-6, 8-12		p.d3		54		19		dave rolinson		arhcmc ug
+fmsu9ab.s/02	thursday	11:05		11:55		2-6, 8-12		p.sc2*		20		19		dave rolinson		arhcmc ug
+fmsu9ab.s/03	thursday	14:05		14:55		2-6, 8-10		p.sc3/4#		48		19		dave rolinson		arhcmc ug
+fmsu9ab.s/03	thursday	14:05		14:55		11-Dec		c.a1		42		0				arhcmc ug
+fmsu9ab.s/04	thursday	15:05		15:55		2-6, 8-10		p.sc3/4#		48		19		dave rolinson		arhcmc ug
+fmsu9ab.s/04	thursday	15:05		15:55		11-Dec		c.2a9		26		20				arhcmc ug
+FMSU9C7.L#	MONDAY	10:05		11:55		2-6, 12		P.G18		24		20		SUZY ANGUS		ARHCMC UG
+FMSU9CD.L#	TUESDAY	10:05		11:55		1-6, 8-9		P.D14		8		8		DARIO SINFORIANI		ARHCMC UG
+FMSU9M1.L#	TUESDAY	16:05		17:55		1-6, 8-12		C.LTLOGIE		350		200		KATHARINA LINDNER		ARHCMC UG
+fmsu9m1.s/01	monday	12:05		12:55		2-6, 8-12		c.2v2		30		20		katharina lindner		arhcmc ug
+fmsu9m1.s/02	monday	11:05		11:55		2-6, 8-12		c.4w4		24		20		katharina lindner		arhcmc ug
+fmsu9m1.s/03	tuesday	09:05		09:55		2-6, 8-12		c.4w5		24		20		katharina lindner		arhcmc ug
+fmsu9m1.s/04	wednesday	12:05		12:55		1-6, 8-12		c.4w6		24		20		katharina lindner		arhcmc ug
+fmsu9m1.s/05	thursday	11:05		11:55		1-6, 8-12		c.2x6		32		20				arhcmc ug
+fmsu9m1.s/06	thursday	12:05		12:55		1-6, 8-12		c.4w6		24		20				arhcmc ug
+fmsu9m1.s/07	friday	09:05		09:55		1-6, 8-12		c.4w3		20		20		katharina lindner		arhcmc ug
+fmsu9m1.s/08	friday	12:05		12:55		1-6, 8-12		c.4w6		24		20		katharina lindner		arhcmc ug
+fmsu9m1.s/09	friday	14:05		14:55		1-6, 8-12		c.2b38		28		20		katharina lindner		arhcmc ug
+fmsu9m1.s/10	friday	15:05		15:55		1-6, 8-12		c.3v2		34		20		katharina lindner		arhcmc ug
+FMSU9M3.L#	WEDNESDAY	10:05		11:55		1-6, 8-12		C.LTA4		237		135				ARHCMC UG
+fmsu9m3.s/01	thursday	10:05		10:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/02	thursday	11:05		11:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/03	thursday	14:05		14:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/04	thursday	15:05		15:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/05	thursday	16:05		16:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/06	friday	10:05		10:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/07	friday	11:05		11:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/08	friday	13:05		13:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/09	friday	14:05		14:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+fmsu9m3.s/10	friday	15:05		15:55		1-6, 8-12		p.g18		24		22				arhcmc ug
+FMSU9SC.L#	TUESDAY	09:05		10:55		2-6, 8-12		P.D3		54		50				ARHCMC UG
+fmsu9sc.s/01	thursday	12:05		12:55		1-6, 8-12		p.g18		24		20		katharina lindner		arhcmc ug
+fmsu9sc.s/02	thursday	13:05		13:55		1-6, 8-12		p.g18		24		20		katharina lindner		arhcmc ug
+fmsu9sc.s/03	thursday	16:05		16:55		1-6, 8-12		p.a7		20		20		katharina lindner		arhcmc ug
+FMSU9SW.L#	MONDAY	12:05		13:55		1-6, 8-9, 11-12		C.LTB3		112		66		SARAH NEELY		ARHCMC UG
+fmsu9sw.s/01	monday	14:05		14:55		1-6, 8-12		c.2b74*		26		18				arhcmc ug
+fmsu9sw.s/02	monday	15:05		15:55		1-6, 8-12		c.2b48		28		18				arhcmc ug
+fmsu9sw.s/03	monday	16:05		16:55		1-6, 8-12		p.g18		24		18				arhcmc ug
+fmsu9sw.s/04	monday	17:05		17:55		1-6, 8-12		p.g18		24		18				arhcmc ug
+FREU9A1.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		P.PLT		210		90		BILL MARSHALL/CRISTINA JOHNSTON/ELIZABETH EZRA/FIONA BARCLAY/JEAN-MICHEL DES JACQUES		ARHLTL_FRENCH
+FREU9A3.L#	MONDAY	11:05		11:55		2-6, 8-12		P.PLT		210		60		BRIGITTE DEPRET/CRISTINA JOHNSTON/ELIZABETH EZRA/FIONA BARCLAY		ARHLTL_FRENCH
+freu9po.s#	monday	12:05		13:55		1-6, 8-12		p.e26		20		18		cristina johnston		arhltl_french
+freu9qc.s#	tuesday	12:05		13:55		1-6, 8-12		p.e26		20		18		bill marshall		arhltl_french
+GEOU1PE.L#	FRIDAY	13:05		13:55		1-6, 8-12		C.LTLOGIE		350		164		ROBERT MCCULLOCH		NATBES ES UG
+GEOU1PE.L#	MONDAY	09:05		09:55		2-6, 8-12		C.LTA6		253		164				NATBES ES UG
+GEOU1PE.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		C.LTA6		253		235		ALASDAIR ROSS		NATBES ES UG
+geou7ee.s#	wednesday	10:05		11:55		1		c.2b88		30		30		robert mcculloch		natbes es ug
+geou9is.cl#	thursday	15:05		17:55		1-6, 8-12		c.3a146		32		30				natbes es ug
+GEOU9IS.L#	THURSDAY	13:05		13:55		1-6, 8-12		C.LTB3		112		110		TOM BRADWELL/PHIL BARTIE/HEATHER PRICE		NATBES ES UG
+gndpp01.s#	thursday	10:05		12:55		8		c.2a9		26		16		karen boyle		arhcmc_pg
+gndpp01.s#	thursday	11:05		12:55		1-6, 9-12		c.3b146		18		16		karen boyle		arhcmc_pg
+gndpp02.s#	thursday	14:05		15:55		1-6, 8-12		c.3b145*		18		18		karen boyle		arhcmc_pg
+goipp20.s#	wednesday	09:05		10:55		11		c.2b45		16		0				arh pg
+goipp20.s#	wednesday	09:05		10:55		1-6, 8-10, 12		p.sc1		36		10		matt foley		arh pg
+HISU921.L#	FRIDAY	16:05		16:55		1-6, 8-9, 11-12		P.PLT		210		180		ALASDAIR ROSS/EMMA MACLEOD		ARHHPO_HISTORY
+HISU921.L#	TUESDAY	13:05		13:55		2-6, 8-12		P.PLT		210		180		COLIN NICOLSON/JACQUELINE JENKINSON/JIM SMYTH		ARHHPO_HISTORY
+hisu921.s/01	tuesday	09:05		09:55		2-6, 8-11		p.sc2*		20		20		catherine mills		arhhpo_history
+hisu921.s/02	tuesday	10:05		10:55		2-6, 8-11		p.sc2*		20		20		catherine mills		arhhpo_history
+hisu921.s/03	tuesday	16:05		16:55		2-6, 8-11		p.sc2*		20		20		catherine mills		arhhpo_history
+hisu921.s/04	wednesday	09:05		09:55		2-6, 8-11		p.sc2*		20		20		catherine mills		arhhpo_history
+hisu921.s/05	wednesday	12:05		12:55		2-6, 8-11		c.3b129*		28		20		catherine mills		arhhpo_history
+hisu921.s/06	thursday	09:05		09:55		2-6, 8-11		c.2b129#		30		20		catherine mills		arhhpo_history
+hisu921.s/07	thursday	12:05		12:55		2-6, 8-11		c.3b145*		18		18		catherine mills		arhhpo_history
+hisu921.s/08	friday	10:05		10:55		2-6, 8-11		c.3b145*		18		20		catherine mills		arhhpo_history
+hisu921.s/09	friday	11:05		11:55		2-6, 8-11		c.3b145*		18		20		catherine mills		arhhpo_history
+hisu921.s/10	friday	13:05		13:55		2-6, 8-11		c.2w5*		20		20		catherine mills		arhhpo_history
+hisu921.s/11	friday	14:05		14:55		2-6, 8-11		c.2w5*		20		20		catherine mills		arhhpo_history
+hisu921.s/12	friday	15:05		15:55		2-6, 8-11		c.a1		42		20		catherine mills		arhhpo_history
+hisu9a5.s/01	monday	09:05		10:55		1-6, 8-12		c.2b40*		12		12		alasdair ross		arhhpo_history
+hisu9a5.s/02	friday	09:05		10:55		1-6, 8-12		c.2b121#		36		12		alasdair ross		arhhpo_history
+hisu9a5.s/03	friday	13:05		14:55		1-6, 8-12		c.2b121#		36		12		alasdair ross		arhhpo_history
+hisu9b5.s/01	monday	09:05		10:55		1-6, 8-12		p.d3		54		16		diego palacios cerezales		arhhpo_history
+hisu9b5.s/02	monday	14:05		15:55		08-Dec		c.3x11		16		16		diego palacios cerezales		arhhpo_history
+hisu9b5.s/02	monday	14:05		15:55		01-Jun		p.d3		54		16		diego palacios cerezales		arhhpo_history
+hisu9b5.s/03	tuesday	09:05		10:55		1-6, 8-12		c.2b133		24		16		diego palacios cerezales		arhhpo_history
+hisu9d5.s/01	monday	12:05		13:55		1-6, 8-12		c.4w2		24		18		gyorgy toth		arhhpo_history
+hisu9d5.s/02	tuesday	12:05		13:55		1-6, 8-12		c.4w2		24		18		gyorgy toth		arhhpo_history
+hisu9d5.s/03	thursday	12:05		13:55		1-6, 8-12		c.2b86		40		18		gyorgy toth		arhhpo_history
+hisu9d7.s#	monday	09:05		11:55		2-6, 8-12, 1-5, 7-10, 12		c.3b139*		14		12		colin nicolson		arhhpo_history
+hisu9d7.s#	tuesday	14:05		16:55		1		c.3x11		16		12		colin nicolson		arhhpo_history
+hisu9f5.s/01	tuesday	16:05		17:55		1-6, 8-12		c.4b134		36		24		emma macleod		arhhpo_history
+hisu9f5.s/02	friday	11:05		12:55		1-6, 8-12		p.d3		54		25		emma macleod		arhhpo_history
+hisu9g5.s/01	wednesday	11:05		12:55		1-6, 8-12		p.d3		54		18		jacqueline jenkinson		arhhpo_history
+hisu9g5.s/02	thursday	12:05		13:55		1-6, 8-12		c.2b48		28		18		jacqueline jenkinson		arhhpo_history
+hisu9g5.s/03	friday	10:05		11:55		1-6, 8-12		c.3b146		18		18		jacqueline jenkinson		arhhpo_history
+hisu9g7.s#	friday	13:05		15:55		1-6, 8-12		c.3b139*		14		12		jacqueline jenkinson		arhhpo_history
+hisu9j7.s#	tuesday	14:05		16:55		1-6, 8-12, 1-5, 7-12		c.4w5		24		18		diego palacios cerezales		arhhpo_history
+hisu9l5.s/01	monday	14:05		15:55		1-6, 8-12		c.3b139*		14		12		david bebbington		arhhpo_history
+hisu9l5.s/02	thursday	14:05		15:55		1-6, 8-12		c.2b40*		12		12		david bebbington		arhhpo_history
+hisu9l5.s/03	friday	14:05		15:55		1-6, 8-12		c.3b145*		18		12		david bebbington		arhhpo_history
+hisu9p5.s/01	monday	10:05		11:55		1-6, 8-12		p.sc2*		20		18		michael penman		arhhpo_history
+hisu9p5.s/02	friday	09:05		10:55		1-6, 8-12		c.4b134		36		18		michael penman		arhhpo_history
+hisu9p5.s/03	friday	15:05		16:55		1-6, 8-12		p.c1		30		18		michael penman		arhhpo_history
+hisu9q7.s#	wednesday	10:05		12:55		1-6, 8-12, 1-5, 7-12		c.3b145*		18		18		michael penman		arhhpo_history
+HISU9S1.L#	FRIDAY	12:05		12:55		1-6, 8-12		P.PLT		210		140		ALASDAIR ROSS/ALASTAIR MANN/MICHAEL PENMAN		ARHHPO_HISTORY
+HISU9S1.L#	MONDAY	16:05		16:55		2-6, 8-12		P.PLT		210		140		ALASDAIR ROSS/ALASTAIR MANN/MICHAEL PENMAN		ARHHPO_HISTORY
+hisu9s1.s/01	monday	12:05		12:55		2-6, 8-12		c.2w5*		20		20				arhhpo_history
+hisu9s1.s/02	monday	13:05		13:55		2-6, 8-12		p.d2*		20		20				arhhpo_history
+hisu9s1.s/03	monday	17:05		17:55		2-6, 8-12		c.2w5*		20		20				arhhpo_history
+hisu9s1.s/04	tuesday	09:05		09:55		2-6, 8-12		c.4w1		20		20				arhhpo_history
+hisu9s1.s/05	tuesday	12:05		12:55		2-6, 8-12		c.2b74*		26		20				arhhpo_history
+hisu9s1.s/06	wednesday	12:05		12:55		2-6, 8-12		c.2v3		20		20				arhhpo_history
+hisu9s1.s/07	thursday	09:05		09:55		2-6, 8-12		c.3b145*		18		18				arhhpo_history
+hisu9s1.s/08	thursday	12:05		12:55		2-6, 8-12		p.d2*		20		20				arhhpo_history
+hisu9s1.s/09	tuesday	13:05		13:55		2-6, 8-12		c.2b74*		26		20				arhhpo_history
+hisu9s1.s/10	thursday	16:05		16:55		2-6, 8-12		p.d2*		20		20				arhhpo_history
+HISU9S3.L#	MONDAY	13:05		13:55		2-6, 8-12		C.LTA3		240		230		MICHAEL PENMAN/JIM SMYTH/COLIN NICOLSON/ALASDAIR ROSS		ARHHPO_HISTORY
+HISU9S3.L#	THURSDAY	11:05		11:55		1-6, 8-12		C.LTA3		240		230		ALASDAIR ROSS/COLIN NICOLSON/JACQUELINE JENKINSON/JIM SMYTH/MICHAEL PENMAN		ARHHPO_HISTORY
+hisu9s3.s/01	monday	09:05		09:55		2-6, 8-12		c.2b74*		26		20		jim smyth		arhhpo_history
+hisu9s3.s/02	monday	12:05		12:55		2-6, 8-12		c.2b133		24		20		jim smyth		arhhpo_history
+hisu9s3.s/03	monday	16:05		16:55		2-6, 8-12		c.3b147#		18		20		jim smyth		arhhpo_history
+hisu9s3.s/04	monday	17:05		17:55		2-6, 8-12		c.3b129*		28		20		jim smyth		arhhpo_history
+hisu9s3.s/05	tuesday	11:05		11:55		2-6, 8-12		p.sc2*		20		20		jim smyth		arhhpo_history
+hisu9s3.s/06	tuesday	12:05		12:55		2-6, 8-12		c.4w3		20		20		holgar nehring		arhhpo_history
+hisu9s3.s/07	tuesday	13:05		13:55		2-6, 8-12		c.4w4		24		20		holgar nehring		arhhpo_history
+hisu9s3.s/08	tuesday	17:05		17:55		2-6, 8-12		c.3b129*		28		20		jim smyth		arhhpo_history
+hisu9s3.s/09	wednesday	09:05		09:55		2-6, 8-12		c.2b121#		36		20		holgar nehring		arhhpo_history
+hisu9s3.s/10	wednesday	11:05		11:55		2-6, 8-12		c.3b146		18		20		holgar nehring		arhhpo_history
+hisu9s3.s/11	thursday	09:05		09:55		2-6, 8-12		c.4w3		20		20		holgar nehring		arhhpo_history
+hisu9s3.s/12	thursday	12:05		12:55		2-6, 8-12		c.4w5		24		20		holgar nehring		arhhpo_history
+hisu9s3.s/13	thursday	13:05		13:55		2-6, 8-12		c.3b145*		18		18		holgar nehring		arhhpo_history
+hisu9s3.s/14	thursday	16:05		16:55		2-6, 8-12		c.3b145*		18		18		holgar nehring		arhhpo_history
+hisu9s3.s/15	thursday	17:05		17:55		2-6, 8-12		c.2b74*		26		20		holgar nehring		arhhpo_history
+hisu9s5.s/01	monday	14:05		15:55		1-6, 8-12		c.3b147#		18		16		jim smyth		arhhpo_history
+hisu9s5.s/02	tuesday	14:05		15:55		1-6, 8-12		p.sc2*		20		16		jim smyth		arhhpo_history
+hisu9s5.s/03	thursday	15:05		16:55		1-6, 8-12		c.4w4		24		16		jim smyth		arhhpo_history
+hisu9w7.s#	tuesday	14:05		16:55		1-6, 8-12		c.2b74*		26		18		david bebbington		arhhpo_history
+hisu9x5.cl#	wednesday	10:05		11:55		10-Nov		p.g8		28		26		stuart salmon		arhhpo_history
+HISU9X5.L#	FRIDAY	10:05		10:55		1-6, 8-12		P.LTA96		75		27		STUART SALMON		ARHHPO_HISTORY
+hisu9x5.s/01	monday	12:05		13:55		2-6, 8-10		c.3b139*		14		14		stuart salmon		arhhpo_history
+hisu9x5.s/01	monday	16:05		17:55		1		c.3b139*		14		14		stuart salmon		arhhpo_history
+hisu9x5.s/02	friday	11:05		12:55		1-6, 8-10		p.sc1		36		14		stuart salmon		arhhpo_history
+hisu9y7.s#	thursday	12:05		14:55		1-6, 8-12, 1-5, 7-12		p.sc2*		20		12		alastair mann		arhhpo_history
+houp002.s#	tuesday	10:05		15:55		10		c.2a87		60		40				apshou
+houp005.s#	thursday	10:05		15:55		10		c.2a87		60		40				apshou
+HPSP111.L#	MONDAY	09:30		11:55		1-6, 8-12		C.2A43		20		20				NATPSY_PG
+HPSP112.L#	MONDAY	14:05		16:30		1-6, 8-12		C.2A43		20		20		VIVIEN SWANSON		NATPSY_PG
+hpsp113.cl#	tuesday	11:05		12:30		3-6, 8-11		c.1a11		60		60		adam kleczkowski		natpsy_pg
+hpsp113.cl#	tuesday	15:05		15:55		3-5, 8-11		c.1a11		60		60				natpsy_pg
+hpsp113.cl#	tuesday	15:05		15:55		6		c.2a15		57		57				natpsy_pg
+HPSP113.L#	TUESDAY	09:30		10:55		3-6, 8-12		C.LTW1		94		60				NATPSY_PG
+HPSP113.L#	TUESDAY	14:05		14:55		3-6, 8-11		C.LTB3		112		60				NATPSY_PG
+hpsp113.s#	tuesday	09:30		12:30		2		c.2a73		60		40				natpsy_pg
+hrmp001.cl#	thursday	13:05		14:55		11		c.1a11		60		35				mgtmwo_pg
+hrmp001.cl#	tuesday	12:05		13:55		11		c.2a17		43		35				mgtmwo_pg
+HRMP001.L#	MONDAY	09:05		10:55		3-5, 8-12		C.2B121#		36		35				MGTMWO_PG
+HRMP001.L#	TUESDAY	14:05		15:55		3-5, 8-12		C.2B86		40		35				MGTMWO_PG
+hrmp001.s/01	thursday	14:05		15:55		03-May		c.2v3		20		18				mgtmwo_pg
+hrmp001.s/02	thursday	11:05		12:55		03-May		c.2b133		24		18				mgtmwo_pg
+hrmp001.s#	monday	13:05		14:55		6, 8-12		c.a1		42		35				mgtmwo_pg
+HRMP002.L#	TUESDAY	16:05		17:55		3-6, 8-12		C.2B86		40		35		MARKUS KITTLER		MGTMWO_PG
+hrmp002.s/01	tuesday	10:05		11:55		3-6, 8-12		c.2v3		20		18		markus kittler		mgtmwo_pg
+hrmp002.s/02	wednesday	13:05		14:55		3-6, 8-12		c.3b146		18		18		markus kittler		mgtmwo_pg
+hrmp002.s/03	wednesday	15:05		16:55		3-6, 8-12		c.3b146		18		18		markus kittler		mgtmwo_pg
+HRMP003.L#	WEDNESDAY	10:05		11:55		3-6, 8-12		C.A1		42		35		LILA SKOUNTRIDAKI		MGTMWO_PG
+HRMP003.L#	WEDNESDAY	12:05		13:55		03-Jun		C.A1		42		35		DARREN MCGUIRE		MGTMWO_PG
+hrmp003.s/01	monday	11:05		12:55		3-6, 8-12		c.3b129*		28		20		lila skountridaki		mgtmwo_pg
+hrmp003.s/02	monday	15:05		16:55		3-6, 8-12		c.2w5*		20		20		lila skountridaki		mgtmwo_pg
+hrmp003.s/03	tuesday	16:05		17:55		3-6, 8-12		c.2b48		28		20		lila skountridaki		mgtmwo_pg
+HRMU9R5.L#	TUESDAY	12:05		12:55		1-6, 8-12		C.LTB3		112		50		BELGIN OKAY-SOMERVILLE		MGTMWO UG
+HRMU9R5.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		C.LTA5		92		50		BELGIN OKAY-SOMERVILLE		MGTMWO UG
+hrmu9r5.s/01	monday	11:05		11:55		3-6, 8-12		c.4w3		20		20		robbie wilson		mgtmwo ug
+hrmu9r5.s/02	monday	14:05		14:55		3-6, 8-12		c.2b133		24		20		bernard burnes		mgtmwo ug
+hrmu9r5.s/03	monday	16:05		16:55		3-6, 8-12		c.2b46		20		20		dave edgar		mgtmwo ug
+HRMU9RB.L#	TUESDAY	16:05		17:55		1-6, 8-12		C.2B87		48		40		BELGIN OKAY-SOMERVILLE/SCOTT HURRELL		MGTMWO UG
+hrmu9rb.s/01	tuesday	15:05		15:55		3-6, 8-12		c.4w4		24		20				mgtmwo ug
+hrmu9rb.s/02	friday	14:05		14:55		3-6, 8-12		c.4w3		20		20				mgtmwo ug
+HRMU9RI.L#	TUESDAY	10:05		11:55		1-6, 8-12		C.2A19		30		30				MGTMWO UG
+hrmu9ri.s/01	monday	09:05		10:55		3, 6, 9, 11		c.2b38		28		20		scott hurrell		mgtmwo ug
+hrmu9ri.s/02	wednesday	10:05		11:55		3, 6, 9, 11		c.2x4		32		20		scott hurrell		mgtmwo ug
+HRMU9S3.L#	MONDAY	15:05		15:55		1-6, 8-12		C.LTW1		94		78		SAIRA LEE		MGTMWO UG
+HRMU9S3.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.LTW1		94		78		SAIRA LEE		MGTMWO UG
+hrmu9s3.s/01	tuesday	10:05		10:55		3-6, 8-11		c.4w2		24		20		saira lee		mgtmwo ug
+hrmu9s3.s/02	tuesday	11:05		11:55		3-6, 8-11		c.4w2		24		20		saira lee		mgtmwo ug
+hrmu9s3.s/03	wednesday	10:05		10:55		3-6, 8-11		c.4w2		24		20		saira lee		mgtmwo ug
+hrmu9s3.s/04	thursday	15:05		15:55		3-6, 8-11		c.2x4		32		20		saira lee		mgtmwo ug
+IBUP001.L#	FRIDAY	10:05		11:55		3-6, 8, 10-11		C.2A87		60		50		SWAPNESH MASRANI		MGTMWO_PG
+IBUP001.L#	FRIDAY	10:05		11:55		9		C.2B84#		70		50		SWAPNESH MASRANI		MGTMWO_PG
+ibup001.s/01	monday	10:05		11:55		4-6, 8-12		c.2b42		20		17		swapnesh masrani		mgtmwo_pg
+ibup001.s/02	monday	14:05		15:55		4-6, 8-12		c.2v3		20		17		swapnesh masrani		mgtmwo_pg
+ibup001.s/03	tuesday	15:05		16:55		4-6, 8-12		c.2v3		20		17		swapnesh masrani		mgtmwo_pg
+IBUP002.L#	TUESDAY	11:05		12:55		3-6, 8-12		C.LTW1		94		60		JENOAH JOSEPH		MGTMWO_PG
+ibup002.s/01	tuesday	09:05		10:55		4-6, 8-12		c.2b44		20		14		jenoah joseph		mgtmwo_pg
+ibup002.s/02	tuesday	14:05		15:55		4-6, 8-12		c.4w1		20		16		jenoah joseph		mgtmwo_pg
+ibup002.s/03	thursday	09:05		10:55		4-6, 8-12		c.3b146		18		16		jenoah joseph		mgtmwo_pg
+ibup002.s/04	thursday	11:05		12:55		4-6, 8-12		c.3x11		16		16		jenoah joseph		mgtmwo_pg
+ibup002.s/05	thursday	14:05		15:55		4-6, 8-12		c.2v2		30		16		jenoah joseph		mgtmwo_pg
+INVP001.L#	MONDAY	13:05		14:55		3-6, 9-12		C.LTLOGIE		350		200		KEVIN CAMPBELL/GRAEME ACHESON		MGTACF_PG
+INVP001.L#	THURSDAY	16:05		17:55		8		C.LTA6		253		200				MGTACF_PG
+INVP001.L#	TUESDAY	15:05		15:55		3-6, 8-12		C.LTLOGIE		350		188		GRAEME ACHESON/KEVIN CAMPBELL		MGTACF_PG
+invp001.s/01	tuesday	09:05		09:55		09-Dec		c.2w5*		20		20		graeme acheson		mgtacf_pg
+invp001.s/02	tuesday	10:05		10:55		09-Dec		c.2b38		28		20		graeme acheson		mgtacf_pg
+invp001.s/03	tuesday	11:05		11:55		09-Dec		c.2b38		28		20		graeme acheson		mgtacf_pg
+invp001.s/04	tuesday	14:05		14:55		09-Dec		c.a1		42		20		graeme acheson		mgtacf_pg
+invp001.s/05	tuesday	16:05		16:55		09-Dec		c.2b42		20		20		graeme acheson		mgtacf_pg
+INVP002.L#	THURSDAY	09:05		10:55		5, 8-12		C.LTA6		253		160		ALISDAIR DOBIE		MGTACF_PG
+INVP002.L#	THURSDAY	10:05		10:55		3-4, 6		C.LTB4		179		160		ALISDAIR DOBIE		MGTACF_PG
+INVP002.L#	THURSDAY	15:05		15:55		3-4, 6		C.LTB4		179		160		ALISDAIR DOBIE		MGTACF_PG
+INVP002.L#	WEDNESDAY	11:05		12:55		3-6, 8-12		C.LTA3		240		160		ALISDAIR DOBIE		MGTACF_PG
+invp002.s/01	tuesday	09:05		09:55		4-6, 8-12		c.2b86		40		40				mgtacf_pg
+invp002.s/02	tuesday	10:05		10:55		4-6, 8-12		c.2b86		40		40				mgtacf_pg
+invp002.s/03	tuesday	11:05		11:55		4-6, 8-12		c.a1		42		40				mgtacf_pg
+invp002.s/04	tuesday	17:05		17:55		4-5, 8-12		c.2a87		60		40				mgtacf_pg
+invp002.s/04	tuesday	17:05		17:55		6		c.2b84#		70		40				mgtacf_pg
+itnp001.cl#	friday	10:05		10:55		2-6, 8-12		c.2y8		34		20		simon jones		natcsm cs
+itnp001.cl#	tuesday	14:05		14:55		2-6, 8-12		c.1a13		34		20		simon jones		natcsm cs
+ITNP001.L#	FRIDAY	11:05		11:55		1-6, 8-12		C.3B139*		14		12		SIMON JONES		NATCSM CS
+ITNP001.L#	MONDAY	14:05		14:55		1-6, 8-12		C.LTW1		94		20		SIMON JONES		NATCSM CS
+ITNP001.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.2W5*		20		20		SIMON JONES		NATCSM CS
+itnp001.s#	friday	09:05		09:55		1-6, 8-12		c.2b48		28		20		simon jones		natcsm cs
+itnp01a.cl#	thursday	10:05		11:55		2-5, 8-11		c.4x5		40		25		evan magill/marwan fayed		natcsm cs
+itnp01a.cl#	tuesday	16:05		17:55		2-5, 8-11		c.4x5		40		25		evan magill/marwan fayed		natcsm cs
+ITNP01A.L#	FRIDAY	12:05		12:55		1-5, 8-12		C.4W5		24		24		EVAN MAGILL/MARWAN FAYED		NATCSM CS
+ITNP01A.L#	MONDAY	15:05		15:55		1-5, 8-12		C.3B129*		28		25		EVAN MAGILL/MARWAN FAYED		NATCSM CS
+itnp023.cl#	monday	10:05		10:55		2-6, 8-12		c.4x5		40		15		andrea bracciali/una benlic		natcsm cs
+ITNP023.L#	FRIDAY	13:05		13:55		1-6, 8-12		C.2B45		16		15		ANDREA BRACCIALI/UNA BENLIC		NATCSM CS
+ITNP023.L#	THURSDAY	11:05		11:55		1-6, 8-12		C.4W3		20		15		ANDREA BRACCIALI/UNA BENLIC		NATCSM CS
+ITNP023.L#	THURSDAY	15:05		15:55		1-6, 8-12		C.2B38		28		15		ANDREA BRACCIALI/UNA BENLIC		NATCSM CS
+itnp023.s#	monday	13:05		13:55		2-6, 8-12		c.4w1		20		15		andrea bracciali/una benlic		natcsm cs
+itnp023.s#	thursday	16:05		16:55		2-6, 8-12		c.3b146		18		10		andrea bracciali/una benlic		natcsm cs
+itnp033.cl#	tuesday	16:05		17:55		1-6, 8-12		c.1a13		34		25		savi maharaj/bruce graham		natcsm cs
+ITNP033.L#	MONDAY	16:05		16:55		1-6, 8-12		C.2B76		30		25		SAVI MAHARAJ/BRUCE GRAHAM		NATCSM CS
+ITNP033.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		C.2B88		30		25		SAVI MAHARAJ/BRUCE GRAHAM		NATCSM CS
+itnp033.s#	thursday	14:05		14:55		2-6, 8-12		c.2x6		32		25		savi maharaj/bruce graham		natcsm cs
+ITNPBD1.L#	MONDAY	12:05		12:55		1-5, 8-12		C.2B87		48		20		JOZSEF FARKAS		NATCSM CS
+ITNPBD1.L#	TUESDAY	13:05		13:55		1-5, 8-12		C.2B48		28		20		JOZSEF FARKAS		NATCSM CS
+itnpbd1.s#	tuesday	09:05		10:55		1-5, 8-12		c.3v2		34		20		jozsef farkas		natcsm cs
+itnpbd2.cl#	thursday	09:05		09:55		1-5, 8-12		c.4x5		40		28		michael epitropakis/john woodward		natcsm cs
+ITNPBD2.L#	FRIDAY	14:05		14:55		1-6, 8-12		C.2B88		30		20		MICHAEL EPITROPAKIS/JOHN WOODWARD		NATCSM CS
+ITNPBD2.L#	MONDAY	13:05		13:55		1-6, 8-12		C.4W3		20		20		MICHAEL EPITROPAKIS/JOHN WOODWARD		NATCSM CS
+itnpbd3.cl#	thursday	13:05		14:55		2-6, 8-12		c.4x5		40		30		kevin swingler		natcsm cs
+ITNPBD3.L#	FRIDAY	13:05		13:55		1-6, 8-12		C.2B88		30		30		KEVIN SWINGLER		NATCSM CS
+ITNPBD3.L#	FRIDAY	16:05		16:55		1-6, 8-12		C.3V2		34		30		KEVIN SWINGLER		NATCSM CS
+itnpbd3.s#	friday	17:05		17:55		2-6, 8-12		c.3v2		34		30		kevin swingler		natcsm cs
+ITNPBD4.L#	FRIDAY	12:05		12:55		1-6, 8-12		C.4W3		20		20		GABRIELA OCHOA/LESLIE SMITH		NATCSM CS
+ITNPBD4.L#	TUESDAY	16:05		16:55		1-6, 8-12		C.4W2		24		20		LESLIE SMITH/GABRIELA OCHOA		NATCSM CS
+itnpbd4.s#	monday	16:05		16:55		2-6, 8-12		c.4w3		20		20		gabriela ochoa/leslie smith		natcsm cs
+JOUU9A3.L#	FRIDAY	09:05		09:55		1-5, 8-12		P.PLT		210		110		CLAIRE MCCARTHY		ARHCMC UG
+JOUU9A3.L#	TUESDAY	10:05		10:55		1-6, 8-12		P.PLT		210		114		IDREES AHMAD		ARHCMC UG
+jouu9a3.s/01	tuesday	12:05		12:55		1-6, 8-12		p.b43		10000		28		idrees ahmad		arhcmc ug
+jouu9a3.s/02	tuesday	13:05		13:55		1-6, 8-12		p.b43		10000		28		idrees ahmad		arhcmc ug
+jouu9a3.s/03	tuesday	16:05		16:55		1-6, 8-12		p.b43		10000		28		idrees ahmad		arhcmc ug
+jouu9a3.s/04	tuesday	17:05		17:55		1-6, 8-12		p.b43		10000		28		idrees ahmad		arhcmc ug
+JOUU9DJ.L#	MONDAY	11:05		11:55		1-6, 8-12		C.LTB4		179		45		EDDY BORGES-REY		ARHCMC UG
+JOUU9J5.L#	MONDAY	16:05		16:55		1-6, 8-12		P.LTA96		75		66		EDDY BORGES-REY		ARHCMC UG
+jouu9j5.s/01	tuesday	10:05		11:55		1-6, 8-12		p.b43		10000		30		eddy borges-rey		arhcmc ug
+jouu9j5.s/02	tuesday	14:05		15:55		1-6, 8-12		p.b43		10000		30		eddy borges-rey		arhcmc ug
+jouu9j5.s/03	wednesday	10:05		11:55		1-6, 8-12		p.b43		10000		30		eddy borges-rey		arhcmc ug
+JOUU9JT.L#	FRIDAY	10:05		12:55		1-6, 8-12		P.B43		10000		45		JOHN MCLELLAN		ARHCMC UG
+JOUU9JT.L#	FRIDAY	14:05		16:55		1-6, 8-12		P.B43		10000		45		ADRIAN HADLAND		ARHCMC UG
+JOUU9LN.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		C.LTB3		112		29		MARINA DEKAVALLA		ARHCMC UG
+jouu9ln.s/01	thursday	09:05		09:55		1-6, 8-12		c.3x11		16		16		marina dekavalla		arhcmc ug
+jouu9ln.s/02	thursday	10:05		10:55		1-6, 8-12		c.3x11		16		16		marina dekavalla		arhcmc ug
+JOUU9X1.L#	MONDAY	10:05		10:55		2-6, 8-12		C.LTA3		240		219		EDDY BORGES-REY		ARHCMC UG
+JOUU9X1.L#	THURSDAY	12:05		12:55		3		C.LTA6		253		219		ADRIAN HADLAND		ARHCMC UG
+JOUU9X1.L#	WEDNESDAY	09:05		10:55		1		P.PLT		210		210				ARHCMC UG
+jouu9x1.s/01	monday	12:05		12:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/02	monday	13:05		13:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/03	monday	15:05		15:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/04	tuesday	10:05		10:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/05	tuesday	11:05		11:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/06	tuesday	14:05		14:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/07	tuesday	15:05		15:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/08	wednesday	09:05		09:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/09	wednesday	10:05		10:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/10	wednesday	12:05		12:55		2-6, 8-12		p.g18		24		20				arhcmc ug
+jouu9x1.s/11	wednesday	14:05		14:55		2-6, 8-12		c.2w5*		20		20				arhcmc ug
+lawpp13.s#	monday	16:05		17:55		1-6, 8-12		c.4w5		24		11				arh pg
+lawpp18.s#	tuesday	09:05		10:55		1-6, 8-12		c.3x11		16		11		belen olmos giupponi		arh pg
+lawpprc.s#	tuesday	16:05		17:55		2-6, 8-12		c.3b147#		18		15		fraser davidson		arh pg
+LAWU9CL.L#	TUESDAY	11:05		11:55		2-6, 8-12		C.2A11		26		20		OLES ANDRIYCHUK		ARHLPH_LAW
+lawu9cl.s#	tuesday	12:05		12:55		2-6, 8-12		c.2a11		26		20		oles andriychuk		arhlph_law
+lawu9cy.s/01	wednesday	11:05		12:55		1-6, 8-12		c.4w3		20		20		lorraine wilson		arhlph_law
+lawu9cy.s/02	thursday	12:05		13:55		1-6, 8-12		c.2b121#		36		20		lorraine wilson		arhlph_law
+lawu9cy.s/03	friday	13:05		14:55		1-6, 8-12		p.d3		54		20		lorraine wilson		arhlph_law
+lawu9eu.s#	thursday	09:05		10:55		1-6, 8-12		c.2b38		28		20		jacopo martire		arhlph_law
+lawu9ih.s/01	tuesday	11:05		12:55		1-6, 8-12		c.2b48		28		20		ioana cismas		arhlph_law
+lawu9ih.s/02	thursday	11:05		12:55		1-6, 8-12		c.2b38		28		20		ioana cismas		arhlph_law
+lawu9ih.s/03	thursday	14:05		15:55		1-6, 8-12		c.2b76		30		20		ioana cismas		arhlph_law
+lawu9ih.s/04	thursday	16:05		17:55		1-6, 8-12		c.4w5		24		20		ioana cismas		arhlph_law
+lawu9il.s#	tuesday	16:05		17:55		1, 3-6, 8-12		p.c1		30		28		belen olmos giupponi		arhlph_law
+lawu9il.s#	tuesday	16:05		17:55		2		c.2a19		30		24				arhlph_law
+lawu9ip.s/01	tuesday	09:05		10:55		1-6, 8-12		c.4w4		24		24		alison green		arhlph_law
+lawu9ip.s/02	tuesday	14:05		15:55		1-6, 8-12		c.3v2		34		24		thomas margoni		arhlph_law
+lawu9ip.s/03	wednesday	10:05		11:55		1-6, 8-12		c.4b134		36		24		thomas margoni		arhlph_law
+lawu9ip.s/04	wednesday	12:05		13:55		1-6, 8-12		c.2b76		30		24		thomas margoni		arhlph_law
+LAWU9L1.L#	THURSDAY	10:05		10:55		2-6, 8-12		C.LTLOGIE		350		325		TIKUS LITTLE		ARHLPH_LAW
+LAWU9L1.L#	TUESDAY	14:05		14:55		2-6, 8-12		C.LTLOGIE		350		325				ARHLPH_LAW
+lawu9l1.s/01	tuesday	10:05		10:55		3-6, 8-11		c.2a11		26		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/02	tuesday	12:05		12:55		3-6, 8-11		c.2v3		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/03	thursday	15:05		15:55		3-6, 8-11		c.2a19		30		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/04	thursday	12:05		12:55		3-6, 8-11		c.2v3		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/05	thursday	16:05		16:55		3-6, 8-11		c.2b48		28		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/06	tuesday	13:05		13:55		3-6, 8-11		c.4w6		24		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/07	thursday	09:05		09:55		3-6, 8-11		c.4w1		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/08	thursday	17:05		17:55		3-6, 8-11		c.2v3		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/09	tuesday	09:05		09:55		3-6, 8-11		c.2b38		28		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/10	tuesday	17:05		17:55		3-6, 8-11		c.2v3		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/11	thursday	14:05		14:55		3-6, 8-11		c.2b48		28		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/12	tuesday	11:05		11:55		3-6, 8-11		c.3v2		34		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/13	thursday	13:05		13:55		3-6, 8-11		c.2x6		32		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/14	tuesday	15:05		15:55		3-6, 8-11		c.2b38		28		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/15	tuesday	16:05		16:55		3-6, 8-11		c.4w6		24		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/16	wednesday	09:05		09:55		3-6, 8-11		c.2v3		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/17	wednesday	11:05		11:55		3-6, 8-11		c.4w1		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/18	wednesday	12:05		12:55		3-6, 8-11		c.4w1		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/19	wednesday	15:05		15:55		3-6, 8-11		c.2v3		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/20	wednesday	14:05		14:55		3-6, 8-11		c.2v3		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/21	wednesday	16:05		16:55		3-6, 8-11		c.2v3		20		20		sarah-jane mccormick		arhlph_law
+lawu9l1.s/22	wednesday	10:05		10:55		8		c.2a19		30		20				arhlph_law
+lawu9l1.s/22	wednesday	10:05		10:55		3-6, 9-11		c.2b88		30		20		sarah-jane mccormick		arhlph_law
+LAWU9LD.L#	THURSDAY	14:05		14:55		01-Mar		P.D3		54		54		FRASER DAVIDSON		ARHLPH_LAW
+lawu9lp.s/01	tuesday	09:05		09:55		1-6, 8-12		c.4w3		20		20		jacopo martire		arhlph_law
+lawu9lp.s/02	tuesday	10:05		10:55		1-3, 5-6, 8-12		c.2w5*		20		20		jacopo martire		arhlph_law
+lawu9lp.s/02	tuesday	10:05		10:55		4		c.2b129#		30		20				arhlph_law
+lawu9lp.s/03	tuesday	11:05		11:55		1-6, 8-12		c.4w3		20		20		jacopo martire		arhlph_law
+lawu9lp.s/04	tuesday	13:05		13:55		1-6, 8-12		c.4w5		24		20		jacopo martire		arhlph_law
+lawu9lp.s/05	tuesday	14:05		14:55		1-6, 8-12		c.2b38		28		20		jacopo martire		arhlph_law
+lawu9lp.s/06	tuesday	15:05		15:55		1-6, 8-12		c.4w2		24		20		jacopo martire		arhlph_law
+lawu9pd.s/01	friday	10:05		10:55		1-6, 8-12		c.4w3		20		20		hannah donaldson		arhlph_law
+lawu9pd.s/02	friday	13:05		13:55		1-6, 8-12		p.d2*		20		20		hannah donaldson		arhlph_law
+lawu9pd.s/03	friday	15:05		15:55		1-6, 8-12		c.2b46		20		20		hannah donaldson		arhlph_law
+lawu9rm.s/01	monday	10:05		11:55		1-6, 8-12		c.2b87		48		30		hong-lin yu		arhlph_law
+lawu9rm.s/02	monday	13:05		14:55		1-6, 8-12		c.2a19		30		30		hong-lin yu		arhlph_law
+lawu9rm.s/03	monday	16:05		17:55		1-6, 8-12		c.2a19		30		30		hong-lin yu		arhlph_law
+lawu9st.s#	thursday	16:05		17:55		1-6, 8-12		c.4w3		20		20		jacopo martire		arhlph_law
+LEIU9LM.L#	MONDAY	12:05		12:55		2-6, 8-12		C.LT2V1		142		120		KEN THOMSON/GARY SINCLAIR		MGTMKR UG
+LEIU9LM.L#	THURSDAY	16:05		16:55		1-6, 8-12		C.LT2V1		142		120		GARY SINCLAIR/KEN THOMSON		MGTMKR UG
+leiu9lm.s/01	monday	10:05		10:55		3-6, 8-11		c.4w3		20		20		ken thomson		mgtmkr ug
+leiu9lm.s/02	monday	14:05		14:55		3-6, 8-11		c.2a11		26		20		ken thomson		mgtmkr ug
+leiu9lm.s/03	monday	16:05		16:55		3-6, 8-11		c.2a11		26		20		gary sinclair		mgtmkr ug
+leiu9lm.s/04	tuesday	09:05		09:55		3-6, 8-11		c.2v2		30		20		ken thomson		mgtmkr ug
+leiu9lm.s/05	thursday	12:05		12:55		3-6, 8-11		c.2x6		32		20		ken thomson		mgtmkr ug
+leiu9lm.s/06	friday	15:05		15:55		3-6, 8-11		c.2v3		20		20		ken thomson		mgtmkr ug
+LINU911.L#	MONDAY	13:05		13:55		2-6, 8-12		P.PLT		210		135		ANDREW SMITH/STEPHEN PENN		ARHLTL_ENGLISH
+LINU911.L#	TUESDAY	16:05		16:55		1-6, 8-12		C.LTB4		179		112		ANDREW SMITH/STEPHEN PENN		ARHLTL_ENGLISH
+linu911.s/01	wednesday	11:05		11:55		1-6, 8-12		c.2a9		26		18		tessa carroll		arhltl_english
+linu911.s/02	wednesday	12:05		12:55		1-6, 8-12		c.2a9		26		18		tessa carroll		arhltl_english
+linu911.s/03	thursday	11:05		11:55		1-6, 8-12		p.d2*		20		18		ta		arhltl_english
+linu911.s/04	thursday	12:05		12:55		1-6, 8-12		p.d3		54		18		ta		arhltl_english
+linu911.s/05	thursday	17:05		17:55		1-6, 8-12		c.3b129*		28		18		ta		arhltl_english
+linu911.s/06	friday	09:05		09:55		1-6, 8-12		c.2b44		20		18		ta		arhltl_english
+linu911.s/07	friday	12:05		12:55		1-6, 8-12		p.d1		54		18		ta		arhltl_english
+linu911.s/08	friday	17:05		17:55		1-6, 8-12		p.d2*		20		18		ta		arhltl_english
+linu911.s#	wednesday	14:05		14:55		4		c.lt2v1		142		135				arhltl_english
+LINU9L3.L#	MONDAY	11:05		11:55		1-6, 8-12		C.LTW1		94		80		ANDREW SMITH		ARHLTL_ENGLISH
+LINU9L3.L#	TUESDAY	10:05		10:55		1-6, 8-12		C.LTA5		92		57		ANDREW SMITH		ARHLTL_ENGLISH
+linu9l3.s/01	wednesday	10:05		10:55		1-6, 8-12		c.2w5*		20		20		andrew smith		arhltl_english
+linu9l3.s/02	wednesday	11:05		11:55		1-6, 8-12		c.2w5*		20		20		andrew smith		arhltl_english
+linu9l3.s/03	thursday	10:05		10:55		1-6, 8-12		c.2w5*		20		20		andrew smith		arhltl_english
+linu9l3.s/04	thursday	11:05		11:55		1-6, 8-12		c.2w5*		20		20		andrew smith		arhltl_english
+LLBU9AP.L#	FRIDAY	11:05		11:55		01-Jun		C.3X11		16		10		TIKUS LITTLE		ARHLPH_LAW
+llbu9ap.s#	thursday	16:05		16:55		1-2, 6, 8, 11		c.2b40*		12		10		tikus little		arhlph_law
+LLBU9C1.L#	FRIDAY	10:05		10:55		1-6, 8-12		C.LTA5		92		67		LORRAINE WILSON/TIKUS LITTLE		ARHLPH_LAW
+LLBU9C1.L#	WEDNESDAY	10:05		10:55		1-6, 8-12		C.LTA5		92		67		LORRAINE WILSON/TIKUS LITTLE		ARHLPH_LAW
+llbu9c1.s/01	thursday	15:05		15:55		1-6, 8-12		c.4w3		20		20		lorraine wilson		arhlph_law
+llbu9c1.s/02	thursday	16:05		16:55		1-6, 8-12		c.2b76		30		20		lorraine wilson		arhlph_law
+llbu9c1.s/03	friday	11:05		11:55		1-6, 8-12		c.4w3		20		20		lorraine wilson		arhlph_law
+llbu9c1.s/04	friday	16:05		16:55		1-6, 8-12		c.4w1		20		20		lorraine wilson		arhlph_law
+LLBU9CO.L#	TUESDAY	11:05		12:55		2-6, 8-12		C.LTB4		179		50		ALISON GREEN/TIKUS LITTLE		ARHLPH_LAW
+llbu9co.s/01	thursday	09:05		09:55		1-6, 8-12		c.4w4		24		20				arhlph_law
+llbu9co.s/02	thursday	12:05		12:55		2-6, 8-12		c.2b44		20		20				arhlph_law
+llbu9co.s/04	thursday	11:05		11:55		2-6, 8-12		c.2b76		30		20				arhlph_law
+LLBU9DE.L#	THURSDAY	13:05		14:55		2-6, 8-12		C.LTA5		92		48				ARHLPH_LAW
+llbu9de.s/01	thursday	17:05		17:55		2-6, 8-12		c.2b46		20		20				arhlph_law
+llbu9de.s/02	friday	11:05		11:55		2-6, 8-12		c.2v2		30		20				arhlph_law
+llbu9de.s/03	friday	16:05		16:55		2-6, 8-12		p.d3		54		20		tikus little		arhlph_law
+LLBU9EV.L#	MONDAY	11:05		11:55		1-6, 8-12		C.LT2V1		142		80		FRASER DAVIDSON		ARHLPH_LAW
+LLBU9EV.L#	THURSDAY	11:05		11:55		1-6, 8-12		C.LTA5		92		53		FRASER DAVIDSON		ARHLPH_LAW
+llbu9ev.s/01	friday	12:05		12:55		2-6, 8-12		c.2a9		26		20				arhlph_law
+llbu9ev.s/02	friday	15:05		15:55		2-6, 8-12		p.d3		54		20				arhlph_law
+llbu9ev.s/03	friday	16:05		16:55		2-6, 8-12		c.2v3		20		20				arhlph_law
+llbu9pl.s/01	monday	09:05		09:55		2-6, 8-12		c.4w3		20		20		gavin little/jacopo martire		arhlph_law
+llbu9pl.s/02	monday	11:05		11:55		2-6, 8-12		c.4w5		24		20		gavin little/jacopo martire		arhlph_law
+llbu9pl.s/03	monday	12:05		12:55		2-6, 8-12		c.4w5		24		20		gavin little/jacopo martire		arhlph_law
+llbu9pl.s/04	monday	14:05		14:55		2-6, 8-12		c.2x6		32		20		jacopo martire/gavin little		arhlph_law
+LLBU9PR.L#	FRIDAY	13:05		14:55		1-6, 8-12		P.LTA96		75		67		TIKUS LITTLE		ARHLPH_LAW
+llbu9pr.s/01	wednesday	12:05		12:55		2-6, 8-12		c.2b42		20		20		tikus little		arhlph_law
+llbu9pr.s/02	thursday	12:05		12:55		2-6, 8-12		c.2b42		20		20		tikus little		arhlph_law
+llbu9pr.s/03	thursday	17:05		17:55		2-6, 8-12		c.4w1		20		20		tikus little		arhlph_law
+lthp100.s#	wednesday	13:30		16:30		2-3, 5-6		c.3b129*		28		20				us/admcap
+manu9ba.cl#	friday	13:05		14:55		6, 10-11		c.2y8		34		30		gerry edgar		mgtmwo ug
+MANU9BA.L#	FRIDAY	12:05		12:55		1-6, 8-11		C.3V2		34		22		GERRY EDGAR		MGTMWO UG
+MANU9BA.L#	TUESDAY	11:05		11:55		1-6, 8-11		C.4W5		24		22		GERRY EDGAR		MGTMWO UG
+manu9ba.s#	friday	13:05		14:55		03-May		c.2b85#		60		22				mgtmwo ug
+MANU9IM.L#	THURSDAY	10:05		10:55		1-6, 8-12		C.LT2V1		142		35		GERRY EDGAR		MGTMWO UG
+MANU9IM.L#	TUESDAY	13:05		13:55		1-6, 8-12		C.3V2		34		30		GERRY EDGAR		MGTMWO UG
+manu9im.s/01	thursday	16:05		17:55		1-6, 8-12		c.2b84#		70		18		gerry edgar		mgtmwo ug
+manu9im.s/02	friday	10:05		11:55		3-6, 8-12		c.3b129*		28		18		gerry edgar		mgtmwo ug
+MANU9L5.L#	MONDAY	13:05		14:55		1-6, 8-12		C.LT2V1		142		94		BELGIN OKAY-SOMERVILLE/CHRISTINE WILSON		MGTMWO UG
+manu9l5.s/01	tuesday	15:05		16:55		4, 6		c.2b129#		30		26		christine wilson		mgtmwo ug
+manu9l5.s/01	tuesday	15:05		16:55		9, 11		c.2v2		30		0				mgtmwo ug
+manu9l5.s/01	tuesday	16:05		17:55		2		c.2b48		28		26				mgtmwo ug
+manu9l5.s/02	wednesday	14:05		15:55		2, 4, 6, 9, 11		c.2b121#		36		26		christine wilson		mgtmwo ug
+manu9l5.s/03	thursday	10:05		11:55		9, 11		c.2b129#		30		24		christine wilson		mgtmwo ug
+manu9l5.s/03	thursday	10:05		11:55		2, 4, 6		c.4w2		24		24				mgtmwo ug
+manu9m7.cl#	monday	10:05		11:55		1-6, 8-12		c.2b43		21		18				mgtmwo ug
+manu9m7.cl#	monday	13:05		13:55		5		c.1a13		34		18		john bowers		mgtmwo ug
+manu9m7.cl#	thursday	14:05		14:55		5-6, 8		c.2a21		30		18				mgtmwo ug
+MANU9M7.L#	MONDAY	13:05		13:55		3-4, 6, 8-12		C.3B147#		18		18		JOHN BOWERS		MGTMWO UG
+MANU9M7.L#	THURSDAY	14:05		14:55		1-4, 9-11		C.3B147#		18		18				MGTMWO UG
+manu9m7.s#	monday	10:05		11:55		1-6, 8-12		c.3b147#		18		18				mgtmwo ug
+MATU9D1.L#	FRIDAY	09:05		09:55		1-6, 8-12		C.LTB3		112		100				NATCSM M
+MATU9D1.L#	MONDAY	14:05		14:55		2-6, 8-12		C.LTB4		179		100		DONALD SMITH/JESSICA ENRIGHT		NATCSM M
+MATU9D1.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.LTB3		112		100		DONALD SMITH/JESSICA ENRIGHT		NATCSM M
+MATU9D1.L#	TUESDAY	13:05		13:55		1-6, 8-12		C.LTA4		237		100		DONALD SMITH/JESSICA ENRIGHT		NATCSM M
+matu9d1.s/01	monday	11:05		12:30		2-6, 8-12		c.4x4		14		12		jessica enright		natcsm m
+matu9d1.s/02	monday	12:05		13:30		2-6, 8-12		c.4x2		20		12		donald smith		natcsm m
+matu9d1.s/03	monday	16:05		17:30		2-6, 8-12		c.4x4		14		12		jessica enright		natcsm m
+matu9d1.s/04	tuesday	11:30		12:55		2-6, 8-12		c.4x2		20		12		jessica enright		natcsm m
+matu9d1.s/05	wednesday	11:30		12:55		2-6, 8-12		c.4x2		20		12		jessica enright		natcsm m
+matu9d1.s/06	thursday	10:05		11:30		2-6, 8-12		c.4x2		20		12		jessica enright		natcsm m
+matu9d1.s/07	thursday	11:30		12:55		2-6, 8-12		c.4x4		14		12		jessica enright		natcsm m
+matu9d1.s/08	thursday	15:30		16:55		2-6, 8-12		c.4x2		20		12		jessica enright		natcsm m
+matu9d1.s/09	friday	12:05		13:30		2-6, 8-12		c.4x4		14		12		jessica enright		natcsm m
+matu9d1.s/10	friday	13:30		14:55		2-6, 8-12		c.4x4		14		12		jessica enright		natcsm m
+matu9d1.s/11	friday	15:05		16:30		2-6, 8-12		c.4x4		14		12		jessica enright		natcsm m
+MATU9KA.L#	THURSDAY	12:05		12:55		1-6, 8-12		C.LTB3		112		42		PENNY JACKSON		NATCSM M
+MATU9KA.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.LTA5		92		40		PENNY JACKSON		NATCSM M
+MATU9KA.L#	TUESDAY	17:05		17:55		1-6, 8-12		C.LTW1		94		40		PENNY JACKSON		NATCSM M
+matu9ka.s/01	tuesday	10:30		11:55		1-6, 8-12		c.4w6		24		15		penny jackson		natcsm m
+matu9ka.s/02	wednesday	10:05		11:30		1-6, 8-12		c.2b48		28		15		penny jackson		natcsm m
+matu9ka.s/05	thursday	16:05		17:30		1-6, 8-12		c.4w6		24		15		penny jackson		natcsm m
+MATU9LA.L#	MONDAY	14:05		14:55		1-6, 8-12		C.2B87		48		48		ADAM KLECZKOWSKI		NATCSM M
+MATU9LA.L#	THURSDAY	09:05		09:55		1-6, 8-12		C.LT2V1		142		40		ADAM KLECZKOWSKI		NATCSM M
+MATU9LA.L#	THURSDAY	14:05		14:55		1-6, 8-12		C.LT2V1		142		36		ADAM KLECZKOWSKI		NATCSM M
+matu9la.s/01	monday	09:05		10:30		1-6, 8-12		c.4x4		14		14		adam kleczkowski		natcsm m
+matu9la.s/02	thursday	10:05		11:30		1-6, 8-12		c.4x4		14		14		adam kleczkowski		natcsm m
+matu9la.s/03	thursday	15:05		16:30		1-6, 8-12		c.4x4		14		14		adam kleczkowski		natcsm m
+matu9la.s/04	friday	10:30		11:55		1-6, 8-12		c.4x4		14		14		adam kleczkowski		natcsm m
+MATU9M1.L#	MONDAY	09:05		09:55		2-6, 8-12		C.LTA3		240		100				NATCSM M
+MATU9M1.L#	THURSDAY	09:05		09:55		1-6, 8-12		C.LTB4		179		100				NATCSM M
+MATU9M1.L#	THURSDAY	13:05		13:55		1-6, 8-12		C.LT2V1		142		100				NATCSM M
+MATU9M1.L#	TUESDAY	14:05		14:55		1-6, 8-12		C.LTA4		237		100				NATCSM M
+matu9m1.s/01	monday	10:05		11:30		2-6, 8-12		c.4x2		20		14				natcsm m
+matu9m1.s/02	monday	14:05		15:30		2-6, 8-12		c.4x4		14		14				natcsm m
+matu9m1.s/03	tuesday	09:05		10:30		2-6, 8-12		c.4x4		14		14				natcsm m
+matu9m1.s/04	tuesday	11:05		12:30		2-6, 8-12		c.4x4		14		14				natcsm m
+matu9m1.s/05	wednesday	10:05		11:30		2-6, 8-12		c.4x4		14		14				natcsm m
+matu9m1.s/06	friday	10:30		11:55		2-6, 8-12		c.4x2		20		14				natcsm m
+matu9m1.s/07	friday	14:05		15:30		2-6, 8-12		c.4w5		24		14				natcsm m
+MATU9M3.L#	MONDAY	10:05		10:55		1-6, 8-12		C.LT2V1		142		60		DONALD SMITH		NATCSM M
+MATU9M3.L#	THURSDAY	11:05		11:55		1-6, 8-12		C.LTW1		94		60		DONALD SMITH/PENNY JACKSON		NATCSM M
+MATU9M3.L#	TUESDAY	13:05		13:55		1-6, 8-12		C.LTW1		94		50		DONALD SMITH/PENNY JACKSON		NATCSM M
+MATU9M3.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.2B85#		60		60		PENNY JACKSON		NATCSM M
+matu9m3.s/01	monday	15:05		16:30		1-6, 8-12		c.4b134		36		15				natcsm m
+matu9m3.s/02	monday	16:30		17:55		1-6, 8-12		c.4w2		24		15				natcsm m
+matu9m3.s/03	wednesday	11:30		12:55		1-6, 8-12		c.2b48		28		15				natcsm m
+matu9m3.s/04	thursday	14:05		15:30		1-6, 8-12		c.4x2		20		15				natcsm m
+MATU9MA.L#	FRIDAY	11:05		11:55		1-6, 8-12		C.LTA5		92		60		ANDREW HOYLE/RACHEL NORMAN		NATCSM M
+MATU9MA.L#	THURSDAY	10:05		10:55		1-6, 8-12		C.LTA5		92		44		ANDREW HOYLE/RACHEL NORMAN		NATCSM M
+MATU9MA.L#	TUESDAY	12:05		12:55		1-6, 8-12		C.2B85#		60		60		ANDREW HOYLE/RACHEL NORMAN		NATCSM M
+matu9ma.s/01	monday	13:30		14:55		2-6, 8-12		c.4x2		20		16		andrew hoyle/rachel norman		natcsm m
+matu9ma.s/02	tuesday	10:05		11:30		2-6, 8-12		c.4x2		20		16		andrew hoyle/rachel norman		natcsm m
+matu9ma.s/03	friday	09:05		10:30		2-6, 8-12		c.4x2		20		16		andrew hoyle/rachel norman		natcsm m
+matu9ma.s/04	friday	12:05		13:30		2-6, 8-12		c.4x2		20		16		andrew hoyle/rachel norman		natcsm m
+matu9ma.s/05	friday	14:05		15:30		2-6, 8-12		c.4x2		20		16		andrew hoyle/rachel norman		natcsm m
+matu9rp.cl#	tuesday	13:05		14:55		1-6, 8-12		c.4x2		20		20		kate howie/rachel norman		natcsm m
+mbm.cl#	thursday	14:05		16:30		4		c.1a11		60		25				}mbm
+MBM.L#	FRIDAY	09:05		17:55		01-Feb		C.2A13		56		40				}MBM
+MBM.L#	FRIDAY	09:05		17:55		6		C.2A13		56		40				}MBM
+MBM.L#	MONDAY	09:05		17:55		01-Feb		C.2A13		56		40				}MBM
+MBM.L#	THURSDAY	09:05		17:55		6		C.2A13		56		40				}MBM
+MBM.L#	THURSDAY	09:05		17:55		1		C.2A13		56		40				}MBM
+MBM.L#	TUESDAY	09:05		17:55		01-Feb		C.2A13		56		40				}MBM
+MBM.L#	TUESDAY	09:05		17:55		6		C.2A13		56		40				}MBM
+MBM.L#	WEDNESDAY	09:05		12:55		6		C.2A13		56		40				}MBM
+MBM.L#	WEDNESDAY	09:05		12:55		01-Feb		C.2A13		56		40				}MBM
+mccpp07.s#	monday	15:05		15:55		2-6, 8-12		p.d2*		20		16				arh pg
+MGTU9S1.L#	THURSDAY	12:05		12:55		1-6, 8-12		C.LTLOGIE		350		350				MGTMKR UG
+MGTU9S1.L#	TUESDAY	12:05		12:55		1		C.LTLOGIE		350		350		RUTH WATKINS		MGTMKR UG
+MGTU9S1.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.LTLOGIE		350		350				MGTMKR UG
+mgtu9s1.s/01	monday	16:05		16:55		3-6, 8-11		c.a1		42		20				mgtmkr ug
+mgtu9s1.s/02	tuesday	10:05		10:55		3-6, 8-11		c.2v2		30		20				mgtmkr ug
+mgtu9s1.s/03	tuesday	16:05		16:55		3-6, 8-11		c.2b133		24		20				mgtmkr ug
+mgtu9s1.s/04	tuesday	14:05		14:55		3-6, 8-11		c.2v2		30		20				mgtmkr ug
+mgtu9s1.s/05	tuesday	13:05		13:55		3-6, 8-11		c.2x4		32		20				mgtmkr ug
+mgtu9s1.s/06	monday	13:05		13:55		3-6, 8-11		c.2b44		20		20				mgtmkr ug
+mgtu9s1.s/07	wednesday	10:05		10:55		3-6, 8-11		c.2v2		30		20				mgtmkr ug
+mgtu9s1.s/08	monday	16:05		16:55		3-6, 8-11		c.2v2		30		20				mgtmkr ug
+mgtu9s1.s/09	thursday	09:05		09:55		3-6, 8-11		c.2v3		20		20				mgtmkr ug
+mgtu9s1.s/10	thursday	16:05		16:55		3-6, 8-11		c.2v2		30		20				mgtmkr ug
+mgtu9s1.s/11	monday	11:05		11:55		3-6, 8-11		c.2b46		20		20				mgtmkr ug
+mgtu9s1.s/12	wednesday	11:05		11:55		3-6, 8-11		c.2b38		28		20				mgtmkr ug
+mgtu9s1.s/13	friday	10:05		10:55		3-6, 8-11		c.4w6		24		20				mgtmkr ug
+mgtu9s1.s/14	monday	16:05		16:55		3-6, 8-11		c.2a9		26		20				mgtmkr ug
+mgtu9s1.s/15	monday	12:05		12:55		3-6, 8-11		c.2v3		20		20				mgtmkr ug
+mgtu9s1.s/16	monday	14:05		14:55		3-6, 8-11		c.2w5*		20		20				mgtmkr ug
+mgtu9s1.s/17	monday	15:05		15:55		3-6, 8-11		c.2a9		26		20				mgtmkr ug
+mgtu9s1.s/18	tuesday	11:05		11:55		3-6, 8-11		c.2b46		20		20				mgtmkr ug
+mgtu9s1.s/19	tuesday	09:05		09:55		3-6, 8-11		c.2b42		20		20				mgtmkr ug
+MGTU9S3.L#	FRIDAY	14:05		14:55		1-6, 8-12		C.LTA3		240		225		CHRISTINE WILSON		MGTMWO UG
+MGTU9S3.L#	TUESDAY	14:05		14:55		1-6, 8-12		C.LTA3		240		225				MGTMWO UG
+mgtu9s3.s/01	wednesday	12:05		12:55		3-5, 8-12		c.2b121#		36		20				mgtmwo ug
+mgtu9s3.s/02	monday	13:05		13:55		3-5, 8-12		c.2b121#		36		20				mgtmwo ug
+mgtu9s3.s/03	monday	12:05		12:55		3-5, 8-12		c.2b121#		36		20				mgtmwo ug
+mgtu9s3.s/04	friday	11:05		11:55		3-5, 8-12		c.a1		42		20				mgtmwo ug
+mgtu9s3.s/05	thursday	16:05		16:55		3-5, 8-12		c.2b85#		60		20				mgtmwo ug
+mgtu9s3.s/06	tuesday	12:05		12:55		3-5, 8-12		c.a1		42		20				mgtmwo ug
+mgtu9s3.s/07	friday	09:05		09:55		3-5, 8-12		c.2b85#		60		20				mgtmwo ug
+mgtu9s3.s/08	thursday	09:05		09:55		3-5, 8-12		c.3b147#		18		18				mgtmwo ug
+mgtu9s3.s/09	tuesday	09:05		09:55		3-5, 8-12		c.2b84#		70		20				mgtmwo ug
+mgtu9s3.s/10	thursday	15:05		15:55		3-5, 8-12		c.2b85#		60		20				mgtmwo ug
+mgtu9s3.s/11	friday	09:05		09:55		3-5, 8-12		c.2b129#		30		20				mgtmwo ug
+mgtu9s3.s/12	monday	15:05		15:55		3-5, 8-12		c.2b88		30		20				mgtmwo ug
+mgtu9s3.s/13	tuesday	15:05		15:55		3-5, 8-12		c.2b85#		60		20				mgtmwo ug
+mgtu9s3.s/14	friday	12:05		12:55		3-5, 8-12		c.a1		42		20				mgtmwo ug
+mgtu9s3.s/15	monday	11:05		11:55		3-5, 8-12		c.2b121#		36		20				mgtmwo ug
+mgtu9s3.s/16	thursday	12:05		12:55		3-5, 8-12		c.2b85#		60		20				mgtmwo ug
+MKTP001.L#	MONDAY	09:05		10:55		2-6, 8-12		C.LTB3		112		60		JULIE TINSON		MGTMKR_PG
+MKTP001.L#	THURSDAY	15:05		16:55		2-6, 8-12		C.LTB3		112		60		JULIE TINSON		MGTMKR_PG
+MKTP002.L#	FRIDAY	09:05		10:55		2-6, 8-12		C.LTA4		237		60				MGTMKR_PG
+MKTP002.L#	TUESDAY	16:05		17:55		2-6, 8-12		C.LTB3		112		60				MGTMKR_PG
+MKTP003.L#	FRIDAY	14:05		15:55		2-6, 8-12		C.LT2V1		142		60		MARKUS WOHLFEI		MGTMKR_PG
+MKTP003.L#	MONDAY	13:05		14:55		3		C.2B84#		70		60		MARKUS WOHLFEI		MGTMKR_PG
+MKTP003.L#	THURSDAY	11:05		12:55		2-6, 8-12		C.LT2V1		142		60		MARKUS WOHLFEI		MGTMKR_PG
+MKTU9M3.L#	MONDAY	14:05		14:55		1-6, 8-12		C.LTA3		240		160		GARY SINCLAIR/IAN FILLIS		MGTMKR UG
+MKTU9M3.L#	THURSDAY	10:05		10:55		1-6, 8-12		C.LTA3		240		160		GARY SINCLAIR/IAN FILLIS		MGTMKR UG
+mktu9m3.s/01	tuesday	09:05		09:55		3-6, 8-11		c.2b46		20		20		atif al balushi		mgtmkr ug
+mktu9m3.s/02	tuesday	11:05		11:55		3-6, 8-11		c.2b44		20		20		hamid medjbour		mgtmkr ug
+mktu9m3.s/03	tuesday	15:05		15:55		3-6, 8-11		c.2b44		20		20		hamid medjbour		mgtmkr ug
+mktu9m3.s/04	tuesday	16:05		16:55		3-6, 8-11		c.2b46		20		20		atif al balushi		mgtmkr ug
+mktu9m3.s/05	wednesday	11:05		11:55		3-6, 8-11		c.4w2		24		20		hamid medjbour		mgtmkr ug
+mktu9m3.s/06	thursday	12:05		12:55		3-6, 8-11		c.4w3		20		20		hamid medjbour		mgtmkr ug
+mktu9m3.s/07	friday	09:05		09:55		3-6, 8-11		c.2b46		20		20		hamid medjbour		mgtmkr ug
+mktu9m3.s/08	friday	13:05		13:55		3-6, 8-11		c.4w3		20		20		atif al balushi		mgtmkr ug
+mktu9m3.s/09	friday	15:05		15:55		3-6, 8-11		c.2b133		24		20		hamid medjbour		mgtmkr ug
+MKTU9M5.L#	MONDAY	17:05		17:55		1-6, 8-12		C.LT2V1		142		111		GARY SINCLAIR/MICHAEL HEALY		MGTMKR UG
+MKTU9M5.L#	THURSDAY	15:05		15:55		1-6, 8-12		C.LTA3		240		111		GARY SINCLAIR/MICHAEL HEALY		MGTMKR UG
+mktu9m5.s/01	monday	10:05		10:55		2-6, 8-10		c.4w1		20		20		michael healy		mgtmkr ug
+mktu9m5.s/02	tuesday	17:05		17:55		2-6, 8-10		c.4w3		20		20		michael healy		mgtmkr ug
+mktu9m5.s/03	wednesday	10:05		10:55		2-6, 8-10		c.4w1		20		20		michael healy		mgtmkr ug
+mktu9m5.s/04	thursday	09:05		09:55		2-6, 8-10		c.4w6		24		20		michael healy		mgtmkr ug
+mktu9m5.s/05	friday	13:05		13:55		2-6, 8-10		c.4w1		20		20		michael healy		mgtmkr ug
+mktu9m5.s/06	friday	14:05		14:55		2-6, 8-10		c.4w6		24		20		michael healy		mgtmkr ug
+MKTU9M7.L#	THURSDAY	10:05		11:55		2-6, 8-12		C.4W6		24		21				MGTMKR UG
+MKTU9M7.L#	THURSDAY	14:05		14:55		1		C.2B133		24		21				MGTMKR UG
+mktu9m8.s#	friday	12:05		12:55		1-6, 8-12		c.ltb3		112		45				mgtmkr ug
+MKTU9SP.L#	THURSDAY	13:05		13:55		1-6, 8-12		C.LTW1		94		94		DIMITRIOS KOLYPERAS		MGTMKR UG
+MKTU9SP.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.LT2V1		142		95		DIMITRIOS KOLYPERAS		MGTMKR UG
+mktu9sp.s/01	monday	10:05		10:55		3-6, 8-11		c.2b46		20		20		dimitrios kolyperas		mgtmkr ug
+mktu9sp.s/02	monday	16:05		16:55		3-6, 8-11		c.4w1		20		20		dimitrios kolyperas		mgtmkr ug
+mktu9sp.s/03	tuesday	13:05		13:55		3-6, 8-11		c.2b44		20		20		dimitrios kolyperas		mgtmkr ug
+mktu9sp.s/04	tuesday	14:05		14:55		3-6, 8-11		c.2b44		20		20		dimitrios kolyperas		mgtmkr ug
+mktu9sp.s/05	tuesday	16:05		16:55		3-6, 8-11		c.2b38		28		20		dimitrios kolyperas		mgtmkr ug
+mktu9sp.s/06	thursday	16:05		16:55		3-6, 8-11		c.4w2		24		20		dimitrios kolyperas		mgtmkr ug
+MMAPP10.L#	MONDAY	11:05		11:55		1-6, 8-12		P.D3		54		35		PHILLIPPA LOVATT		ARHCMC_PG
+mmapp10.s/01	monday	12:05		12:55		1-6, 8-12		p.d3		54		18		phillippa lovatt		arhcmc_pg
+mmapp10.s/02	monday	13:05		13:55		1-6, 8-12		p.d3		54		18		phillippa lovatt		arhcmc_pg
+mmapp12.s/01	friday	11:05		11:55		1-6, 8-12		c.2b86		40		25		pietari kaapa/phillippa lovatt		arhcmc_pg
+mmapp12.s/02	friday	10:05		10:55		1-6, 8-12		c.2b86		40		25		pietari kaapa/phillippa lovatt		arhcmc_pg
+MMAPP13.L#	FRIDAY	15:05		16:55		1-6, 8-12		P.D1		54		50		PHILLIPPA LOVATT/PIETARI KAAPA		ARHCMC_PG
+mpppp01.s#	thursday	15:05		16:55		1-6, 8-12		p.sc2*		20		20		paul cairney		arh pg
+MRMP001.L#	MONDAY	12:05		14:55		01-Feb		C.3B129*		28		20		ALEX WOOD/SCOTT HURRELL		MGTGRS
+MRMP001.L#	MONDAY	13:05		14:55		3-4, 6, 8-12		C.3B129*		28		20		ALEX WOOD/SCOTT HURRELL		MGTGRS
+mrmp001.s#	tuesday	14:05		15:55		6, 9-10		c.2b42		20		20		alex wood/scott hurrell		mgtgrs
+mrmp002.cl#	friday	13:05		14:55		08-Sep		c.2y8		34		20		mike walsh		mgtgrs
+MRMP002.L#	WEDNESDAY	09:05		10:55		3-6, 8-12		C.4W3		20		20		MIKE WALSH		MGTGRS
+mrmp002.s#	friday	09:05		10:55		3-6, 8-12		c.a1		42		20		mike walsh		mgtgrs
+mrmp003.cl#	monday	15:05		16:55		11		c.2y8		34		30		seda erdem		mgtgrs
+mrmp003.cl#	thursday	10:05		11:55		3-6, 8-12		c.2y8		34		30		seda erdem		mgtgrs
+MRMP003.L#	WEDNESDAY	11:05		12:55		3-6, 8-12		C.2A19		30		30		SEDA ERDEM		MGTGRS
+nmhu4ad.s/01	thursday	10:05		11:55		9		c.2b45		16		15				shsreg
+nmhu4ad.s/01	thursday	13:05		14:55		9		c.2v3		20		15				shsreg
+nmhu4ad.s/02	thursday	10:05		11:55		9		c.2a11		26		15				shsreg
+nmhu4ad.s/02	thursday	13:05		14:55		9		c.4w3		20		15				shsreg
+nmhu4ad.s/03	thursday	10:05		11:55		9		c.2b46		20		15				shsreg
+nmhu4ad.s/03	thursday	13:05		14:55		9		c.3x11		16		15				shsreg
+nmhu4ad.s/04	thursday	10:05		11:55		9		c.3b145*		18		15				shsreg
+nmhu4ad.s/04	thursday	13:05		14:55		9		c.4b134		36		15				shsreg
+nmhu4ad.s/05	thursday	10:05		11:55		9		c.4w5		24		15				shsreg
+nmhu4ad.s/05	thursday	13:05		14:55		9		c.2b45		16		15				shsreg
+nmhu4ad.s/06	thursday	10:05		11:55		9		c.3b129*		28		15				shsreg
+nmhu4ad.s/06	thursday	13:05		14:55		9		c.3b146		18		15				shsreg
+nmhu4ad.s/07	thursday	10:05		11:55		9		c.2b74*		26		15				shsreg
+nmhu4ad.s/07	thursday	13:05		14:55		9		c.2w5*		20		15				shsreg
+nmhu4ad.s/08	thursday	10:05		11:55		9		c.2a9		26		15				shsreg
+nmhu4ad.s/08	thursday	13:05		14:55		9		c.2b42		20		15				shsreg
+nmhu4ad.s/09	thursday	10:05		11:55		9		c.3b147#		18		15				shsreg
+nmhu4ad.s/09	thursday	13:05		14:55		9		c.2b88		30		15				shsreg
+nmhu4ad.s/10	thursday	10:05		11:55		9		c.2v3		20		15				shsreg
+nmhu4ad.s/10	thursday	13:05		14:55		9		c.2b44		20		15				shsreg
+nmhu4ad.s/11	thursday	10:05		11:55		9		c.4w4		24		15				shsreg
+nmhu4ad.s/11	thursday	13:05		14:55		9		c.4w6		24		15				shsreg
+nmhu4ad.s/12	thursday	10:05		11:55		9		c.4w1		20		15				shsreg
+nmhu4ad.s/12	thursday	13:05		14:55		9		c.4w1		20		15				shsreg
+nmhu4ad.s/13	thursday	10:05		11:55		9		c.2b48		28		15				shsreg
+nmhu4ad.s/13	thursday	13:05		14:55		9		c.4w4		24		15				shsreg
+nmhu4ad.s/14	thursday	10:05		11:55		9		c.2b42		20		15				shsreg
+nmhu4ad.s/14	thursday	13:05		14:55		9		c.2b129#		30		15				shsreg
+nmhu4ad.s/15	thursday	10:05		11:55		9		c.4w2		24		15				shsreg
+nmhu4ad.s/15	thursday	13:05		14:55		9		c.4w5		24		15				shsreg
+nmhu4ad.s/16	thursday	10:05		11:55		9		c.2b44		20		15				shsreg
+nmhu4ad.s/16	thursday	13:05		14:55		9		c.4w2		24		15				shsreg
+nmhu4ad.s/17	thursday	10:05		11:55		9		c.2v2		30		15				shsreg
+nmhu4ad.s/17	thursday	13:05		14:55		9		c.3b129*		28		15				shsreg
+nmhu4mh.s/01	friday	10:05		11:55		08-Dec		c.2b85#		60		60				shsreg
+nmhu4mh.s/01	friday	13:05		14:55		08-Dec		c.2b85#		60		60				shsreg
+nmhu4mh.s/01	monday	10:05		11:55		08-Dec		c.2b84#		70		60				shsreg
+nmhu4mh.s/01	monday	13:05		14:55		08-Dec		c.2b84#		70		60				shsreg
+nmhu4mh.s/01	thursday	10:05		11:55		08-Dec		c.2b85#		60		60				shsreg
+nmhu4mh.s/01	thursday	13:05		14:55		08-Dec		c.2b85#		60		60				shsreg
+nmhu4mh.s/01	tuesday	10:05		11:55		8, 11		c.2a87		60		60				shsreg
+nmhu4mh.s/01	tuesday	10:05		11:55		09-Oct		c.lta6		253		60				shsreg
+nmhu4mh.s/01	tuesday	10:05		11:55		12		c.2b85#		60		60				shsreg
+nmhu4mh.s/01	tuesday	13:05		14:55		08-Dec		c.2b85#		60		60				shsreg
+nmhu4mh.s/01	wednesday	10:05		11:55		08-Dec		c.2b85#		60		60				shsreg
+nmhu4mh.s/01	wednesday	13:05		14:55		08-Dec		c.2b85#		60		60				shsreg
+nmhu7mh.s/01	friday	09:05		15:55		1-6, 8		c.2b84#		70		66				shsreg
+nmhu7mh.s/01	monday	09:05		15:55		1-6, 8		c.4w6		24		18				shsreg
+nmhu7mh.s/01	thursday	09:05		15:55		1-6, 8		c.2b84#		70		66				shsreg
+nmhu7mh.s/01	tuesday	09:05		15:55		1-6, 8		c.3b146		18		18				shsreg
+nmhu7mh.s/01	wednesday	09:05		15:55		1-6, 8		c.3b147#		18		18				shsreg
+nurpd1.s/01	thursday	09:05		14:55		8		c.2b133		24		10				shshpr
+nurpd1.s/01	tuesday	10:05		16:55		8		c.2b129#		30		10				shshpr
+nurpd1.s/01	wednesday	09:05		16:55		8		c.2a11		26		10				shshpr
+nurpd3.cl/01	friday	09:05		15:55		8		c.2b41		16		12				shshpr
+nurpd3.cl/01	thursday	09:05		15:55		8		c.2b41		16		12				shshpr
+nurpd3.cl/01	wednesday	09:05		16:55		8		c.2b41		16		12				shshpr
+NURU211.L/01	WEDNESDAY	09:05		16:55		4, 8		C.2B86		40		35				SHSPQL
+NURU233.L/01	TUESDAY	09:05		16:55		1		C.2B84#		70		60				SHSPQL
+NURU233.L/01	WEDNESDAY	09:05		16:55		4		C.2B84#		70		60				SHSPQL
+PCMPPX2.L#	WEDNESDAY	10:05		11:55		1-6, 8-12		C.3B139*		14		14				ARHCMC_PG
+pdmu9al.s#	thursday	12:05		13:55		1-6, 8-12, 1-5, 7-12		c.3a1		40		20		annie wallom		us/admcds
+pdmu9l4.s/01	monday	10:05		11:55		2-6, 8-12		c.2b76		30		20				natcsm m
+pdmu9l4.s/02	monday	12:05		13:55		2-6, 8-12		c.2b76		30		20				natcsm m
+pdmu9l4.s/03	wednesday	13:05		14:55		2-6, 8-12		c.4w4		24		20				natcsm m
+pdmu9l4.s/04	friday	11:05		12:55		2-6, 8-12		c.2b76		30		20				natcsm m
+pdmu9l4.s/05	friday	15:05		16:55		2-6, 8-12		c.2b88		30		20				natcsm m
+pdmu9lw.s#	thursday	10:05		11:55		1-6, 8-12		c.2b121#		36		36		elaine watson		us/admcds
+pdmu9lw.s#	tuesday	10:05		11:55		1-6, 8-12		c.2b87		48		40		elaine watson		us/admcds
+PHI9VSS.L#	THURSDAY	16:05		17:55		1-5, 8-12, 1-5, 7-12		P.C1		30		25		ADRIAN HADDOCK/COLIN JOHNSTON/JESSE TOMALTY/JOSHUA THORPE/KENT HURTIG/MIKE WHEELER/PETER MILNE/PETER SULLIVAN/PHILIP EBERT/ROWAN CRUFT/SIMON HOPE/SONIA ROCA-REYES/STEINVOR ARNADOTTIR		}LPH
+PHIU911.L#	FRIDAY	15:05		15:55		1-6, 8-12		C.LTLOGIE		350		238		MIKE WHEELER/PHILIP EBERT/ROWAN CRUFT/STEINVOR ARNADOTTIR		ARHLPH_PHILOSOPHY
+PHIU911.L#	TUESDAY	10:05		10:55		1-6, 8-12		C.LTLOGIE		350		238		COLIN JOHNSTON/KENT HURTIG/MIKE WHEELER/PHILIP EBERT/SIMON HOPE/STEINVOR ARNADOTTIR		ARHLPH_PHILOSOPHY
+phiu911.s/01	monday	10:05		10:55		2-6, 8-12		c.4b134		36		12				arhlph_philosophy
+phiu911.s/02	thursday	15:05		15:55		2-6, 8-10		p.sc1		36		12				arhlph_philosophy
+phiu911.s/02	thursday	15:05		15:55		11-Dec		c.2b42		20		0				arhlph_philosophy
+phiu911.s/03	thursday	16:05		16:55		2-6, 8-10		p.sc1		36		12				arhlph_philosophy
+phiu911.s/03	thursday	16:05		16:55		11-Dec		c.2b42		20		0				arhlph_philosophy
+phiu911.s/04	friday	10:05		10:55		2-6, 8-12		p.sc1		36		12				arhlph_philosophy
+phiu911.s/05	friday	09:05		09:55		2-6, 8-12		p.d1		54		12				arhlph_philosophy
+phiu911.s/06	tuesday	16:05		16:55		2-6, 8-12		c.2b76		30		12				arhlph_philosophy
+phiu911.s/07	thursday	12:05		12:55		2-6, 8-12		c.4w1		20		12				arhlph_philosophy
+phiu911.s/08	wednesday	12:05		12:55		2-6, 8-12		c.2b44		20		12				arhlph_philosophy
+phiu911.s/09	tuesday	14:05		14:55		2-6, 8-12		p.c2		30		12				arhlph_philosophy
+phiu911.s/10	friday	12:05		12:55		2-6, 8-12		c.2b44		20		12				arhlph_philosophy
+phiu911.s/11	wednesday	12:05		12:55		2-6, 8-12		c.2b46		20		12				arhlph_philosophy
+phiu911.s/12	wednesday	09:05		09:55		2-6, 8-12		c.3b146		18		12				arhlph_philosophy
+phiu911.s/13	thursday	17:05		17:55		2-6, 8-12		c.2b44		20		12				arhlph_philosophy
+phiu911.s/14	friday	11:05		11:55		2-6, 8-12		c.2b38		28		12				arhlph_philosophy
+phiu911.s/15	thursday	11:05		11:55		2-6, 8-12		c.3v2		34		12				arhlph_philosophy
+phiu911.s/16	wednesday	09:05		09:55		2-6, 8-12		c.3x11		16		12				arhlph_philosophy
+phiu911.s/17	monday	11:05		11:55		2-6, 8-12		p.d1		54		12				arhlph_philosophy
+phiu911.s/18	wednesday	11:05		11:55		2-6, 8-12		c.2b76		30		12				arhlph_philosophy
+phiu911.s/19	thursday	09:05		09:55		2-6, 8-12		c.4w2		24		12				arhlph_philosophy
+phiu911.s/20	monday	11:05		11:55		2-6, 8-12		c.3v2		34		12				arhlph_philosophy
+phiu911.s/21	monday	13:05		13:55		2-6, 8-12		c.4w4		24		12				arhlph_philosophy
+phiu911.s/22	monday	09:05		09:55		2-6, 8-12		c.4b134		36		12		simon hope		arhlph_philosophy
+phiu911.s/23	monday	12:05		12:55		2-6, 8-12		c.2b42		20		12				arhlph_philosophy
+phiu911.s/24	tuesday	11:05		11:55		2-6, 8-12		c.2x6		32		12				arhlph_philosophy
+phiu911.s/25	tuesday	12:05		12:55		2-6, 8-12		c.3v2		34		12				arhlph_philosophy
+PHIU913.L#	MONDAY	09:05		09:55		1-6, 8-12		P.PLT		210		179		ADRIAN HADDOCK/MIKE WHEELER		ARHLPH_PHILOSOPHY
+PHIU913.L#	THURSDAY	12:05		12:55		1-6, 8-12		C.LTB4		179		136		MIKE WHEELER		ARHLPH_PHILOSOPHY
+phiu913.s/01	monday	12:05		12:55		2-6, 8-12		c.4w3		20		16				arhlph_philosophy
+phiu913.s/02	monday	13:05		13:55		2-6, 8-12		c.4w5		24		16				arhlph_philosophy
+phiu913.s/03	monday	15:05		15:55		2-6, 8-12		c.3v2		34		16				arhlph_philosophy
+phiu913.s/04	monday	16:05		16:55		2-6, 8-12		p.d3		54		16				arhlph_philosophy
+phiu913.s/05	tuesday	11:05		11:55		2-6, 8-12		c.4b134		36		16				arhlph_philosophy
+phiu913.s/06	tuesday	12:05		12:55		2-6, 8-12		c.2b45		16		16				arhlph_philosophy
+phiu913.s/07	tuesday	14:05		14:55		2-6, 8-12		p.c1		30		16				arhlph_philosophy
+phiu913.s/08	tuesday	15:05		15:55		2-6, 8-12		c.4b134		36		16				arhlph_philosophy
+phiu913.s/09	wednesday	12:05		12:55		2-6, 8-12		c.3b146		18		16				arhlph_philosophy
+phiu913.s/10	thursday	10:05		10:55		2-6, 8-12		c.4w3		20		16				arhlph_philosophy
+phiu913.s/11	friday	11:05		11:55		2-6, 8-12		c.4b134		36		16				arhlph_philosophy
+phiu913.s/12	friday	12:05		12:55		2-6, 8-12		c.3b146		18		16				arhlph_philosophy
+phiu913.s/13	friday	13:05		13:55		2-6, 8-12		c.2x4		32		16				arhlph_philosophy
+phiu913.s/14	friday	14:05		14:55		2-6, 8-12		c.2x4		32		16				arhlph_philosophy
+phiu913.s/15	friday	15:05		15:55		2-6, 8-12		c.4w2		24		16				arhlph_philosophy
+PHIU9CA.L#	THURSDAY	10:05		10:55		1-6, 8-12		P.LTA96		75		32		MIKE WHEELER		ARHLPH_PHILOSOPHY
+PHIU9CA.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		P.LTA96		75		50		MIKE WHEELER		ARHLPH_PHILOSOPHY
+phiu9ca.s/01	monday	09:05		09:55		1-6, 8-12		c.2a19		30		12		peter sullivan		arhlph_philosophy
+phiu9ca.s/02	monday	12:05		12:55		1-6, 8-12		c.4w1		20		12		peter sullivan		arhlph_philosophy
+phiu9ca.s/03	wednesday	10:05		10:55		1-6, 8-12		c.4w4		24		12		peter sullivan		arhlph_philosophy
+phiu9ca.s/04	wednesday	11:05		11:55		1-6, 8-12		c.3x11		16		12		peter sullivan		arhlph_philosophy
+PHIU9CB.L#	THURSDAY	11:05		11:55		1-6, 8-9, 11-12		P.LTA96		75		40		COLIN JOHNSTON/STEINVOR ARNADOTTIR		ARHLPH_PHILOSOPHY
+PHIU9CB.L#	TUESDAY	12:05		12:55		1-6, 8-12		P.D3		54		50		COLIN JOHNSTON/STEINVOR ARNADOTTIR		ARHLPH_PHILOSOPHY
+phiu9cb.s/01	monday	14:05		14:55		1-6, 8-12		c.4b134		36		15		steinvor arnadottir		arhlph_philosophy
+phiu9cb.s/02	tuesday	15:05		15:55		1-6, 8-12		p.d1		54		15		steinvor arnadottir		arhlph_philosophy
+phiu9cb.s/03	tuesday	17:05		17:55		1-6, 8-12		c.2b44		20		15		steinvor arnadottir		arhlph_philosophy
+phiu9cb.s/04	wednesday	10:05		10:55		1-6, 8-12		c.4w5		24		15		steinvor arnadottir		arhlph_philosophy
+PHIU9LA.L#	FRIDAY	13:05		13:55		1-6, 8-12		C.2B86		40		40		PETER MILNE		ARHLPH_PHILOSOPHY
+PHIU9LA.L#	TUESDAY	13:05		13:55		1-6, 8-12		C.LTB3		112		40		PETER MILNE		ARHLPH_PHILOSOPHY
+phiu9la.s/01	tuesday	15:05		15:55		1-6, 8-12		p.c1		30		12		peter milne		arhlph_philosophy
+phiu9la.s/02	tuesday	16:05		16:55		1-6, 8-12		p.d1		54		12		peter milne		arhlph_philosophy
+phiu9la.s/03	friday	09:05		09:55		1-6, 8-12		c.3x11		16		12		peter milne		arhlph_philosophy
+phiu9la.s/04	friday	15:05		15:55		1-6, 8-12		c.2b87		48		12		peter milne		arhlph_philosophy
+PHIU9PC.L#	MONDAY	13:05		13:55		1-6, 8-12		C.2B86		40		36		ADRIAN HADDOCK		ARHLPH_PHILOSOPHY
+PHIU9PC.L#	WEDNESDAY	11:05		11:55		1-6, 8-12		C.LTW1		94		36		ADRIAN HADDOCK		ARHLPH_PHILOSOPHY
+phiu9pc.s/01	wednesday	12:05		12:55		1-6, 8-12		c.3x11		16		12		adrian haddock		arhlph_philosophy
+phiu9pc.s/02	friday	10:05		10:55		1-6, 8-12		c.2b46		20		12		adrian haddock		arhlph_philosophy
+phiu9pc.s/03	friday	11:05		11:55		1-6, 8-12		c.2b45		16		12		adrian haddock		arhlph_philosophy
+PHIU9PD.L#	THURSDAY	13:05		14:55		1-6, 8-12		P.LTA96		75		30		KENT HURTIG		ARHLPH_PHILOSOPHY
+phiu9pd.s/01	thursday	09:05		09:55		1-6, 8-12		c.3v2		34		13		kent hurtig		arhlph_philosophy
+phiu9pd.s/02	thursday	10:05		10:55		1-6, 8-12		c.3v2		34		13		kent hurtig		arhlph_philosophy
+PHIU9PH.L#	MONDAY	10:05		10:55		1-6, 8-12		C.3V2		34		30		SIMON HOPE		ARHLPH_PHILOSOPHY
+PHIU9PH.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.3V2		34		30		SIMON HOPE		ARHLPH_PHILOSOPHY
+phiu9ph.s/01	monday	12:05		12:55		1-6, 8-12		c.2b45		16		12		simon hope		arhlph_philosophy
+phiu9ph.s/02	monday	17:05		17:55		1-6, 8-12		c.3b146		18		12		simon hope		arhlph_philosophy
+phiu9ph.s/03	wednesday	10:05		10:55		1-6, 8-12		c.3b146		18		12		simon hope		arhlph_philosophy
+PHPWG.L#	THURSDAY	14:05		15:55		1-6, 8-12, 1-5, 7-12		P.C1		30		10		ADRIAN HADDOCK/COLIN JOHNSTON/JESSE TOMALTY/JOSHUA THORPE/MIKE WHEELER/PETER MILNE/PETER SULLIVAN/PHILIP EBERT/ROWAN CRUFT/SIMON HOPE/SONIA ROCA-REYES/STEINVOR ARNADOTTIR		}LPH
+POLU911.L#	THURSDAY	09:05		09:55		1-6, 8-10		C.LTLOGIE		350		350		PETER LYNCH		ARHHPO_POLITICS
+POLU911.L#	TUESDAY	11:05		11:55		2-6, 8-10		C.LTLOGIE		350		350		PETER LYNCH		ARHHPO_POLITICS
+polu911.s/01	monday	12:05		12:55		2-6, 8-12		c.2x4		32		20				arhhpo_politics
+polu911.s/02	monday	13:05		13:55		2-6, 8-12		c.4b134		36		20				arhhpo_politics
+polu911.s/03	tuesday	09:05		09:55		2-6, 8-12		c.4w2		24		20				arhhpo_politics
+polu911.s/03	tuesday	15:05		15:55		4		c.2b48		28		20				arhhpo_politics
+polu911.s/04	tuesday	12:05		12:55		2-6, 8-12		c.2x4		32		20				arhhpo_politics
+polu911.s/05	tuesday	13:05		13:55		2-6, 8-12		c.4b134		36		20				arhhpo_politics
+polu911.s/06	tuesday	15:05		15:55		2		c.2a19		30		20				arhhpo_politics
+polu911.s/06	tuesday	15:05		15:55		3, 5-6, 8-12		c.a1		42		20				arhhpo_politics
+polu911.s/07	wednesday	10:05		10:55		2-6, 8-12		c.4w6		24		20				arhhpo_politics
+polu911.s/08	wednesday	12:05		12:55		2-6, 8-12		c.4w4		24		20				arhhpo_politics
+polu911.s/09	thursday	13:05		13:55		2-6, 8-12		c.2b76		30		20				arhhpo_politics
+polu911.s/10	thursday	14:05		14:55		2-6, 8-12		c.2a19		30		20				arhhpo_politics
+polu911.s/11	friday	09:05		09:55		2-6, 8-12		c.4w6		24		20				arhhpo_politics
+polu911.s/12	friday	12:05		12:55		2-6, 8-12		c.2b121#		36		20		craig mcangus		arhhpo_politics
+polu911.s/13	friday	13:05		13:55		2-6, 8-12		c.2v3		20		20		craig mcangus		arhhpo_politics
+polu911.s/14	friday	14:05		14:55		2-6, 8-12		c.4w4		24		20		craig mcangus		arhhpo_politics
+POLU9GP.L#	MONDAY	15:05		15:55		2-6, 8-12		P.LTA96		75		50		HANNES STEPHAN		ARHHPO_POLITICS
+POLU9GP.L#	THURSDAY	14:05		14:55		1		C.2B87		48		46				ARHHPO_POLITICS
+POLU9GP.L#	TUESDAY	13:05		13:55		1-6, 8-12		P.LTA96		75		50		HANNES STEPHAN		ARHHPO_POLITICS
+polu9gp.s/01	monday	10:05		10:55		2-6, 8-12		c.2b86		40		18		hannes stephan		arhhpo_politics
+polu9gp.s/02	monday	17:05		17:55		2-6, 8-12		p.d2*		20		18		hannes stephan		arhhpo_politics
+polu9gp.s/03	tuesday	09:05		09:55		2-6, 8-12		p.d2*		20		18		hannes stephan		arhhpo_politics
+polu9gp.s/04	tuesday	17:05		17:55		2-6, 8-12		p.d2*		20		18		hannes stephan		arhhpo_politics
+polu9gs.s/01	monday	11:05		12:55		1-6, 8-12		c.2a19		30		18		kirsty alexander		arhhpo_politics
+polu9gs.s/02	monday	16:05		17:55		1-6, 8-12		c.2b74*		26		14		kirsty alexander		arhhpo_politics
+polu9gs.s/03	tuesday	13:05		14:55		1-6, 8-12		c.4w3		20		18		kirsty alexander		arhhpo_politics
+polu9gs.s/04	tuesday	15:05		16:55		1-6, 8-12		c.4w3		20		18				arhhpo_politics
+POLU9GY.L#	TUESDAY	11:05		11:55		1, 3-6, 8-12		C.2V2		30		12		MARK NUYKEN		ARHHPO_POLITICS
+POLU9GY.L#	TUESDAY	11:05		11:55		2		C.2B133		24		15				ARHHPO_POLITICS
+polu9gy.s#	thursday	12:05		13:55		1-6, 8-12		c.3b147#		18		15		craig mcangus		arhhpo_politics
+POLU9HR.L#	THURSDAY	16:05		16:55		1-6, 8-12		P.PLT		210		37		MATIAS MARGULIS		ARHHPO_POLITICS
+polu9hr.s/01	wednesday	09:05		09:55		1-6, 8-12		c.3b129*		28		18				arhhpo_politics
+polu9hr.s/02	wednesday	12:05		12:55		1-6, 8-12		p.d2*		20		18				arhhpo_politics
+polu9hr.s/03	wednesday	14:05		14:55		1-6, 8-12		p.d3		54		18				arhhpo_politics
+POLU9PE.L#	MONDAY	15:05		15:55		2-6, 8-12		C.2B87		48		36		MATIAS MARGULIS		ARHHPO_POLITICS
+POLU9PE.L#	THURSDAY	12:05		12:55		1-6, 8-12		C.LTA5		92		36		MATIAS MARGULIS		ARHHPO_POLITICS
+POLU9PE.L#	TUESDAY	16:30		17:30		1		P.LTA96		75		36		MATIAS MARGULIS		ARHHPO_POLITICS
+polu9pe.s/01	monday	17:05		17:55		2-6, 8-12		c.3b145*		18		18		matias margulis		arhhpo_politics
+polu9pe.s/02	thursday	09:05		09:55		2-6, 8-12		p.d2*		20		18		matias margulis		arhhpo_politics
+polu9pe.s/03	thursday	14:05		14:55		2-6, 8-12		p.c2		30		18		matias margulis		arhhpo_politics
+polu9pe.s/04	thursday	17:05		17:55		2-6, 8-12		p.d2*		20		18		matias margulis		arhhpo_politics
+POLU9PJ.L#	MONDAY	09:05		09:55		2-6, 8-12		C.2B87		48		48		ANDREA BAUMEISTER		ARHHPO_POLITICS
+POLU9PJ.L#	WEDNESDAY	11:05		11:55		1-6, 8-12		C.LTA5		92		48		ANDREA BAUMEISTER		ARHHPO_POLITICS
+polu9pj.s/01	monday	11:05		11:55		2-6, 8-12		c.2b40*		12		12		andrea baumeister		arhhpo_politics
+polu9pj.s/02	monday	13:05		13:55		2-6, 8-12		c.2b40*		12		12		andrea baumeister		arhhpo_politics
+polu9pj.s/03	tuesday	12:05		12:55		2-6, 8-12		c.2b40*		12		12		andrea baumeister		arhhpo_politics
+polu9pj.s/04	tuesday	15:05		15:55		2-6, 8-12		p.d2*		20		12		andrea baumeister		arhhpo_politics
+polu9rp.s/01	monday	15:05		16:55		2-6, 8-12		c.2b40*		12		12		tim peace		arhhpo_politics
+polu9rp.s/01	wednesday	10:05		11:55		1		p.c2		30		12		tim peace		arhhpo_politics
+polu9rp.s/02	tuesday	10:05		11:55		1-6, 8-12		c.2b40*		12		12		tim peace		arhhpo_politics
+polu9rp.s/03	tuesday	16:05		17:55		1-6, 8-12		c.2b40*		12		12		tim peace		arhhpo_politics
+POLU9SP.L#	THURSDAY	09:05		09:55		1-6, 8-12		P.D1		54		48		PAUL CAIRNEY		ARHHPO_POLITICS
+POLU9SP.L#	WEDNESDAY	12:05		12:55		1-6, 8-12		C.LTA4		237		48		PAUL CAIRNEY		ARHHPO_POLITICS
+polu9sp.s/01	wednesday	09:05		09:55		2-6, 8-12		c.4w1		20		18		paul cairney		arhhpo_politics
+polu9sp.s/02	wednesday	10:05		10:55		2-6, 8-12		c.2b87		48		18		paul cairney		arhhpo_politics
+polu9sp.s/03	thursday	10:05		10:55		12		c.2b44		20		18				arhhpo_politics
+polu9sp.s/03	thursday	10:05		10:55		2-6, 8-11		p.sc1		36		18		paul cairney		arhhpo_politics
+polu9sp.s/04	thursday	12:05		12:55		2-6, 8-12		c.2v2		30		18		paul cairney		arhhpo_politics
+POLU9X3.L#	TUESDAY	15:05		15:55		1-6, 8-12		C.LTA3		240		237		ANDREW GLENCROSS		ARHHPO_POLITICS
+POLU9X3.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.LTA4		237		237		ANDREW GLENCROSS		ARHHPO_POLITICS
+polu9x3.s/01	monday	09:05		09:55		2-6, 8-12		c.3b129*		28		20		hannes stephan		arhhpo_politics
+polu9x3.s/02	monday	11:05		11:55		2-6, 8-12		c.4b134		36		20		peter lynch		arhhpo_politics
+polu9x3.s/03	monday	12:05		12:55		2-6, 8-12		c.2b74*		26		20		andrew glencross		arhhpo_politics
+polu9x3.s/04	monday	12:05		12:55		2-6, 8-12		c.4b134		36		20		peter lynch		arhhpo_politics
+polu9x3.s/05	tuesday	12:05		12:55		2-6, 8-12		c.4b134		36		20		peter lynch		arhhpo_politics
+polu9x3.s/06	tuesday	14:05		14:55		2-6, 8-12		c.4b134		36		20		andrew glencross		arhhpo_politics
+polu9x3.s/07	thursday	09:05		09:55		2-6, 8-12		p.sc2*		20		20		andrew glencross		arhhpo_politics
+polu9x3.s/08	thursday	11:05		11:55		12		c.2b42		20		20				arhhpo_politics
+polu9x3.s/08	thursday	11:05		11:55		2-6, 8-11		p.sc1		36		20		andrew glencross		arhhpo_politics
+polu9x3.s/09	thursday	12:05		12:55		2-6, 8-12		c.2b76		30		20				arhhpo_politics
+polu9x3.s/10	thursday	14:05		14:55		2-6, 8-12		c.2b87		48		20		peter lynch		arhhpo_politics
+polu9x3.s/11	friday	12:05		12:55		2-6, 8-12		c.2v2		30		20				arhhpo_politics
+polu9x3.s/12	friday	13:05		13:55		2-6, 8-12		c.4w6		24		20				arhhpo_politics
+polu9x3.s/13	friday	15:05		15:55		2-6, 8-12		c.3b129*		28		20				arhhpo_politics
+PREPP62.L#	TUESDAY	10:05		11:55		1-6, 8-12		P.D1		54		35				ARHCMC_PG
+prepp62.s#	tuesday	14:05		16:55		08-Nov		p.sc3/4#		48		40		alenka jelen		arhcmc_pg
+prepp63.cl#	thursday	14:05		16:55		04-May		p.g8		28		28		derek hodge		arhcmc_pg
+PREPP63.L#	THURSDAY	14:05		16:55		1-3, 6, 8-12		P.D1		54		34		DEREK HODGE		ARHCMC_PG
+PREPP64.L#	MONDAY	14:05		17:55		2-6, 8-12		P.D1		54		20		ALENKA JELEN/DEREK HODGE/WILLIAM DINAN		ARHCMC_PG
+prepp64.s/01	friday	09:05		10:55		2-6, 8-12		p.sc3/4#		48		20		alenka jelen/derek hodge/william dinan		arhcmc_pg
+prepp64.s/02	friday	11:05		12:55		2-6, 8-12		p.sc3/4#		48		20		alenka jelen/derek hodge/william dinan		arhcmc_pg
+PRMP120.L#	FRIDAY	10:05		11:55		1-6, 8-12		C.2A43		20		20				NATPSY_PG
+PRMP121.L#	FRIDAY	13:05		14:55		1-6, 8-12		C.2A43		20		20				NATPSY_PG
+PRMP131.L#	THURSDAY	13:05		14:55		1-6, 8-12		C.2A43		20		20				NATPSY_PG
+PRMP133.L#	THURSDAY	10:05		11:55		1-6, 8-12		C.2A43		20		10				NATPSY_PG
+PRMP134.L#	WEDNESDAY	14:05		15:55		1-6, 8-12		C.2A43		20		20				NATPSY_PG
+PRMP136.L#	WEDNESDAY	10:05		11:55		1-6, 8-12		C.2B40*		12		10				NATPSY_PG
+PRMP137.L#	THURSDAY	10:05		11:55		1-6, 8-12		C.2A19		30		10				NATPSY_PG
+PRMP139.L#	THURSDAY	10:05		10:55		1-6, 8-12		C.2A51		10		10				NATPSY_PG
+PRMP139.L#	TUESDAY	12:30		13:30		1-6, 8-12		C.2A51		10		10				NATPSY_PG
+PRMP140.L#	WEDNESDAY	10:05		11:55		1-6, 8-12		C.3B112		10		10		PETER HANCOCK		NATPSY_PG
+PRMP141.L#	WEDNESDAY	10:05		11:55		1-6, 8-12		C.2A43		20		6				NATPSY_PG
+psypco11.cl#	monday	10:05		11:55		2-6, 8-12		c.2b41		16		6				natpsy_pg
+PSYU911.L#	FRIDAY	16:05		16:55		1-6, 8-12		C.LTLOGIE		350		350		PAUL DUDCHENKO/PETER HANCOCK/ROBIN CAMPBELL		NATPSY UG
+PSYU911.L#	MONDAY	16:05		16:55		2-6, 8-12		C.LTLOGIE		350		350		PAUL DUDCHENKO/PETER HANCOCK/ROBIN CAMPBELL		NATPSY UG
+PSYU911.L#	THURSDAY	16:05		16:55		1-6, 8-12		C.LTLOGIE		350		350		PAUL DUDCHENKO/PETER HANCOCK/ROBIN CAMPBELL		NATPSY UG
+PSYU911.L#	TUESDAY	13:05		13:55		1		C.LTLOGIE		350		200				NATPSY UG
+PSYU9A3.L#	FRIDAY	12:05		12:55		1-6, 8-12		C.LTLOGIE		350		350		CHRISTINE CALDWELL		NATPSY UG
+PSYU9A3.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.LTLOGIE		350		261		CHRISTINE CALDWELL		NATPSY UG
+PSYU9A3.L#	TUESDAY	16:05		16:55		1-6, 8-12		C.LTA4		237		237		CHRISTINE CALDWELL		NATPSY UG
+PSYU9A7.L#	TUESDAY	10:05		11:55		1-6, 8-12		C.LTB3		112		92				NATPSY UG
+PSYU9A7.L#	WEDNESDAY	13:05		16:55		1		C.LTW1		94		92				NATPSY UG
+PSYU9AC.L#	TUESDAY	13:05		13:55		1-6, 8-12		C.LTA3		240		210		STEPHEN LANGTON		NATPSY UG
+PSYU9AC.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.LTA3		240		210		STEPHEN LANGTON		NATPSY UG
+psyu9ac.s1/01	monday	14:05		15:55		1-6, 8-10		c.2a73		60		40		stephen langton		natpsy ug
+psyu9ac.s1/02	tuesday	14:05		15:55		1-6, 8-10		c.2a73		60		40		stephen langton		natpsy ug
+psyu9ac.s1/03	thursday	15:05		16:55		1-6, 8-10		c.2a73		60		40		stephen langton		natpsy ug
+psyu9ac.s1/04	friday	09:05		10:55		1-6, 8-10		c.2a73		60		40		stephen langton		natpsy ug
+psyu9ac.s1/05	friday	13:05		14:55		1-6, 8-10		c.2a73		60		40		stephen langton		natpsy ug
+psyu9ac.s2/01	monday	14:05		15:55		2-3, 8-9		c.2b38		28		10				natpsy ug
+psyu9ac.s2/02	tuesday	14:05		15:55		08-Sep		c.3x11		16		10				natpsy ug
+psyu9ac.s2/02	tuesday	14:05		15:55		2-3, 8-9		c.2b48		28		10				natpsy ug
+psyu9ac.s2/02	tuesday	14:05		15:55		02-Mar		c.3b147#		18		10				natpsy ug
+psyu9ac.s2/03	thursday	15:05		16:55		02-Mar		c.2b87		48		10				natpsy ug
+psyu9ac.s2/03	thursday	15:05		16:55		2-3, 8-9		c.3v2		34		10				natpsy ug
+psyu9ac.s2/03	thursday	15:05		16:55		08-Sep		c.2a11		26		10				natpsy ug
+psyu9ac.s2/04	friday	09:05		10:55		2-3, 8-9		c.2a19		30		10				natpsy ug
+psyu9ac.s2/05	friday	13:05		14:55		2-3, 8-9		c.3b146		18		10				natpsy ug
+PSYU9AJ.L#	THURSDAY	13:05		13:55		1-6, 8-12		C.LTA3		240		207		EVA RAFETSEDER		NATPSY UG
+PSYU9AJ.L#	TUESDAY	11:05		11:55		1-6, 8-12		C.LTA3		240		207		EVA RAFETSEDER		NATPSY UG
+psyu9aj.s/01	monday	10:05		10:55		4, 6, 8, 10		c.2b45		16		16				natpsy ug
+psyu9aj.s/02	monday	10:05		10:55		4, 6, 8, 10		c.2a9		26		16				natpsy ug
+psyu9aj.s/03	monday	14:05		14:55		4, 6, 8, 10		c.2a9		26		16				natpsy ug
+psyu9aj.s/04	monday	16:05		16:55		4, 6, 8, 10		c.2b44		20		16				natpsy ug
+psyu9aj.s/05	monday	16:05		16:55		4, 6, 8, 10		c.2b133		24		16				natpsy ug
+psyu9aj.s/06	monday	16:05		16:55		4, 6, 8, 10		c.3b146		18		16				natpsy ug
+psyu9aj.s/07	tuesday	16:05		16:55		4, 6, 8, 10		c.4w1		20		16				natpsy ug
+psyu9aj.s/08	tuesday	16:05		16:55		4, 6, 8, 10		c.2b44		20		16				natpsy ug
+psyu9aj.s/09	thursday	15:05		15:55		4, 6, 8, 10		c.3x11		16		16				natpsy ug
+psyu9aj.s/10	friday	10:05		10:55		4, 6, 8, 10		c.3x11		16		16				natpsy ug
+psyu9aj.s/11	friday	10:05		10:55		4, 6, 8, 10		c.2a9		26		16				natpsy ug
+psyu9aj.s/12	friday	10:05		10:55		4, 6, 8, 10		c.2b45		16		16				natpsy ug
+psyu9id.cl/01	monday	10:05		11:55		2-3, 5-6, 8-11		c.1a13		34		34		peter hancock		natpsy ug
+psyu9id.cl/02	monday	14:05		15:55		2-3, 5-6, 8-11		c.2a21		30		30		peter hancock		natpsy ug
+psyu9id.cl/03	wednesday	12:05		13:55		2-3, 5-6, 8-11		c.1a13		34		34		peter hancock		natpsy ug
+psyu9id.cl/04	wednesday	16:05		17:55		2-3, 5-6, 8-11		c.2a17		43		34		peter hancock		natpsy ug
+psyu9id.cl/05	thursday	10:05		11:55		2-3, 5-6, 8-11		c.2a21		30		30		peter hancock		natpsy ug
+PSYU9ID.L#	MONDAY	12:05		12:55		1-6, 8-12		C.LTA4		237		225		PETER HANCOCK		NATPSY UG
+PSYU9ID.L#	THURSDAY	14:05		14:55		1-6, 8-12		C.LTA3		240		240		PETER HANCOCK		NATPSY UG
+pubpp16.s#	tuesday	14:05		16:55		1-6, 8-12		p.sc1		36		30		simon rowberry		arh pg
+pubpp17.s#	thursday	10:05		12:55		1-6, 8-12		p.d1		54		34		simon rowberry		arh pg
+pubpp18.s#	tuesday	10:05		12:55		1-6, 8-12		p.sc1		36		34				arh pg
+pubpp19.s#	wednesday	09:30		12:30		1-6, 8-12, 1-5, 7-12		p.d1		54		35		claire squires/frances sessford/scott russell/simon rowberry		arh pg
+pubpp25.s#	thursday	14:05		16:55		1-6, 8-12		c.2b86		40		35		claire squires/frances sessford/scott russell/simon rowberry		arh pg
+RELU911.L#	MONDAY	10:05		10:55		2-6, 8-12		P.PLT		210		210		ANDREW HASS/EXT TA RELIGION		ARHLTL_RELIGIOUS STUDIES
+RELU911.L#	THURSDAY	15:05		15:55		1-6, 8-12		P.PLT		210		210		ANDREW HASS/EXT TA RELIGION		ARHLTL_RELIGIOUS STUDIES
+RELU913.L#	THURSDAY	10:05		10:55		1-6, 8-12		P.PLT		210		150		ALISON JASPER/MICHAEL MARTEN		ARHLTL_RELIGIOUS STUDIES
+RELU913.L#	TUESDAY	11:05		11:55		1-6, 8-12		P.PLT		210		150		ALISON JASPER/MICHAEL MARTEN		ARHLTL_RELIGIOUS STUDIES
+RELU9AB.L#	FRIDAY	09:05		10:55		1-6, 8-12		C.4W4		24		20		ALISON JASPER		ARHLTL_RELIGIOUS STUDIES
+RELU9C5.L#	TUESDAY	13:05		14:55		1-6, 8-12		P.D1		54		20		TIMOTHY FITZGERALD		ARHLTL_RELIGIOUS STUDIES
+RELU9MM.L#	THURSDAY	15:05		16:55		1-6, 8-12		P.D3		54		12		TIMOTHY FITZGERALD		ARHLTL_RELIGIOUS STUDIES
+RMKU9MC.L#	FRIDAY	11:05		11:55		1-6, 8-12		C.LTB3		112		50		KERI DAVIES		MGTMKR UG
+RMKU9MC.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.2B87		48		48		KERI DAVIES		MGTMKR UG
+rmku9mc.s/01	wednesday	10:05		11:55		1-6, 8-12		c.3b129*		28		24		keri davies		mgtmkr ug
+rmku9mc.s/02	friday	13:05		14:55		2-6, 8-12		c.a1		42		24		keri davies		mgtmkr ug
+RMKU9R5.L#	MONDAY	11:05		12:55		3-6, 10-12		C.LTA3		240		36		ERIC CALDERWOOD		MGTMKR UG
+RMKU9R5.L#	MONDAY	11:05		12:55		8		C.A1		42		30				MGTMKR UG
+RMKU9R5.L#	TUESDAY	11:05		12:55		03-Jun		C.2B86		40		36		ERIC CALDERWOOD		MGTMKR UG
+rmku9r5.s/01	wednesday	10:05		11:55		5, 8, 10-11		c.2b42		20		20		eric calderwood		mgtmkr ug
+rmku9r5.s/02	thursday	13:05		14:55		5, 8, 10-11		c.4w4		24		20		eric calderwood		mgtmkr ug
+SASP.L#	MONDAY	14:05		16:55		1-6, 8-12		P.SC1		36		15		PETER SULLIVAN/ROWAN CRUFT		ARH PG
+SCIU1LS.L#	FRIDAY	12:05		12:55		1-6, 8-12		C.LTA3		240		240		TIM WHALLEY		NATBES BS
+SCIU1LS.L#	THURSDAY	15:05		16:55		1-6, 8-12		C.LTA4		237		237		TIM WHALLEY		NATBES BS
+SCIU3FB.L#	FRIDAY	12:05		13:55		5		C.LTA6		253		100				NATBES BS
+SCIU3FE.L#	MONDAY	15:05		16:55		6		C.LTA6		253		100				NATBES BS
+SCIU5T5.L#	MONDAY	13:05		13:55		1-6, 8-12		C.LTB4		179		112				NATBES BS
+SCIU5T5.L#	TUESDAY	13:05		13:55		1-6, 8-12		C.LTB4		179		112				NATBES BS
+SCIU5T5.L#	WEDNESDAY	10:05		10:55		4		C.LTA3		240		112				NATBES BS
+SPAU9A1.L#	MONDAY	13:05		13:55		2-6, 8-12		P.D1		54		54		MARIA SOLEDAD MONTANEZ		ARHLTL_SPANISH
+spau9b1.s1/01	monday	09:05		09:55		2-6, 8-12		c.4w5		24		17		beatriz basso		arhltl_spanish
+spau9b1.s1/02	monday	10:05		10:55		2-6, 8-12		c.4w5		24		17		beatriz basso		arhltl_spanish
+spau9b1.s1/03	tuesday	11:05		11:55		2-6, 8-12		p.d3		54		17		maria sanchez		arhltl_spanish
+spau9b1.s1/04	tuesday	12:05		12:55		2-6, 8-12		p.e9		18		17		maria sanchez		arhltl_spanish
+spau9b1.s1/05	tuesday	13:05		13:55		2-6, 8-12		c.2b133		24		17		ext ta spanish		arhltl_spanish
+spau9b1.s1/06	tuesday	14:05		14:55		2-6, 8-12		c.2b133		24		17		maria sanchez		arhltl_spanish
+spau9b1.s1/07	tuesday	15:05		15:55		2-6, 8-12		c.2b133		24		17		maria sanchez		arhltl_spanish
+spau9b1.s1/08	tuesday	16:05		16:55		2-6, 8-12		c.4w4		24		17		ext ta spanish		arhltl_spanish
+spau9b1.s2/01	tuesday	09:05		09:55		2-6, 8-12		c.4w6		24		17		beatriz basso		arhltl_spanish
+spau9b1.s2/02	tuesday	10:05		10:55		2-6, 8-12		c.4b134		36		17		beatriz basso		arhltl_spanish
+spau9b1.s2/03	wednesday	12:05		12:55		3-6, 8-12		p.c2		30		17		maria sanchez		arhltl_spanish
+spau9b1.s2/03	wednesday	12:05		12:55		2		p.sc2*		20		0				arhltl_spanish
+spau9b1.s2/04	wednesday	13:05		13:55		2-6, 8-12		p.d3		54		17		maria sanchez		arhltl_spanish
+spau9b1.s2/05	wednesday	14:05		14:55		2-6, 8-12		p.e9		18		17		maria sanchez		arhltl_spanish
+spau9b1.s2/06	thursday	13:05		13:55		2-6, 8-12		p.d1		54		17		maria sanchez		arhltl_spanish
+spau9b1.s2/07	thursday	14:05		14:55		02-Mar		p.sc1		36		0		maria sanchez		arhltl_spanish
+spau9b1.s2/07	thursday	14:05		14:55		4-6, 8-12		p.d3		54		17		maria sanchez		arhltl_spanish
+spau9b1.s2/08	thursday	15:05		15:55		2-6, 8-12		p.c2		30		17		ext ta spanish		arhltl_spanish
+spau9b1.s2/09	thursday	16:05		16:55		2-6, 8-12		p.c2		30		17		ext ta spanish		arhltl_spanish
+spau9b1.s3/01	wednesday	10:05		10:55		2-6, 8-12		c.2b76		30		18		maria sanchez		arhltl_spanish
+spau9b1.s3/02	thursday	11:05		11:55		2-6, 8-12		p.d3		54		18		maria sanchez		arhltl_spanish
+spau9b1.s3/03	thursday	10:05		10:55		2-6, 8-12		p.d2*		20		18		maria sanchez		arhltl_spanish
+spau9b1.s3/04	friday	10:05		10:55		2-6, 8-12		p.d1		54		18		beatriz basso		arhltl_spanish
+spau9b1.s3/05	friday	11:05		11:55		2-6, 8-12		p.d1		54		18		beatriz basso		arhltl_spanish
+spau9b1.s3/06	friday	12:05		12:55		2-6, 8-12		c.2b48		28		18				arhltl_spanish
+spau9b1.s3/07	friday	14:05		14:55		2-6, 8-12		c.3b147#		18		18		ext ta spanish		arhltl_spanish
+spau9xb.s#	wednesday	11:05		12:55		1-6, 8-12		p.e26		20		20		charlotte lange		arhltl_spanish
+SPCU911.L#	FRIDAY	11:05		11:55		01-Jun		C.LTLOGIE		350		350		MONIKA WILINSKA		APSSPC UG
+SPCU911.L#	MONDAY	11:05		11:55		2-6, 8-12		C.LTLOGIE		350		350		MONIKA WILINSKA		APSSPC UG
+SPCU911.L#	THURSDAY	11:05		11:55		2-6, 8-12		C.LTLOGIE		350		350		MONIKA WILINSKA		APSSPC UG
+SPCU913.L#	FRIDAY	14:05		14:55		1-6, 8-11		C.LTLOGIE		350		350				APSSPC UG
+SPCU913.L#	MONDAY	17:05		17:55		12		C.LTLOGIE		350		350				APSSPC UG
+SPCU913.L#	THURSDAY	15:05		15:55		1-6, 8-11		C.LTLOGIE		350		350				APSSPC UG
+SPCU913.L#	WEDNESDAY	12:05		12:55		12		C.LTLOGIE		350		350				APSSPC UG
+spcu913.s/01	monday	10:05		10:55		2-6, 8-12		c.2b48		28		25				apsspc ug
+spcu913.s/02	monday	11:05		11:55		2-6, 8-12		c.2a11		26		25				apsspc ug
+spcu913.s/03	monday	12:05		12:55		2-6, 8-12		c.2b38		28		25				apsspc ug
+spcu913.s/04	monday	15:05		15:55		2-6, 8-12		c.2a19		30		25				apsspc ug
+spcu913.s/05	monday	16:05		16:55		2-6, 8-12		c.2x4		32		25				apsspc ug
+spcu913.s/06	tuesday	10:05		10:55		2-6, 8-12		c.4w5		24		24				apsspc ug
+spcu913.s/07	tuesday	12:05		12:55		2-6, 8-12		c.2a19		30		25				apsspc ug
+spcu913.s/08	tuesday	16:05		16:55		2-6, 8-12		c.2x6		32		25				apsspc ug
+spcu913.s/09	wednesday	09:05		09:55		2-6, 8-12		c.2b48		28		25				apsspc ug
+spcu913.s/10	thursday	09:05		09:55		2-6, 8-12		c.2b88		30		25				apsspc ug
+spcu913.s/11	thursday	12:05		12:55		2-6, 8-12		c.2b88		30		25				apsspc ug
+spcu913.s/12	friday	10:05		10:55		2-6, 8-12		c.2b48		28		25				apsspc ug
+spcu913.s/13	friday	11:05		11:55		2-6, 8-12		c.2b48		28		25				apsspc ug
+spcu913.s/14	friday	12:05		12:55		2-6, 8-12		c.2b87		48		25				apsspc ug
+spcu9c3.cl/01	monday	10:05		11:55		05-Jun		c.2a15		57		50				apsspc ug
+spcu9c3.cl/02	monday	14:05		15:55		05-Jun		c.1a11		60		50				apsspc ug
+spcu9c3.cl/03	wednesday	10:05		11:55		05-Jun		c.1a11		60		50				apsspc ug
+spcu9c3.cl/04	friday	10:05		11:55		05-Jun		c.2a15		57		50				apsspc ug
+SPCU9C3.L#	FRIDAY	16:05		16:55		1-6, 8-12		C.LTA6		253		200		PAUL LAMBERT		APSSPC UG
+SPCU9C3.L#	TUESDAY	10:05		10:55		1-6, 8-12		C.LTA3		240		200		PAUL LAMBERT		APSSPC UG
+spcu9c3.s/01	monday	10:05		11:55		3-4, 6, 10-11		c.2b44		20		20				apsspc ug
+spcu9c3.s/02	monday	12:05		13:55		3-4, 6, 10-11		c.2b46		20		20				apsspc ug
+spcu9c3.s/03	monday	14:05		15:55		3-4, 6, 10-11		c.2b46		20		20				apsspc ug
+spcu9c3.s/04	monday	16:05		17:55		3-4, 6, 10-11		c.2b88		30		20				apsspc ug
+spcu9c3.s/05	tuesday	11:05		12:55		3-4, 6, 10-11		c.2a9		26		20				apsspc ug
+spcu9c3.s/06	tuesday	15:05		16:55		3-4, 6, 10-11		c.2x4		32		20				apsspc ug
+spcu9c3.s/07	wednesday	09:05		10:55		3-4, 6, 10-11		c.2x6		32		20				apsspc ug
+spcu9c3.s/08	thursday	11:05		12:55		3-4, 6, 10-11		c.2x4		32		20				apsspc ug
+spcu9c3.s/09	friday	09:05		10:55		3-4, 6, 10-11		c.2x4		32		20				apsspc ug
+spcu9c3.s/10	friday	11:05		12:55		3-4, 6, 10-11		c.2b42		20		20				apsspc ug
+SPCU9C5.L#	MONDAY	11:05		11:55		1-6, 8-12		C.LTA4		237		157		ROWDY YATES		APSSPC UG
+SPCU9C5.L#	TUESDAY	09:05		09:55		1-6, 8-12		C.LTA3		240		157		ROWDY YATES		APSSPC UG
+SPCU9C5.L#	WEDNESDAY	10:05		10:55		1-6, 8-12		C.LTB4		179		157		ROWDY YATES		APSSPC UG
+spcu9c5.s/01	monday	14:05		15:55		4, 6		c.2b38		28		20				apsspc ug
+spcu9c5.s/01	monday	14:05		15:55		2		c.2a11		26		20				apsspc ug
+spcu9c5.s/01	monday	14:05		15:55		9, 11		c.2b129#		30		20				apsspc ug
+spcu9c5.s/02	tuesday	10:05		11:55		2, 4, 6, 9, 11		c.2b88		30		20				apsspc ug
+spcu9c5.s/03	wednesday	11:05		12:55		4, 6, 9, 11		c.2b133		24		20				apsspc ug
+spcu9c5.s/03	wednesday	11:05		12:55		2		c.2a19		30		0				apsspc ug
+spcu9c5.s/04	wednesday	14:05		15:55		2, 4, 6, 9, 11		c.2b87		48		20				apsspc ug
+spcu9c5.s/05	thursday	12:05		13:55		4, 6, 9, 11		c.2a9		26		20				apsspc ug
+spcu9c5.s/05	thursday	12:05		13:55		2		c.4w2		24		20				apsspc ug
+spcu9c5.s/06	friday	09:05		10:55		2, 4, 6, 9, 11		c.2b38		28		20				apsspc ug
+spcu9c5.s/07	friday	10:05		11:55		2, 4, 6, 9, 11		c.2b44		20		20				apsspc ug
+spcu9c5.s/08	friday	14:05		15:55		2, 4, 6, 9, 11		c.2a9		26		20				apsspc ug
+SPCU9JG.L#	MONDAY	14:05		14:55		1-6, 8-12		C.LTB3		112		50		MARINA SHAPIRA		APSSPC UG
+SPCU9JG.L#	THURSDAY	15:05		15:55		1-6, 8-12		C.LTW1		94		50		MARINA SHAPIRA		APSSPC UG
+spcu9jg.s/01	tuesday	11:05		12:55		2-6, 8-11		c.4w4		24		20		marina shapira		apsspc ug
+spcu9jg.s/02	tuesday	14:05		15:55		2-6, 8-11		c.2a11		26		20		marina shapira		apsspc ug
+spcu9jg.s/03	friday	11:05		12:55		2-6, 8-11		c.2b133		24		20		marina shapira		apsspc ug
+spcu9jl.cl#	friday	15:05		16:55		4-6, 8		c.2a17		43		40				apsspc ug
+SPCU9JL.L#	THURSDAY	12:05		12:55		1-6, 8-12		C.LTW1		94		50		MARINA SHAPIRA/PAUL LAMBERT		APSSPC UG
+SPCU9JL.L#	TUESDAY	16:05		16:55		1-6, 8-12		C.LTA5		92		50		MARINA SHAPIRA/PAUL LAMBERT		APSSPC UG
+spcu9jl.s/01	monday	09:05		10:55		3, 9		c.2b133		24		20		marina shapira/paul lambert		apsspc ug
+spcu9jl.s/02	monday	15:05		16:55		3, 9		c.2b133		24		20		marina shapira/paul lambert		apsspc ug
+spcu9jl.s/03	thursday	10:05		11:55		3, 9		c.4b134		36		20		marina shapira/paul lambert		apsspc ug
+SPCU9PB.L#	FRIDAY	09:05		09:55		1-6, 8-12		C.LTA5		92		48		MADHU SATSANGI		APSSPC UG
+SPCU9PB.L#	MONDAY	09:05		09:55		1-6, 8-12		C.2B85#		60		50		MADHU SATSANGI		APSSPC UG
+spcu9pb.s/01	wednesday	12:05		12:55		2-6, 8-11		c.2b38		28		24		madhu satsangi		apsspc ug
+spcu9pb.s/02	friday	11:05		11:55		2-6, 8-11		c.2a9		26		24		madhu satsangi		apsspc ug
+SPCU9X1.L#	FRIDAY	13:05		13:55		01-Apr		C.LTA3		240		179		MONIKA WILINSKA		APSSPC UG
+SPCU9X1.L#	MONDAY	10:05		10:55		02-Apr		C.LTB4		179		179		MONIKA WILINSKA		APSSPC UG
+SPCU9X1.L#	WEDNESDAY	17:05		17:55		02-Apr		C.LTA4		237		179		MONIKA WILINSKA		APSSPC UG
+SPSP001.L#	TUESDAY	14:05		16:55		1-6, 8-12		C.2A9		26		13		STEPHEN MORROW/BRIAN MINIKIN		SPOSPS_PG
+SPSP038.L#	THURSDAY	09:05		11:55		1-6, 8-12		C.2B86		40		35		BRIAN MINIKIN/LEIGH ROBINSON		SPOSPS_PG
+SPSP038.L#	WEDNESDAY	09:05		12:55		1		C.2B121#		36		35				SPOSPS_PG
+spsp039.cl#	thursday	14:05		16:55		5-6, 8		c.1a11		60		57		trish gorely		sposps_pg
+spsp039.cl#	wednesday	09:05		11:55		12		c.2a15		57		57				sposps_pg
+SPSP039.L#	TUESDAY	09:05		11:55		1-4, 9, 11		C.2B85#		60		60		TRISH GORELY		SPOSPS_PG
+SPSP040.L#	MONDAY	09:05		15:55		1-6, 8-12		C.3B146		18		15				SPOSPS_PG
+spsp042.cl#	friday	10:05		12:55		09-Nov		c.2a21		30		30		pete coffee		sposps_pg
+spsp042.s#	friday	09:05		16:55		12		c.2x6		32		29				sposps_pg
+spsp042.s#	friday	10:05		12:55		1-6, 8-11		c.2b88		30		30				sposps_pg
+spsp042.s#	thursday	09:05		16:55		12		c.2a87		60		30				sposps_pg
+spsp043.s#	thursday	10:05		11:55		2, 4, 6, 8, 10		c.2b129#		30		30		pete coffee		sposps_pg
+SPSP052.L#	TUESDAY	13:05		15:55		1-6, 8-12		C.3B139*		14		12				SPOSPS_PG
+spsp054.s#	friday	09:05		11:55		1-6, 8-12		c.4w2		24		24		alan lynn/justine allen		sposps_pg
+SPSP060.L#	FRIDAY	13:05		14:55		1-2, 8, 11		C.3X11		16		10				SPOSPS_PG
+spsu911.cl/01	monday	14:05		15:55		5		c.2a15		57		50		emma lyons		sposps ug
+spsu911.cl/02	thursday	10:05		11:55		5		c.1a11		60		50		emma lyons		sposps ug
+spsu911.cl/03	tuesday	14:05		15:55		5		c.2a15		57		50		emma lyons		sposps ug
+spsu911.cl/04	thursday	16:05		17:55		5		c.2y5		51		30		emma lyons		sposps ug
+spsu911.cl/05	monday	12:05		13:55		5		c.2a15		57		50		emma lyons		sposps ug
+spsu911.cl/06	tuesday	12:05		13:55		5		c.2a15		57		50		emma lyons		sposps ug
+spsu911.cl/07	friday	13:05		14:55		5		c.1a11		60		50		emma lyons		sposps ug
+SPSU911.L#	FRIDAY	10:05		10:55		1-6, 8-12		C.LTLOGIE		350		350		EMMA LYONS/IRENE REID/PAUL DIMEO		SPOSPS UG
+SPSU911.L#	MONDAY	10:05		10:55		2		C.LTLOGIE		350		350		EMMA LYONS/IRENE REID/PAUL DIMEO		SPOSPS UG
+SPSU911.L#	THURSDAY	13:05		13:55		1-6, 8-12		C.LTLOGIE		350		350		EMMA LYONS/IRENE REID/PAUL DIMEO		SPOSPS UG
+spsu911.s/01	monday	10:05		10:55		3-4, 9-11		c.2x4		32		15		emma lyons		sposps ug
+spsu911.s/02	monday	11:05		11:55		3-4, 9-11		c.2v3		20		15		emma lyons		sposps ug
+spsu911.s/03	monday	12:05		12:55		3-4, 9-11		c.a1		42		15		emma lyons		sposps ug
+spsu911.s/04	monday	13:05		13:55		3-4, 9-11		c.2v3		20		15		emma lyons		sposps ug
+spsu911.s/05	monday	14:05		14:55		3-4, 9-11		c.2v2		30		15		emma lyons		sposps ug
+spsu911.s/06	monday	15:05		15:55		3-4, 9-11		c.2b44		20		15		emma lyons		sposps ug
+spsu911.s/07	monday	16:05		16:55		3-4, 9-11		c.2b38		28		15		emma lyons		sposps ug
+spsu911.s/08	tuesday	10:05		10:55		3-4, 9-11		c.a1		42		15		emma lyons		sposps ug
+spsu911.s/09	tuesday	11:05		11:55		3-4, 9-11		c.2b42		20		15		emma lyons		sposps ug
+spsu911.s/10	tuesday	12:05		12:55		3-4, 9-11		c.4w6		24		15		emma lyons		sposps ug
+spsu911.s/11	tuesday	13:05		13:55		3-4, 9-11		c.2b46		20		15		emma lyons		sposps ug
+spsu911.s/12	tuesday	14:05		14:55		3-4, 9-11		c.2x4		32		15		emma lyons		sposps ug
+spsu911.s/13	tuesday	16:05		16:55		3-4, 9-11		c.a1		42		15		emma lyons		sposps ug
+spsu911.s/14	thursday	10:05		10:55		3-4, 9-11		c.2x4		32		15		emma lyons		sposps ug
+spsu911.s/15	thursday	12:05		12:55		3-4, 9-11		c.4w2		24		15		emma lyons		sposps ug
+spsu911.s/16	thursday	14:05		14:55		3-4, 9-11		c.2x4		32		15		emma lyons		sposps ug
+spsu911.s/17	thursday	15:05		15:55		3-4, 9-11		c.2b129#		30		15		emma lyons		sposps ug
+spsu911.s/18	thursday	16:05		16:55		3-4, 9-11		c.2b129#		30		15		emma lyons		sposps ug
+spsu911.s/19	friday	11:05		11:55		3-4, 9-11		c.3b147#		18		15		emma lyons		sposps ug
+spsu911.s/20	friday	12:05		12:55		3-4, 9-11		c.3b147#		18		15		emma lyons		sposps ug
+spsu911.s/21	friday	13:05		13:55		3-4, 9-11		c.3b147#		18		15		emma lyons		sposps ug
+spsu911.s/22	friday	14:05		14:55		3-4, 9-11		c.2a19		30		15		emma lyons		sposps ug
+spsu911.s/23	friday	15:05		15:55		3-4, 9-11		c.3b146		18		15		emma lyons		sposps ug
+SPSU913.L#	MONDAY	15:05		15:55		1-6, 8-12		C.LTLOGIE		350		297		STEPHEN MORROW/IRENE REID/ANGUS HUNTER		SPOSPS UG
+SPSU913.L#	THURSDAY	17:05		17:55		1-3, 5-6, 8-11		C.LTLOGIE		350		297		STEPHEN MORROW/IRENE REID		SPOSPS UG
+SPSU913.L#	THURSDAY	17:05		17:55		4		C.LTA6		253		253				SPOSPS UG
+spsu913.s/01	tuesday	09:05		09:55		3, 5-6, 9-11		c.3b147#		18		16		mathieu winand		sposps ug
+spsu913.s/02	tuesday	10:05		10:55		3, 5-6, 9-11		c.2x4		32		16		gail burchill		sposps ug
+spsu913.s/03	tuesday	11:05		11:55		3, 5-6, 9-11		c.2x4		32		16		mathieu winand		sposps ug
+spsu913.s/04	tuesday	13:05		13:55		3, 5-6, 9-11		c.2v3		20		16		gail burchill		sposps ug
+spsu913.s/05	tuesday	14:05		14:55		3, 5-6, 9-11		c.2w5*		20		16		mathieu winand		sposps ug
+spsu913.s/06	tuesday	15:05		15:55		3, 5-6, 9-11		c.2w5*		20		16		mathieu winand		sposps ug
+spsu913.s/07	tuesday	16:05		16:55		3, 5-6, 9-11		c.2w5*		20		16		mathieu winand		sposps ug
+spsu913.s/08	thursday	09:05		09:55		3, 5-6, 9-11		c.2b46		20		16		gail burchill		sposps ug
+spsu913.s/09	thursday	12:05		12:55		3, 5-6, 9-11		c.4b134		36		16		gail burchill		sposps ug
+spsu913.s/10	thursday	14:05		14:55		3, 5-6, 9-11		c.2b121#		36		16		gail burchill		sposps ug
+spsu913.s/11	thursday	15:05		15:55		3, 5-6, 9-11		c.4w5		24		16		mathieu winand		sposps ug
+spsu913.s/12	thursday	16:05		16:55		3, 5-6, 9-11		c.2b44		20		16		gail burchill		sposps ug
+spsu913.s/13	friday	09:05		09:55		3, 5-6, 9-11		c.4w1		20		16		mathieu winand		sposps ug
+spsu913.s/14	friday	12:05		12:55		3, 5-6, 9-11		c.3b145*		18		16		mathieu winand		sposps ug
+spsu913.s/15	friday	13:05		13:55		3, 5-6, 9-11		c.3b145*		18		16		gail burchill		sposps ug
+spsu913.s/16	friday	14:05		14:55		3, 5-6, 9-11		c.2b46		20		16		mathieu winand		sposps ug
+spsu913.s/17	friday	15:05		15:55		3, 5-6, 9-11		c.4w3		20		16		mathieu winand		sposps ug
+spsu913.s/18	friday	16:05		16:55		3, 5-6, 9-11		c.3b146		18		16		mathieu winand		sposps ug
+SPSU915.L#	MONDAY	09:05		09:55		1-6, 8-12		C.LTW1		94		65		ANGUS HUNTER/STUART GALLOWAY		SPOSPS UG
+SPSU915.L#	MONDAY	13:05		13:55		1-6, 8-12		C.LTA5		92		65		ANGUS HUNTER/STUART GALLOWAY		SPOSPS UG
+spsu915.s/01	friday	10:05		10:55		3, 5, 10		c.2x6		32		18		angus hunter/stuart galloway		sposps ug
+spsu915.s/02	friday	11:05		11:55		3, 5, 10		c.2x6		32		18		angus hunter/stuart galloway		sposps ug
+spsu915.s/03	friday	12:05		12:55		3, 5, 10		c.2x6		32		18		angus hunter/stuart galloway		sposps ug
+spsu915.s/04	friday	13:05		13:55		3, 5, 10		c.2x6		32		18		angus hunter/stuart galloway		sposps ug
+SPSU9B5.L#	MONDAY	13:05		14:55		1-6, 8-12		C.2B85#		60		59		IRENE REID		SPOSPS UG
+spsu9b5.s/01	monday	12:05		12:55		2-3, 5, 8, 10		c.3b147#		18		16		irene reid		sposps ug
+spsu9b5.s/02	monday	17:05		17:55		2-3, 5, 8, 10		c.3b147#		18		16		irene reid		sposps ug
+spsu9b5.s/03	thursday	09:05		09:55		2-3, 5, 8, 10		c.2b121#		36		16		irene reid		sposps ug
+spsu9b5.s/04	thursday	12:05		12:55		2-3, 5, 8, 10		c.2b129#		30		16		irene reid		sposps ug
+spsu9b7.cl#	friday	14:05		16:55		12		c.2a15		57		45		colin moran		sposps ug
+spsu9b7.cl#	friday	15:05		16:55		5-6, 8-11		c.1a11		60		45		colin moran		sposps ug
+SPSU9B7.L#	FRIDAY	12:05		13:55		1-6, 8-12		C.LTA4		237		44		COLIN MORAN		SPOSPS UG
+SPSU9B7.L#	TUESDAY	13:05		14:55		5-6, 8-10		C.LT2V1		142		45		COLIN MORAN		SPOSPS UG
+spsu9b7.s#	monday	11:05		11:55		1-6, 8-12		c.2b48		28		24		colin moran		sposps ug
+spsu9b7.s2#	monday	09:05		09:55		08-Sep		c.4w2		24		24		colin moran		sposps ug
+SPSU9C5.L#	MONDAY	11:05		11:55		1-6, 8-12		C.LTB3		112		80		IAIN GALLAGHER		SPOSPS UG
+SPSU9C5.L#	MONDAY	16:05		16:55		1-6, 8-12		C.LTW1		94		80		IAIN GALLAGHER		SPOSPS UG
+spsu9c5.s/01	tuesday	11:05		11:55		1, 6, 8		c.2b42		20		20		iain gallagher		sposps ug
+spsu9c5.s/02	wednesday	11:05		11:55		1, 6, 8		c.2b44		20		20		iain gallagher		sposps ug
+spsu9c5.s/03	thursday	11:05		11:55		1, 6, 8		c.2b48		28		20		iain gallagher		sposps ug
+spsu9c5.s/04	friday	11:05		11:55		1, 6, 8		c.2b46		20		20		iain gallagher		sposps ug
+SPSU9D5.L#	FRIDAY	14:05		14:55		1-6, 8-12		C.LTB3		112		100		RALEIGH GOWRIE		SPOSPS UG
+SPSU9D5.L#	WEDNESDAY	09:05		09:55		1-6, 8-12		C.LT2V1		142		100		RALEIGH GOWRIE		SPOSPS UG
+spsu9d5.s/01	tuesday	10:05		10:55		3-5, 8-11		c.2b46		20		20		raleigh gowrie		sposps ug
+spsu9d5.s/02	tuesday	13:05		13:55		3-5, 8-11		c.2v2		30		20		raleigh gowrie		sposps ug
+spsu9d5.s/03	wednesday	10:05		10:55		3-5, 8-11		c.2b133		24		20		raleigh gowrie		sposps ug
+spsu9d5.s/04	thursday	12:05		12:55		3-5, 8-11		c.4w4		24		20		raleigh gowrie		sposps ug
+spsu9d5.s/05	friday	10:05		10:55		3-5, 8-11		c.2b87		48		20		raleigh gowrie		sposps ug
+SPSU9R5.L#	MONDAY	14:05		15:55		1-6, 8-12		C.4W1		20		20		JOHN MATHERS		SPOSPS UG
+spsu9r5.s#	monday	14:05		15:55		12		.gannochy sports hall		10000		16		wray vamplew		sposps ug
+spsu9r7.s1/01	monday	12:05		12:55		1-6, 8-12		c.4w4		24		18		colin moran		sposps ug
+spsu9r7.s1/02	tuesday	10:05		10:55		1-6, 8-12		c.4w3		20		18		paul dimeo		sposps ug
+spsu9r7.s1/03	tuesday	14:05		14:55		1-6, 8-12		c.4w2		24		18		iain gallagher		sposps ug
+spsu9r7.s1/04	thursday	16:05		16:55		1-6, 8-12		c.3b147#		18		18		kevin tipton		sposps ug
+spsu9r7.s1/05	friday	15:05		15:55		1-6, 8-12		c.2b121#		36		18		paul dimeo		sposps ug
+spsu9r7.s1/06	thursday	12:05		12:55		1-6, 8-12		c.2b45		16		15		oliver witard		sposps ug
+spsu9r7.s1/07	monday	14:05		14:55		1-6, 8-12		c.2b48		28		15		ian walshe		sposps ug
+spsu9r7.s1/08	tuesday	17:05		17:55		1-6, 8-12		c.2b85#		60		40		iain gallagher		sposps ug
+spsu9r7.s2/01	monday	09:05		10:55		01-Jun		c.a1		42		20		nicolas scelles		sposps ug
+spsu9r7.s2/01	tuesday	15:05		16:55		08-Dec		c.2b121#		36		28		lee hamilton		sposps ug
+spsu9r7.s3/01	tuesday	10:05		11:55		1-6, 8-12		c.3b147#		18		18		lorcan cronin/john mathers		sposps ug
+spsu9r7.s3/02	tuesday	12:05		13:55		1-6, 8-12		c.4w1		20		20		joe bradley		sposps ug
+spsu9r7.s3/03	thursday	15:05		16:55		1-6, 8-12		c.2b121#		36		18		stephen morrow/irene reid		sposps ug
+spsu9r7.s3/04	monday	14:05		15:55		1-6, 8-12		c.4w4		24		20				sposps ug
+spsu9rm.cl/01	tuesday	13:05		14:55		6, 9		c.2a15		57		48		john mathers/john taylor		sposps ug
+spsu9rm.cl/02	thursday	10:05		11:55		6, 9		c.2a15		57		48		john mathers/john taylor		sposps ug
+spsu9rm.cl/03	friday	15:05		16:55		6, 9		c.2a15		57		48		john mathers/john taylor		sposps ug
+SPSU9RM.L#	THURSDAY	14:05		14:55		1-5, 8, 10-12		C.LTLOGIE		350		140		JOHN TAYLOR/JOHN MATHERS/IRENE REID		SPOSPS UG
+SPSU9RM.L#	TUESDAY	16:05		16:55		1-5, 8, 10-12		C.LTA3		240		140		PAUL DIMEO/JOHN TAYLOR/JOHN MATHERS/IRENE REID		SPOSPS UG
+spsu9rm.s/01	tuesday	09:05		09:55		4-5, 8, 10-11		c.2b74*		26		18				sposps ug
+spsu9rm.s/02	tuesday	17:05		17:55		4-5, 8, 10-11		c.2w5*		20		18				sposps ug
+spsu9rm.s/03	thursday	17:05		17:55		4-5, 8, 10-11		c.2w5*		20		18				sposps ug
+spsu9rm.s/04	friday	09:05		09:55		4-5, 8, 10-11		c.2w5*		20		18				sposps ug
+spsu9rm.s/05	friday	11:05		11:55		4-5, 8, 10-11		c.2b74*		26		18				sposps ug
+spsu9rm.s/06	friday	13:05		13:55		4-5, 8, 10-11		c.2b74*		26		18				sposps ug
+spsu9rm.s/07	friday	16:05		16:55		4-5, 8, 10-11		c.2b74*		26		18				sposps ug
+spsu9rm.s/08	friday	17:05		17:55		4-5, 8, 10-11		c.2w5*		20		18				sposps ug
+SPSU9RP.L#	MONDAY	16:05		16:55		1-6, 8-12		C.LTB4		179		96		ROBERT EKLUND		SPOSPS UG
+spsu9rp.s/01	monday	09:05		10:55		2, 4, 6, 9-10		c.2b129#		30		14				sposps ug
+spsu9rp.s/02	tuesday	11:05		12:55		2, 4, 6, 9-10		c.3b139*		14		14				sposps ug
+spsu9rp.s/03	thursday	12:05		13:55		2, 4, 6, 9-10		c.3b139*		14		14				sposps ug
+spsu9rp.s/04	friday	09:05		10:55		2, 4, 6, 9-10		c.3b139*		14		14				sposps ug
+spsu9rp.s/05	friday	13:05		14:55		2, 4, 6, 9-10		c.2b42		20		14				sposps ug
+spsu9rp.s/06	friday	15:05		16:55		2, 4, 6, 9-10		c.2b42		20		14				sposps ug
+SPSU9SE.L#	MONDAY	11:05		12:55		1-6, 8-12		C.3B145*		18		18		JOE BRADLEY		SPOSPS UG
+spsu9se.s/01	tuesday	09:05		09:55		2, 4, 6, 8-9		c.3b145*		18		15		joe bradley/irene reid		sposps ug
+spsu9se.s/02	tuesday	10:05		10:55		2, 4, 6, 8-9		c.3b145*		18		15		joe bradley/irene reid		sposps ug
+spsu9se.s/03	tuesday	11:05		11:55		2, 4, 6, 8-9		c.3b145*		18		14		joe bradley/irene reid		sposps ug
+SPSU9SG.L#	WEDNESDAY	10:05		11:55		1-6, 8-12		C.3V2		34		30		STEPHEN MORROW/PAUL DIMEO/LEIGH ROBINSON/BRIAN MINIKIN		SPOSPS UG
+SPSU9SP.L#	FRIDAY	11:05		11:55		1-6, 8-12		C.LTA3		240		43		PAUL DIMEO		SPOSPS UG
+SPSU9SP.L#	MONDAY	12:05		12:55		1-6, 8-12		C.LTA5		92		43		PAUL DIMEO		SPOSPS UG
+spsu9sp.s/01	thursday	09:05		09:55		2, 4, 6, 8, 10-12		c.2w5*		20		18				sposps ug
+spsu9sp.s/02	friday	10:05		10:55		2, 4, 6, 8, 10-12		c.2b74*		26		18				sposps ug
+spsu9sp.s/03	friday	12:05		12:55		2, 4, 6, 8, 10-12		c.2b74*		26		18				sposps ug
+spsu9sp.s/04	friday	14:05		14:55		2, 4, 6, 8, 10-12		c.2b74*		26		18				sposps ug
+spsu9sp.s/05	friday	15:05		15:55		2, 4, 6, 8, 10-12		c.2b74*		26		18				sposps ug
+sssr01.cl#	tuesday	16:05		17:30		3, 5-6, 8-9		c.2b41		16		15		david griffiths		apsspc_pg
+SSSR01.L#	TUESDAY	14:05		15:55		3, 5-6, 8-9		C.2B46		20		15		DAVID GRIFFITHS		APSSPC_PG
+SSSR01.L#	TUESDAY	14:05		17:30		2		C.4W1		20		15		DAVID GRIFFITHS		APSSPC_PG
+SSSR01.L#	TUESDAY	14:05		17:30		10		C.3X11		16		15		DAVID GRIFFITHS		APSSPC_PG
+SWKU911.L#	TUESDAY	09:05		15:55		1		C.3B129*		28		25				APSSWK
+SWKU911.L#	TUESDAY	14:05		15:55		2-6, 8-12		C.2X6		32		30				APSSWK
+swku911.s#	wednesday	10:05		13:55		5		c.2b86		40		30				apsswk
+swku911.s#	wednesday	11:05		12:55		3, 5, 8		c.2b84#		70		30				apsswk
+swku911.s#	wednesday	11:05		12:55		3		c.2b86		40		0				apsswk
+SWKU9IS.L#	TUESDAY	14:05		15:55		1-6, 8-12		C.2B87		48		40				APSSWK
+swku9is.s#	wednesday	11:05		12:55		8, 10		c.2a87		60		40				apsswk
